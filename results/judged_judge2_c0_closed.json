@@ -1,0 +1,852 @@
+{
+  "F01": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The candidate answer correctly states that the poem does not explicitly mention the witch's mother and provides a plausible explanation based on the mythological context.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"The poem does not explicitly state who the witch's mother is.\", \"supported\": true, \"evidence\": []},\n    {\"text\": \"The witch's mother could be associated with figures like Gaia (Earth) or other primordial deities.\", \"supported\": false, \"evidence\": []}\n  ],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The candidate answer correctly states that the poem does not explicitly mention the witch's mother and provides a plausible explanation based on the mythological context.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The poem does not explicitly state who the witch's mother is.",
+          "supported": true,
+          "evidence": []
+        },
+        {
+          "text": "The witch's mother could be associated with figures like Gaia (Earth) or other primordial deities.",
+          "supported": false,
+          "evidence": []
+        }
+      ],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 764,
+      "completion_tokens": 160,
+      "seconds": 2.919718145
+    },
+    "error": null
+  },
+  "F07": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The candidate answer accurately reflects the information provided in the poem, stating that the exact number is not specified.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"The poem does not specify exactly how many times the Mother of the Months had bent her bow before the Witch took shape.\", \"supported\": true, \"evidence\": []}\n  ],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The candidate answer accurately reflects the information provided in the poem, stating that the exact number is not specified.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The poem does not specify exactly how many times the Mother of the Months had bent her bow before the Witch took shape.",
+          "supported": true,
+          "evidence": []
+        }
+      ],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 735,
+      "completion_tokens": 126,
+      "seconds": 2.153930999
+    },
+    "error": null
+  },
+  "F14": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The candidate answer accurately reflects the content of the poem, specifically the offer made by the Ocean-nymphs and Hamadryades to the Witch.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"the Ocean-nymphs and Hamadryades offer to serve the Witch\", \"supported\": true, \"evidence\": [\"P6\"]},\n    {\"text\": \"they propose to give her their 'divinest powers' and 'loveliest forms'\", \"supported\": false, \"evidence\": []}\n  ],\n  \"citation_precision\": 1.0,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The candidate answer accurately reflects the content of the poem, specifically the offer made by the Ocean-nymphs and Hamadryades to the Witch.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "the Ocean-nymphs and Hamadryades offer to serve the Witch",
+          "supported": true,
+          "evidence": [
+            "P6"
+          ]
+        },
+        {
+          "text": "they propose to give her their 'divinest powers' and 'loveliest forms'",
+          "supported": false,
+          "evidence": []
+        }
+      ],
+      "citation_precision": 1.0,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 792,
+      "completion_tokens": 168,
+      "seconds": 2.849825458
+    },
+    "error": null
+  },
+  "F22": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The candidate answer accurately describes the material of the Witch's boat as 'a shell of mother-of-pearl', which matches the gold answer.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"The Witch's boat is made from a shell of mother-of-pearl.\", \"supported\": true, \"evidence\": [\"P6\"]}\n  ],\n  \"citation_precision\": 1.0,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The candidate answer accurately describes the material of the Witch's boat as 'a shell of mother-of-pearl', which matches the gold answer.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The Witch's boat is made from a shell of mother-of-pearl.",
+          "supported": true,
+          "evidence": [
+            "P6"
+          ]
+        }
+      ],
+      "citation_precision": 1.0,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 748,
+      "completion_tokens": 131,
+      "seconds": 2.255381422
+    },
+    "error": null
+  },
+  "F28": {
+    "raw": "{\n  \"correctness\": 1,\n  \"correctness_reason\": \"The candidate answer partially correctly identifies the gift given by the Witch, but incorrectly states it is a laurel wreath.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"the witch offers a gift to the most beautiful mortals\", \"supported\": true, \"evidence\": [\"P1\"]},\n    {\"text\": \"the gift symbolizes eternal beauty and honor\", \"supported\": false, \"evidence\": []},\n    {\"text\": \"the gift is associated with mythological nymphs\", \"supported\": false, \"evidence\": []}\n  ],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 1,
+      "correctness_reason": "The candidate answer partially correctly identifies the gift given by the Witch, but incorrectly states it is a laurel wreath.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "the witch offers a gift to the most beautiful mortals",
+          "supported": true,
+          "evidence": [
+            "P1"
+          ]
+        },
+        {
+          "text": "the gift symbolizes eternal beauty and honor",
+          "supported": false,
+          "evidence": []
+        },
+        {
+          "text": "the gift is associated with mythological nymphs",
+          "supported": false,
+          "evidence": []
+        }
+      ],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 749,
+      "completion_tokens": 171,
+      "seconds": 2.880542573
+    },
+    "error": null
+  },
+  "M01": {
+    "raw": "{\n  \"correctness\": 1,\n  \"correctness_reason\": \"The candidate answer partially captures the connection between Vulcan, Apollo, and the Witch through the boat, but it introduces extra details not present in the gold answer.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"Vulcan made the boat for Venus\", \"supported\": false, \"evidence\": []},\n    {\"text\": \"The boat was sold and bought by Apollo\", \"supported\": true, \"evidence\": [\"P6\"]},\n    {\"text\": \"Apollo gave the boat to the Witch\", \"supported\": true, \"evidence\": [\"P6\"]},\n    {\"text\": \"The boat represents the journey of knowledge and transformation\", \"supported\": false, \"evidence\": []},\n    {\"text\": \"Vulcan is associated with creation and craftsmanship\", \"supported\": false, \"evidence\": []},\n    {\"text\": \"Apollo symbolizes enlightenment and harmony\", \"supported\": false, \"evidence\": []},\n    {\"text\": \"The Witch embodies wisdom and cunning\", \"supported\": false, \"evidence\": []},\n    {\"text\": \"Shelley explores themes of synthesis through the boat\", \"supported\": false, \"evidence\": []}\n  ],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 1,
+      "correctness_reason": "The candidate answer partially captures the connection between Vulcan, Apollo, and the Witch through the boat, but it introduces extra details not present in the gold answer.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "Vulcan made the boat for Venus",
+          "supported": false,
+          "evidence": []
+        },
+        {
+          "text": "The boat was sold and bought by Apollo",
+          "supported": true,
+          "evidence": [
+            "P6"
+          ]
+        },
+        {
+          "text": "Apollo gave the boat to the Witch",
+          "supported": true,
+          "evidence": [
+            "P6"
+          ]
+        },
+        {
+          "text": "The boat represents the journey of knowledge and transformation",
+          "supported": false,
+          "evidence": []
+        },
+        {
+          "text": "Vulcan is associated with creation and craftsmanship",
+          "supported": false,
+          "evidence": []
+        },
+        {
+          "text": "Apollo symbolizes enlightenment and harmony",
+          "supported": false,
+          "evidence": []
+        },
+        {
+          "text": "The Witch embodies wisdom and cunning",
+          "supported": false,
+          "evidence": []
+        },
+        {
+          "text": "Shelley explores themes of synthesis through the boat",
+          "supported": false,
+          "evidence": []
+        }
+      ],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 829,
+      "completion_tokens": 301,
+      "seconds": 5.155378209
+    },
+    "error": null
+  },
+  "M07": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The candidate answer accurately describes the connection between the first-born Love and the Witch's boat, highlighting their shared origin and nature, as well as the symbolic significance of Love's presence on the journey.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"Love is depicted as a child who rides with the Witch on her boat.\", \"supported\": true, \"evidence\": [\"P6\"]},\n    {\"text\": \"The connection between them lies in their shared origin and nature.\", \"supported\": true, \"evidence\": [\"P6\"]},\n    {\"text\": \"Love, being the first-born, symbolizes the primordial force of affection and passion.\", \"supported\": true, \"evidence\": [\"P6\"]},\n    {\"text\": \"The Witch's boat represents the journey through life.\", \"supported\": true, \"evidence\": [\"P6\"]},\n    {\"text\": \"Love is an essential companion on this journey, guiding and enriching the human experience.\", \"supported\": true, \"evidence\": [\"P6\"]},\n    {\"text\": \"This imagery underscores the idea that love is fundamental to human existence and adventure.\", \"supported\": true, \"evidence\": [\"P6\"]}\n  ],\n  \"citation_precision\": 1.0,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The candidate answer accurately describes the connection between the first-born Love and the Witch's boat, highlighting their shared origin and nature, as well as the symbolic significance of Love's presence on the journey.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "Love is depicted as a child who rides with the Witch on her boat.",
+          "supported": true,
+          "evidence": [
+            "P6"
+          ]
+        },
+        {
+          "text": "The connection between them lies in their shared origin and nature.",
+          "supported": true,
+          "evidence": [
+            "P6"
+          ]
+        },
+        {
+          "text": "Love, being the first-born, symbolizes the primordial force of affection and passion.",
+          "supported": true,
+          "evidence": [
+            "P6"
+          ]
+        },
+        {
+          "text": "The Witch's boat represents the journey through life.",
+          "supported": true,
+          "evidence": [
+            "P6"
+          ]
+        },
+        {
+          "text": "Love is an essential companion on this journey, guiding and enriching the human experience.",
+          "supported": true,
+          "evidence": [
+            "P6"
+          ]
+        },
+        {
+          "text": "This imagery underscores the idea that love is fundamental to human existence and adventure.",
+          "supported": true,
+          "evidence": [
+            "P6"
+          ]
+        }
+      ],
+      "citation_precision": 1.0,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 817,
+      "completion_tokens": 307,
+      "seconds": 5.057489741
+    },
+    "error": null
+  },
+  "M14": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The candidate answer accurately describes the connection between the Witch's boat and Venus's chariot, highlighting their shared qualities of swift and effortless movement. It also correctly notes the differences in connotation between the two.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"The Witch's boat can travel through both air and water.\", \"supported\": true, \"evidence\": [\"P6\"]},\n    {\"text\": \"The Witch's boat symbolizes swift and graceful movement.\", \"supported\": true, \"evidence\": [\"P6\"]},\n    {\"text\": \"Venus's chariot is associated with love and beauty.\", \"supported\": true, \"evidence\": [\"P6\"]},\n    {\"text\": \"The Witch's boat carries a more ambiguous and perhaps darker connotation.\", \"supported\": true, \"evidence\": [\"P6\"]}\n  ],\n  \"citation_precision\": 1.0,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The candidate answer accurately describes the connection between the Witch's boat and Venus's chariot, highlighting their shared qualities of swift and effortless movement. It also correctly notes the differences in connotation between the two.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The Witch's boat can travel through both air and water.",
+          "supported": true,
+          "evidence": [
+            "P6"
+          ]
+        },
+        {
+          "text": "The Witch's boat symbolizes swift and graceful movement.",
+          "supported": true,
+          "evidence": [
+            "P6"
+          ]
+        },
+        {
+          "text": "Venus's chariot is associated with love and beauty.",
+          "supported": true,
+          "evidence": [
+            "P6"
+          ]
+        },
+        {
+          "text": "The Witch's boat carries a more ambiguous and perhaps darker connotation.",
+          "supported": true,
+          "evidence": [
+            "P6"
+          ]
+        }
+      ],
+      "citation_precision": 1.0,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 829,
+      "completion_tokens": 233,
+      "seconds": 3.985889733
+    },
+    "error": null
+  },
+  "M21": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The candidate answer accurately describes the Witch's haven as being made of 'living air' and located in the midst of clouds, which matches the gold answer.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"The Witch's haven is made of living air.\", \"supported\": true, \"evidence\": [\"P1\"]},\n    {\"text\": \"The haven is located in the midst of clouds.\", \"supported\": true, \"evidence\": [\"P1\"]}\n  ],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The candidate answer accurately describes the Witch's haven as being made of 'living air' and located in the midst of clouds, which matches the gold answer.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The Witch's haven is made of living air.",
+          "supported": true,
+          "evidence": [
+            "P1"
+          ]
+        },
+        {
+          "text": "The haven is located in the midst of clouds.",
+          "supported": true,
+          "evidence": [
+            "P1"
+          ]
+        }
+      ],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 751,
+      "completion_tokens": 153,
+      "seconds": 2.634061203
+    },
+    "error": null
+  },
+  "M25": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The candidate answer accurately captures the poet's intention to leave the reader with an open-ended sense of mystery and imagination, and correctly identifies the technique used to achieve this effect.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"The poem ends by deferring further tales of the Witch\", \"supported\": true, \"evidence\": []},\n    {\"text\": \"The poet suggests that the Witch's story is vast and complex\", \"supported\": true, \"evidence\": []},\n    {\"text\": \"The approach allows the reader to fill in the gaps with their own interpretations\", \"supported\": true, \"evidence\": []},\n    {\"text\": \"The poem's mystical and enigmatic quality is enhanced by this technique\", \"supported\": true, \"evidence\": []}\n  ],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The candidate answer accurately captures the poet's intention to leave the reader with an open-ended sense of mystery and imagination, and correctly identifies the technique used to achieve this effect.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The poem ends by deferring further tales of the Witch",
+          "supported": true,
+          "evidence": []
+        },
+        {
+          "text": "The poet suggests that the Witch's story is vast and complex",
+          "supported": true,
+          "evidence": []
+        },
+        {
+          "text": "The approach allows the reader to fill in the gaps with their own interpretations",
+          "supported": true,
+          "evidence": []
+        },
+        {
+          "text": "The poem's mystical and enigmatic quality is enhanced by this technique",
+          "supported": true,
+          "evidence": []
+        }
+      ],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 780,
+      "completion_tokens": 217,
+      "seconds": 3.646539876
+    },
+    "error": null
+  },
+  "T01": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The candidate answer accurately captures the Witch's relationship with mortality and immortality, highlighting her detachment, wisdom, and eternal state.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"She is described as having escaped the bounds of time, suggesting an eternal, immortal state.\", \"supported\": true, \"evidence\": [\"P23-P24\"]},\n    {\"text\": \"Her knowledge of the future and the eventual destruction of the world hint at a form of immortality that is not without its end.\", \"supported\": false, \"evidence\": []},\n    {\"text\": \"The Witch's perspective on mortality is one of detachment and wisdom; she has seen the rise and fall of civilizations, which gives her a profound understanding of the transient nature of human existence.\", \"supported\": true, \"evidence\": [\"P63, P68, P71\"]},\n    {\"text\": \"Her own eternal state contrasts with the fleeting lives of mortals, yet she seems to find a kind of fulfillment in this timeless existence, observing the cycles of life without being subject to them.\", \"supported\": true, \"evidence\": [\"P69-P71\"]}\n  ],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The candidate answer accurately captures the Witch's relationship with mortality and immortality, highlighting her detachment, wisdom, and eternal state.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "She is described as having escaped the bounds of time, suggesting an eternal, immortal state.",
+          "supported": true,
+          "evidence": [
+            "P23-P24"
+          ]
+        },
+        {
+          "text": "Her knowledge of the future and the eventual destruction of the world hint at a form of immortality that is not without its end.",
+          "supported": false,
+          "evidence": []
+        },
+        {
+          "text": "The Witch's perspective on mortality is one of detachment and wisdom; she has seen the rise and fall of civilizations, which gives her a profound understanding of the transient nature of human existence.",
+          "supported": true,
+          "evidence": [
+            "P63, P68, P71"
+          ]
+        },
+        {
+          "text": "Her own eternal state contrasts with the fleeting lives of mortals, yet she seems to find a kind of fulfillment in this timeless existence, observing the cycles of life without being subject to them.",
+          "supported": true,
+          "evidence": [
+            "P69-P71"
+          ]
+        }
+      ],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 918,
+      "completion_tokens": 291,
+      "seconds": 4.881624133
+    },
+    "error": null
+  },
+  "T06": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The candidate answer accurately captures the poem's treatment of dreams and sleep, highlighting the witch's loss of power over the realm of dreams due to the invention of clocks and the shift from a natural, cyclical understanding of time to a more structured, mechanical one.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"The Witch of Atlas explores the themes of dreams and sleep through the character of the witch.\", \"supported\": true, \"evidence\": []},\n    {\"text\": \"The witch has lost her dominion over the world of dreams due to the invention of clocks.\", \"supported\": true, \"evidence\": [\"P28\"]},\n    {\"text\": \"The poem suggests that with the advent of timekeeping, the realm of dreams has been disrupted.\", \"supported\": true, \"evidence\": []},\n    {\"text\": \"The witch laments the loss of her power over sleep and dreams.\", \"supported\": true, \"evidence\": [\"P60-P61\"]},\n    {\"text\": \"This change is seen as diminishing the mystical and creative aspects of dreams and sleep.\", \"supported\": true, \"evidence\": [\"P62\"]},\n    {\"text\": \"Shelley thus uses the poem to critique the modern, rationalist approach that diminishes the imaginative and spiritual dimensions of human experience.\", \"supported\": true, \"evidence\": []}\n  ],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The candidate answer accurately captures the poem's treatment of dreams and sleep, highlighting the witch's loss of power over the realm of dreams due to the invention of clocks and the shift from a natural, cyclical understanding of time to a more structured, mechanical one.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The Witch of Atlas explores the themes of dreams and sleep through the character of the witch.",
+          "supported": true,
+          "evidence": []
+        },
+        {
+          "text": "The witch has lost her dominion over the world of dreams due to the invention of clocks.",
+          "supported": true,
+          "evidence": [
+            "P28"
+          ]
+        },
+        {
+          "text": "The poem suggests that with the advent of timekeeping, the realm of dreams has been disrupted.",
+          "supported": true,
+          "evidence": []
+        },
+        {
+          "text": "The witch laments the loss of her power over sleep and dreams.",
+          "supported": true,
+          "evidence": [
+            "P60-P61"
+          ]
+        },
+        {
+          "text": "This change is seen as diminishing the mystical and creative aspects of dreams and sleep.",
+          "supported": true,
+          "evidence": [
+            "P62"
+          ]
+        },
+        {
+          "text": "Shelley thus uses the poem to critique the modern, rationalist approach that diminishes the imaginative and spiritual dimensions of human experience.",
+          "supported": true,
+          "evidence": []
+        }
+      ],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 908,
+      "completion_tokens": 337,
+      "seconds": 5.751680398
+    },
+    "error": null
+  },
+  "T12": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The candidate answer accurately identifies the use of classical mythology in the poem, specifically referencing Atlas and his punishment, and how this mythological element adds depth to the character and explores themes of burden, resistance, and the human condition.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"The poem references the myth of Atlas\", \"supported\": true, \"evidence\": [\"P1\"]},\n    {\"text\": \"The witch is associated with Atlas, embodying both his punishment and his defiance\", \"supported\": true, \"evidence\": [\"P1\"]},\n    {\"text\": \"This mythological element adds depth to the character\", \"supported\": true, \"evidence\": []},\n    {\"text\": \"Shelley uses this classical reference to enhance the poem's exploration of human suffering and the enduring spirit in the face of adversity\", \"supported\": true, \"evidence\": []}\n  ],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The candidate answer accurately identifies the use of classical mythology in the poem, specifically referencing Atlas and his punishment, and how this mythological element adds depth to the character and explores themes of burden, resistance, and the human condition.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The poem references the myth of Atlas",
+          "supported": true,
+          "evidence": [
+            "P1"
+          ]
+        },
+        {
+          "text": "The witch is associated with Atlas, embodying both his punishment and his defiance",
+          "supported": true,
+          "evidence": [
+            "P1"
+          ]
+        },
+        {
+          "text": "This mythological element adds depth to the character",
+          "supported": true,
+          "evidence": []
+        },
+        {
+          "text": "Shelley uses this classical reference to enhance the poem's exploration of human suffering and the enduring spirit in the face of adversity",
+          "supported": true,
+          "evidence": []
+        }
+      ],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 940,
+      "completion_tokens": 240,
+      "seconds": 4.111225442
+    },
+    "error": null
+  },
+  "T19": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The candidate answer accurately captures the role of the veil and concealment in the poem, highlighting both the witch's isolation and her power.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"The veil conceals the witch's true nature and age.\", \"supported\": true, \"evidence\": [\"P13\"]},\n    {\"text\": \"The veil reflects the witch's detachment from the world.\", \"supported\": true, \"evidence\": [\"P13\"]},\n    {\"text\": \"The veil serves as a metaphor for the poet's desire to maintain a certain distance or mystery in his own work.\", \"supported\": false, \"evidence\": []},\n    {\"text\": \"Shelley explores themes of isolation, the passage of time, and the allure of the unknown through these elements.\", \"supported\": true, \"evidence\": [\"P13\", \"P65\", \"P66\"]}\n  ],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The candidate answer accurately captures the role of the veil and concealment in the poem, highlighting both the witch's isolation and her power.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The veil conceals the witch's true nature and age.",
+          "supported": true,
+          "evidence": [
+            "P13"
+          ]
+        },
+        {
+          "text": "The veil reflects the witch's detachment from the world.",
+          "supported": true,
+          "evidence": [
+            "P13"
+          ]
+        },
+        {
+          "text": "The veil serves as a metaphor for the poet's desire to maintain a certain distance or mystery in his own work.",
+          "supported": false,
+          "evidence": []
+        },
+        {
+          "text": "Shelley explores themes of isolation, the passage of time, and the allure of the unknown through these elements.",
+          "supported": true,
+          "evidence": [
+            "P13",
+            "P65",
+            "P66"
+          ]
+        }
+      ],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 904,
+      "completion_tokens": 241,
+      "seconds": 4.108874551
+    },
+    "error": null
+  },
+  "T25": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The candidate answer accurately captures the reflective tone of the ending and its effect on the reader's perspective.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"The final lines echo the narrative perspective from which the story is told.\", \"supported\": true, \"evidence\": []},\n    {\"text\": \"The speaker was an observer of the events described, adding a layer of authenticity to the tale.\", \"supported\": false, \"evidence\": []},\n    {\"text\": \"The encounter with the witch was a significant moment in the speaker's life, perhaps influencing their perspective on time and beauty.\", \"supported\": false, \"evidence\": []},\n    {\"text\": \"This closure brings the reader back to the initial position of the narrator, reinforcing the poem's exploration of transient beauty and the passage of time.\", \"supported\": true, \"evidence\": []}\n  ],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The candidate answer accurately captures the reflective tone of the ending and its effect on the reader's perspective.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The final lines echo the narrative perspective from which the story is told.",
+          "supported": true,
+          "evidence": []
+        },
+        {
+          "text": "The speaker was an observer of the events described, adding a layer of authenticity to the tale.",
+          "supported": false,
+          "evidence": []
+        },
+        {
+          "text": "The encounter with the witch was a significant moment in the speaker's life, perhaps influencing their perspective on time and beauty.",
+          "supported": false,
+          "evidence": []
+        },
+        {
+          "text": "This closure brings the reader back to the initial position of the narrator, reinforcing the poem's exploration of transient beauty and the passage of time.",
+          "supported": true,
+          "evidence": []
+        }
+      ],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 916,
+      "completion_tokens": 234,
+      "seconds": 3.939635368
+    },
+    "error": null
+  },
+  "Q01": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The candidate answer accurately reflects that the poem does not provide a specific sequence or order for the Witch's mother changing form, and instead focuses on the Witch herself.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"The poem does not provide a specific sequence or order for the Witch's mother changing form.\", \"supported\": true, \"evidence\": []},\n    {\"text\": \"The text focuses more on the Witch herself and her interactions with the speaker rather than detailing the transformations of her mother.\", \"supported\": true, \"evidence\": []}\n  ],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The candidate answer accurately reflects that the poem does not provide a specific sequence or order for the Witch's mother changing form, and instead focuses on the Witch herself.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The poem does not provide a specific sequence or order for the Witch's mother changing form.",
+          "supported": true,
+          "evidence": []
+        },
+        {
+          "text": "The text focuses more on the Witch herself and her interactions with the speaker rather than detailing the transformations of her mother.",
+          "supported": true,
+          "evidence": []
+        }
+      ],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 774,
+      "completion_tokens": 170,
+      "seconds": 2.870711577
+    },
+    "error": null
+  },
+  "Q06": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The candidate answer accurately describes the sequence of events in the poem, correctly stating that the Witch calls Hermaphroditus to ascend before the boat descends the cataracts.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"The Witch calls Hermaphroditus to ascend.\", \"supported\": true, \"evidence\": [\"P1\"]},\n    {\"text\": \"After Hermaphroditus ascends, the boat then descends the cataracts.\", \"supported\": true, \"evidence\": [\"P2\"]}\n  ],\n  \"citation_precision\": {\n    \"P1\": 1,\n    \"P2\": 1\n  },\n  \"order_results\": [\n    {\"pair\": [\"Witch calls Hermaphroditus\", \"boat descends cataracts\"], \"result\": \"correct\"}\n  ],\n  \"sequence_correct\": true,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The candidate answer accurately describes the sequence of events in the poem, correctly stating that the Witch calls Hermaphroditus to ascend before the boat descends the cataracts.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The Witch calls Hermaphroditus to ascend.",
+          "supported": true,
+          "evidence": [
+            "P1"
+          ]
+        },
+        {
+          "text": "After Hermaphroditus ascends, the boat then descends the cataracts.",
+          "supported": true,
+          "evidence": [
+            "P2"
+          ]
+        }
+      ],
+      "citation_precision": {
+        "P1": 1,
+        "P2": 1
+      },
+      "order_results": [
+        {
+          "pair": [
+            "Witch calls Hermaphroditus",
+            "boat descends cataracts"
+          ],
+          "result": "correct"
+        }
+      ],
+      "sequence_correct": true,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 799,
+      "completion_tokens": 215,
+      "seconds": 3.637772717
+    },
+    "error": null
+  },
+  "Q12": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The candidate answer accurately describes the sequence of events in the poem, correctly stating that the boat is moored before Hermaphroditus sits at the prow.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"the boat is moored to the fountain before Hermaphroditus sits at the prow\", \"supported\": true, \"evidence\": [\"P1-2\"]},\n    {\"text\": \"this sequence is established in the poem\", \"supported\": true, \"evidence\": [\"P1-2\"]}\n  ],\n  \"citation_precision\": 1.0,\n  \"order_results\": [\n    {\"pair\": [\"boat is moored on fountain\", \"Hermaphroditus sits at prow\"], \"result\": \"correct\"}\n  ],\n  \"sequence_correct\": true,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The candidate answer accurately describes the sequence of events in the poem, correctly stating that the boat is moored before Hermaphroditus sits at the prow.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "the boat is moored to the fountain before Hermaphroditus sits at the prow",
+          "supported": true,
+          "evidence": [
+            "P1-2"
+          ]
+        },
+        {
+          "text": "this sequence is established in the poem",
+          "supported": true,
+          "evidence": [
+            "P1-2"
+          ]
+        }
+      ],
+      "citation_precision": 1.0,
+      "order_results": [
+        {
+          "pair": [
+            "boat is moored on fountain",
+            "Hermaphroditus sits at prow"
+          ],
+          "result": "correct"
+        }
+      ],
+      "sequence_correct": true,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 791,
+      "completion_tokens": 199,
+      "seconds": 3.292038649
+    },
+    "error": null
+  },
+  "Q17": {
+    "raw": "{\n  \"correctness\": 1,\n  \"correctness_reason\": \"The candidate answer partially correctly identifies the order of the Witch's interventions among mortals, but incorrectly states that she encounters a young prince last.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"The Witch appears to a young shepherd.\", \"supported\": true, \"evidence\": []},\n    {\"text\": \"The Witch then visits a young shepherdess.\", \"supported\": true, \"evidence\": []},\n    {\"text\": \"The Witch encounters a young prince.\", \"supported\": false, \"evidence\": []}\n  ],\n  \"citation_precision\": null,\n  \"order_results\": [\n    {\"pair\": [\"young shepherd\", \"young shepherdess\"], \"result\": \"correct\"},\n    {\"pair\": [\"young shepherdess\", \"young prince\"], \"result\": \"wrong\"}\n  ],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 1,
+      "correctness_reason": "The candidate answer partially correctly identifies the order of the Witch's interventions among mortals, but incorrectly states that she encounters a young prince last.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The Witch appears to a young shepherd.",
+          "supported": true,
+          "evidence": []
+        },
+        {
+          "text": "The Witch then visits a young shepherdess.",
+          "supported": true,
+          "evidence": []
+        },
+        {
+          "text": "The Witch encounters a young prince.",
+          "supported": false,
+          "evidence": []
+        }
+      ],
+      "citation_precision": null,
+      "order_results": [
+        {
+          "pair": [
+            "young shepherd",
+            "young shepherdess"
+          ],
+          "result": "correct"
+        },
+        {
+          "pair": [
+            "young shepherdess",
+            "young prince"
+          ],
+          "result": "wrong"
+        }
+      ],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 826,
+      "completion_tokens": 205,
+      "seconds": 3.413443146
+    },
+    "error": null
+  },
+  "Q20": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The candidate answer correctly states that Wordsworth took several years to complete 'Peter Bell' and provides a specific year of publication. It also accurately notes that the poem does not specify how long the Witch took to dress.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"Wordsworth took several years to complete 'Peter Bell'\", \"supported\": true, \"evidence\": []},\n    {\"text\": \"The poem does not specify how long the Witch took to dress\", \"supported\": true, \"evidence\": []}\n  ],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The candidate answer correctly states that Wordsworth took several years to complete 'Peter Bell' and provides a specific year of publication. It also accurately notes that the poem does not specify how long the Witch took to dress.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "Wordsworth took several years to complete 'Peter Bell'",
+          "supported": true,
+          "evidence": []
+        },
+        {
+          "text": "The poem does not specify how long the Witch took to dress",
+          "supported": true,
+          "evidence": []
+        }
+      ],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 750,
+      "completion_tokens": 164,
+      "seconds": 2.726749217
+    },
+    "error": null
+  }
+}

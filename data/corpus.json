@@ -1,0 +1,1178 @@
+{
+  "title": "The Witch of Atlas",
+  "author": "Percy Bysshe Shelley",
+  "source": "Project Gutenberg eBook #4696",
+  "stanzas": [
+    {
+      "source_section": "dedication",
+      "source_label": 1,
+      "text": "How, my dear Mary,--are you critic-bitten\n(For vipers kill, though dead) by some review,\nThat you condemn these verses I have written,\nBecause they tell no story, false or true?\nWhat, though no mice are caught by a young kitten,\nMay it not leap and play as grown cats do,\nTill its claws come? Prithee, for this one time,\nContent thee with a visionary rhyme.",
+      "line_start": 31,
+      "line_end": 38,
+      "id": "D1",
+      "global_index": 1
+    },
+    {
+      "source_section": "dedication",
+      "source_label": 2,
+      "text": "What hand would crush the silken-winged fly,\nThe youngest of inconstant April's minions,\nBecause it cannot climb the purest sky,\nWhere the swan sings, amid the sun's dominions?\nNot thine. Thou knowest 'tis its doom to die,\nWhen Day shall hide within her twilight pinions\nThe lucent eyes, and the eternal smile,\nSerene as thine, which lent it life awhile.",
+      "line_start": 41,
+      "line_end": 48,
+      "id": "D2",
+      "global_index": 2
+    },
+    {
+      "source_section": "dedication",
+      "source_label": 3,
+      "text": "To thy fair feet a winged Vision came,\nWhose date should have been longer than a day,\nAnd o'er thy head did beat its wings for fame,\nAnd in thy sight its fading plumes display;\nThe watery bow burned in the evening flame.\nBut the shower fell, the swift Sun went his way--\nAnd that is dead.--O, let me not believe\nThat anything of mine is fit to live!",
+      "line_start": 51,
+      "line_end": 58,
+      "id": "D3",
+      "global_index": 3
+    },
+    {
+      "source_section": "dedication",
+      "source_label": 4,
+      "text": "Wordsworth informs us he was nineteen years\nConsidering and retouching Peter Bell;\nWatering his laurels with the killing tears\nOf slow, dull care, so that their roots to Hell\nMight pierce, and their wide branches blot the spheres\nOf Heaven, with dewy leaves and flowers; this well\nMay be, for Heaven and Earth conspire to foil\nThe over-busy gardener's blundering toil.",
+      "line_start": 61,
+      "line_end": 68,
+      "id": "D4",
+      "global_index": 4
+    },
+    {
+      "source_section": "dedication",
+      "source_label": 5,
+      "text": "My Witch indeed is not so sweet a creature\nAs Ruth or Lucy, whom his graceful praise\nClothes for our grandsons--but she matches Peter,\nThough he took nineteen years, and she three days\nIn dressing. Light the vest of flowing metre\nShe wears; he, proud as dandy with his stays,\nHas hung upon his wiry limbs a dress\nLike King Lear's 'looped and windowed raggedness.'",
+      "line_start": 71,
+      "line_end": 78,
+      "id": "D5",
+      "global_index": 5
+    },
+    {
+      "source_section": "dedication",
+      "source_label": 6,
+      "text": "If you strip Peter, you will see a fellow\nScorched by Hell's hyperequatorial climate\nInto a kind of a sulphureous yellow:\nA lean mark, hardly fit to fling a rhyme at;\nIn shape a Scaramouch, in hue Othello.\nIf you unveil my Witch, no priest nor primate\nCan shrive you of that sin,--if sin there be\nIn love, when it becomes idolatry.",
+      "line_start": 81,
+      "line_end": 88,
+      "id": "D6",
+      "global_index": 6
+    },
+    {
+      "source_section": "poem",
+      "source_label": 1,
+      "text": "Before those cruel Twins, whom at one birth\nIncestuous Change bore to her father Time,\nError and Truth, had hunted from the Earth\nAll those bright natures which adorned its prime,\nAnd left us nothing to believe in, worth\nThe pains of putting into learned rhyme,\nA lady-witch there lived on Atlas' mountain\nWithin a cavern, by a secret fountain.",
+      "line_start": 94,
+      "line_end": 101,
+      "id": "P1",
+      "global_index": 1001,
+      "narrative_order": 1
+    },
+    {
+      "source_section": "poem",
+      "source_label": 2,
+      "text": "Her mother was one of the Atlantides:\nThe all-beholding Sun had ne'er beholden\nIn his wide voyage o'er continents and seas\nSo fair a creature, as she lay enfolden\nIn the warm shadow of her loveliness;--\nHe kissed her with his beams, and made all golden\nThe chamber of gray rock in which she lay--\nShe, in that dream of joy, dissolved away.",
+      "line_start": 104,
+      "line_end": 111,
+      "id": "P2",
+      "global_index": 1002,
+      "narrative_order": 2
+    },
+    {
+      "source_section": "poem",
+      "source_label": 3,
+      "text": "'Tis said, she first was changed into a vapour,\nAnd then into a cloud, such clouds as flit,\nLike splendour-winged moths about a taper,\nRound the red west when the sun dies in it:\nAnd then into a meteor, such as caper\nOn hill-tops when the moon is in a fit:\nThen, into one of those mysterious stars\nWhich hide themselves between the Earth and Mars.",
+      "line_start": 114,
+      "line_end": 121,
+      "id": "P3",
+      "global_index": 1003,
+      "narrative_order": 3
+    },
+    {
+      "source_section": "poem",
+      "source_label": 4,
+      "text": "Ten times the Mother of the Months had bent\nHer bow beside the folding-star, and bidden\nWith that bright sign the billows to indent\nThe sea-deserted sand--like children chidden,\nAt her command they ever came and went--\nSince in that cave a dewy splendour hidden\nTook shape and motion: with the living form\nOf this embodied Power, the cave grew warm.",
+      "line_start": 124,
+      "line_end": 131,
+      "id": "P4",
+      "global_index": 1004,
+      "narrative_order": 4
+    },
+    {
+      "source_section": "poem",
+      "source_label": 5,
+      "text": "A lovely lady garmented in light\nFrom her own beauty--deep her eyes, as are\nTwo openings of unfathomable night\nSeen through a Temple's cloven roof--her hair\nDark--the dim brain whirls dizzy with delight.\nPicturing her form; her soft smiles shone afar,\nAnd her low voice was heard like love, and drew\nAll living things towards this wonder new.",
+      "line_start": 134,
+      "line_end": 141,
+      "id": "P5",
+      "global_index": 1005,
+      "narrative_order": 5
+    },
+    {
+      "source_section": "poem",
+      "source_label": 6,
+      "text": "And first the spotted cameleopard came,\nAnd then the wise and fearless elephant;\nThen the sly serpent, in the golden flame\nOf his own volumes intervolved;--all gaunt\nAnd sanguine beasts her gentle looks made tame.\nThey drank before her at her sacred fount;\nAnd every beast of beating heart grew bold,\nSuch gentleness and power even to behold.",
+      "line_start": 144,
+      "line_end": 151,
+      "id": "P6",
+      "global_index": 1006,
+      "narrative_order": 6
+    },
+    {
+      "source_section": "poem",
+      "source_label": 7,
+      "text": "The brinded lioness led forth her young,\nThat she might teach them how they should forego\nTheir inborn thirst of death; the pard unstrung\nHis sinews at her feet, and sought to know\nWith looks whose motions spoke without a tongue\nHow he might be as gentle as the doe.\nThe magic circle of her voice and eyes\nAll savage natures did imparadise.",
+      "line_start": 154,
+      "line_end": 161,
+      "id": "P7",
+      "global_index": 1007,
+      "narrative_order": 7
+    },
+    {
+      "source_section": "poem",
+      "source_label": 8,
+      "text": "And old Silenus, shaking a green stick\nOf lilies, and the wood-gods in a crew\nCame, blithe, as in the olive copses thick\nCicadae are, drunk with the noonday dew:\nAnd Dryope and Faunus followed quick,\nTeasing the God to sing them something new;\nTill in this cave they found the lady lone,\nSitting upon a seat of emerald stone.",
+      "line_start": 164,
+      "line_end": 171,
+      "id": "P8",
+      "global_index": 1008,
+      "narrative_order": 8
+    },
+    {
+      "source_section": "poem",
+      "source_label": 9,
+      "text": "And universal Pan, 'tis said, was there,\nAnd though none saw him,--through the adamant\nOf the deep mountains, through the trackless air,\nAnd through those living spirits, like a want,\nHe passed out of his everlasting lair\nWhere the quick heart of the great world doth pant,\nAnd felt that wondrous lady all alone,--\nAnd she felt him, upon her emerald throne.",
+      "line_start": 174,
+      "line_end": 181,
+      "id": "P9",
+      "global_index": 1009,
+      "narrative_order": 9
+    },
+    {
+      "source_section": "poem",
+      "source_label": 10,
+      "text": "And every nymph of stream and spreading tree,\nAnd every shepherdess of Ocean's flocks,\nWho drives her white waves over the green sea,\nAnd Ocean with the brine on his gray locks,\nAnd quaint Priapus with his company,\nAll came, much wondering how the enwombed rocks\nCould have brought forth so beautiful a birth;--\nHer love subdued their wonder and their mirth.",
+      "line_start": 184,
+      "line_end": 191,
+      "id": "P10",
+      "global_index": 1010,
+      "narrative_order": 10
+    },
+    {
+      "source_section": "poem",
+      "source_label": 11,
+      "text": "The herdsmen and the mountain maidens came,\nAnd the rude kings of pastoral Garamant--\nTheir spirits shook within them, as a flame\nStirred by the air under a cavern gaunt:\nPigmies, and Polyphemes, by many a name,\nCentaurs, and Satyrs, and such shapes as haunt\nWet clefts,--and lumps neither alive nor dead,\nDog-headed, bosom-eyed, and bird-footed.",
+      "line_start": 194,
+      "line_end": 201,
+      "id": "P11",
+      "global_index": 1011,
+      "narrative_order": 11
+    },
+    {
+      "source_section": "poem",
+      "source_label": 12,
+      "text": "For she was beautiful--her beauty made\nThe bright world dim, and everything beside\nSeemed like the fleeting image of a shade:\nNo thought of living spirit could abide,\nWhich to her looks had ever been betrayed,\nOn any object in the world so wide,\nOn any hope within the circling skies,\nBut on her form, and in her inmost eyes.",
+      "line_start": 204,
+      "line_end": 211,
+      "id": "P12",
+      "global_index": 1012,
+      "narrative_order": 12
+    },
+    {
+      "source_section": "poem",
+      "source_label": 13,
+      "text": "Which when the lady knew, she took her spindle\nAnd twined three threads of fleecy mist, and three\nLong lines of light, such as the dawn may kindle\nThe clouds and waves and mountains with; and she\nAs many star-beams, ere their lamps could dwindle\nIn the belated moon, wound skilfully;\nAnd with these threads a subtle veil she wove--\nA shadow for the splendour of her love.",
+      "line_start": 214,
+      "line_end": 221,
+      "id": "P13",
+      "global_index": 1013,
+      "narrative_order": 13
+    },
+    {
+      "source_section": "poem",
+      "source_label": 14,
+      "text": "The deep recesses of her odorous dwelling\nWere stored with magic treasures--sounds of air,\nWhich had the power all spirits of compelling,\nFolded in cells of crystal silence there;\nSuch as we hear in youth, and think the feeling\nWill never die--yet ere we are aware,\nThe feeling and the sound are fled and gone,\nAnd the regret they leave remains alone.",
+      "line_start": 224,
+      "line_end": 231,
+      "id": "P14",
+      "global_index": 1014,
+      "narrative_order": 14
+    },
+    {
+      "source_section": "poem",
+      "source_label": 15,
+      "text": "And there lay Visions swift, and sweet, and quaint,\nEach in its thin sheath, like a chrysalis,\nSome eager to burst forth, some weak and faint\nWith the soft burthen of intensest bliss.\nIt was its work to bear to many a saint\nWhose heart adores the shrine which holiest is,\nEven Love's:--and others white, green, gray, and black,\nAnd of all shapes--and each was at her beck.",
+      "line_start": 234,
+      "line_end": 241,
+      "id": "P15",
+      "global_index": 1015,
+      "narrative_order": 15
+    },
+    {
+      "source_section": "poem",
+      "source_label": 16,
+      "text": "And odours in a kind of aviary\nOf ever-blooming Eden-trees she kept,\nClipped in a floating net, a love-sick Fairy\nHad woven from dew-beams while the moon yet slept;\nAs bats at the wired window of a dairy,\nThey beat their vans; and each was an adept,\nWhen loosed and missioned, making wings of winds,\nTo stir sweet thoughts or sad, in destined minds.",
+      "line_start": 244,
+      "line_end": 251,
+      "id": "P16",
+      "global_index": 1016,
+      "narrative_order": 16
+    },
+    {
+      "source_section": "poem",
+      "source_label": 17,
+      "text": "And liquors clear and sweet, whose healthful might\nCould medicine the sick soul to happy sleep,\nAnd change eternal death into a night\nOf glorious dreams--or if eyes needs must weep,\nCould make their tears all wonder and delight,\nShe in her crystal vials did closely keep:\nIf men could drink of those clear vials, 'tis said\nThe living were not envied of the dead.",
+      "line_start": 254,
+      "line_end": 261,
+      "id": "P17",
+      "global_index": 1017,
+      "narrative_order": 17
+    },
+    {
+      "source_section": "poem",
+      "source_label": 18,
+      "text": "Her cave was stored with scrolls of strange device,\nThe works of some Saturnian Archimage,\nWhich taught the expiations at whose price\nMen from the Gods might win that happy age\nToo lightly lost, redeeming native vice;\nAnd which might quench the Earth-consuming rage\nOf gold and blood--till men should live and move\nHarmonious as the sacred stars above;",
+      "line_start": 264,
+      "line_end": 271,
+      "id": "P18",
+      "global_index": 1018,
+      "narrative_order": 18
+    },
+    {
+      "source_section": "poem",
+      "source_label": 19,
+      "text": "And how all things that seem untameable,\nNot to be checked and not to be confined,\nObey the spells of Wisdom's wizard skill;\nTime, earth, and fire--the ocean and the wind,\nAnd all their shapes--and man's imperial will;\nAnd other scrolls whose writings did unbind\nThe inmost lore of Love--let the profane\nTremble to ask what secrets they contain.",
+      "line_start": 274,
+      "line_end": 281,
+      "id": "P19",
+      "global_index": 1019,
+      "narrative_order": 19
+    },
+    {
+      "source_section": "poem",
+      "source_label": 20,
+      "text": "And wondrous works of substances unknown,\nTo which the enchantment of her father's power\nHad changed those ragged blocks of savage stone,\nWere heaped in the recesses of her bower;\nCarved lamps and chalices, and vials which shone\nIn their own golden beams--each like a flower,\nOut of whose depth a fire-fly shakes his light\nUnder a cypress in a starless night.",
+      "line_start": 284,
+      "line_end": 291,
+      "id": "P20",
+      "global_index": 1020,
+      "narrative_order": 20
+    },
+    {
+      "source_section": "poem",
+      "source_label": 21,
+      "text": "At first she lived alone in this wild home,\nAnd her own thoughts were each a minister,\nClothing themselves, or with the ocean foam,\nOr with the wind, or with the speed of fire,\nTo work whatever purposes might come\nInto her mind; such power her mighty Sire\nHad girt them with, whether to fly or run,\nThrough all the regions which he shines upon.",
+      "line_start": 294,
+      "line_end": 301,
+      "id": "P21",
+      "global_index": 1021,
+      "narrative_order": 21
+    },
+    {
+      "source_section": "poem",
+      "source_label": 22,
+      "text": "The Ocean-nymphs and Hamadryades,\nOreads and Naiads, with long weedy locks,\nOffered to do her bidding through the seas,\nUnder the earth, and in the hollow rocks,\nAnd far beneath the matted roots of trees,\nAnd in the gnarled heart of stubborn oaks,\nSo they might live for ever in the light\nOf her sweet presence--each a satellite.",
+      "line_start": 304,
+      "line_end": 311,
+      "id": "P22",
+      "global_index": 1022,
+      "narrative_order": 22
+    },
+    {
+      "source_section": "poem",
+      "source_label": 23,
+      "text": "'This may not be,' the wizard maid replied;\n'The fountains where the Naiades bedew\nTheir shining hair, at length are drained and dried;\nThe solid oaks forget their strength, and strew\nTheir latest leaf upon the mountains wide;\nThe boundless ocean like a drop of dew\nWill be consumed--the stubborn centre must\nBe scattered, like a cloud of summer dust.",
+      "line_start": 314,
+      "line_end": 321,
+      "id": "P23",
+      "global_index": 1023,
+      "narrative_order": 23
+    },
+    {
+      "source_section": "poem",
+      "source_label": 24,
+      "text": "'And ye with them will perish, one by one;--\nIf I must sigh to think that this shall be,\nIf I must weep when the surviving Sun\nShall smile on your decay--oh, ask not me\nTo love you till your little race is run;\nI cannot die as ye must--over me\nYour leaves shall glance--the streams in which ye dwell\nShall be my paths henceforth, and so--farewell!'--",
+      "line_start": 324,
+      "line_end": 331,
+      "id": "P24",
+      "global_index": 1024,
+      "narrative_order": 24
+    },
+    {
+      "source_section": "poem",
+      "source_label": 25,
+      "text": "She spoke and wept:--the dark and azure well\nSparkled beneath the shower of her bright tears,\nAnd every little circlet where they fell\nFlung to the cavern-roof inconstant spheres\nAnd intertangled lines of light:--a knell\nOf sobbing voices came upon her ears\nFrom those departing Forms, o'er the serene\nOf the white streams and of the forest green.",
+      "line_start": 334,
+      "line_end": 341,
+      "id": "P25",
+      "global_index": 1025,
+      "narrative_order": 25
+    },
+    {
+      "source_section": "poem",
+      "source_label": 26,
+      "text": "All day the wizard lady sate aloof,\nSpelling out scrolls of dread antiquity,\nUnder the cavern's fountain-lighted roof;\nOr broidering the pictured poesy\nOf some high tale upon her growing woof,\nWhich the sweet splendour of her smiles could dye\nIn hues outshining heaven--and ever she\nAdded some grace to the wrought poesy.",
+      "line_start": 344,
+      "line_end": 351,
+      "id": "P26",
+      "global_index": 1026,
+      "narrative_order": 26
+    },
+    {
+      "source_section": "poem",
+      "source_label": 27,
+      "text": "While on her hearth lay blazing many a piece\nOf sandal wood, rare gums, and cinnamon;\nMen scarcely know how beautiful fire is--\nEach flame of it is as a precious stone\nDissolved in ever-moving light, and this\nBelongs to each and all who gaze upon.\nThe Witch beheld it not, for in her hand\nShe held a woof that dimmed the burning brand.",
+      "line_start": 354,
+      "line_end": 361,
+      "id": "P27",
+      "global_index": 1027,
+      "narrative_order": 27
+    },
+    {
+      "source_section": "poem",
+      "source_label": 28,
+      "text": "This lady never slept, but lay in trance\nAll night within the fountain--as in sleep.\nIts emerald crags glowed in her beauty's glance;\nThrough the green splendour of the water deep\nShe saw the constellations reel and dance\nLike fire-flies--and withal did ever keep\nThe tenour of her contemplations calm,\nWith open eyes, closed feet, and folded palm.",
+      "line_start": 364,
+      "line_end": 371,
+      "id": "P28",
+      "global_index": 1028,
+      "narrative_order": 28
+    },
+    {
+      "source_section": "poem",
+      "source_label": 29,
+      "text": "And when the whirlwinds and the clouds descended\nFrom the white pinnacles of that cold hill,\nShe passed at dewfall to a space extended,\nWhere in a lawn of flowering asphodel\nAmid a wood of pines and cedars blended,\nThere yawned an inextinguishable well\nOf crimson fire--full even to the brim,\nAnd overflowing all the margin trim.",
+      "line_start": 374,
+      "line_end": 381,
+      "id": "P29",
+      "global_index": 1029,
+      "narrative_order": 29
+    },
+    {
+      "source_section": "poem",
+      "source_label": 30,
+      "text": "Within the which she lay when the fierce war\nOf wintry winds shook that innocuous liquor\nIn many a mimic moon and bearded star\nO'er woods and lawns;--the serpent heard it flicker\nIn sleep, and dreaming still, he crept afar--\nAnd when the windless snow descended thicker\nThan autumn leaves, she watched it as it came\nMelt on the surface of the level flame.",
+      "line_start": 384,
+      "line_end": 391,
+      "id": "P30",
+      "global_index": 1030,
+      "narrative_order": 30
+    },
+    {
+      "source_section": "poem",
+      "source_label": 31,
+      "text": "She had a boat, which some say Vulcan wrought\nFor Venus, as the chariot of her star;\nBut it was found too feeble to be fraught\nWith all the ardours in that sphere which are,\nAnd so she sold it, and Apollo bought\nAnd gave it to this daughter: from a car\nChanged to the fairest and the lightest boat\nWhich ever upon mortal stream did float.",
+      "line_start": 394,
+      "line_end": 401,
+      "id": "P31",
+      "global_index": 1031,
+      "narrative_order": 31
+    },
+    {
+      "source_section": "poem",
+      "source_label": 32,
+      "text": "And others say, that, when but three hours old,\nThe first-born Love out of his cradle lept,\nAnd clove dun Chaos with his wings of gold,\nAnd like a horticultural adept,\nStole a strange seed, and wrapped it up in mould,\nAnd sowed it in his mother's star, and kept\nWatering it all the summer with sweet dew,\nAnd with his wings fanning it as it grew.",
+      "line_start": 404,
+      "line_end": 411,
+      "id": "P32",
+      "global_index": 1032,
+      "narrative_order": 32
+    },
+    {
+      "source_section": "poem",
+      "source_label": 33,
+      "text": "The plant grew strong and green, the snowy flower\nFell, and the long and gourd-like fruit began\nTo turn the light and dew by inward power\nTo its own substance; woven tracery ran\nOf light firm texture, ribbed and branching, o'er\nThe solid rind, like a leaf's veined fan--\nOf which Love scooped this boat--and with soft motion\nPiloted it round the circumfluous ocean.",
+      "line_start": 414,
+      "line_end": 421,
+      "id": "P33",
+      "global_index": 1033,
+      "narrative_order": 33
+    },
+    {
+      "source_section": "poem",
+      "source_label": 34,
+      "text": "This boat she moored upon her fount, and lit\nA living spirit within all its frame,\nBreathing the soul of swiftness into it.\nCouched on the fountain like a panther tame,\nOne of the twain at Evan's feet that sit--\nOr as on Vesta's sceptre a swift flame--\nOr on blind Homer's heart a winged thought,--\nIn joyous expectation lay the boat.",
+      "line_start": 424,
+      "line_end": 431,
+      "id": "P34",
+      "global_index": 1034,
+      "narrative_order": 34
+    },
+    {
+      "source_section": "poem",
+      "source_label": 35,
+      "text": "Then by strange art she kneaded fire and snow\nTogether, tempering the repugnant mass\nWith liquid love--all things together grow\nThrough which the harmony of love can pass;\nAnd a fair Shape out of her hands did flow--\nA living Image, which did far surpass\nIn beauty that bright shape of vital stone\nWhich drew the heart out of Pygmalion.",
+      "line_start": 434,
+      "line_end": 441,
+      "id": "P35",
+      "global_index": 1035,
+      "narrative_order": 35
+    },
+    {
+      "source_section": "poem",
+      "source_label": 36,
+      "text": "A sexless thing it was, and in its growth\nIt seemed to have developed no defect\nOf either sex, yet all the grace of both,--\nIn gentleness and strength its limbs were decked;\nThe bosom swelled lightly with its full youth,\nThe countenance was such as might select\nSome artist that his skill should never die,\nImaging forth such perfect purity.",
+      "line_start": 444,
+      "line_end": 451,
+      "id": "P36",
+      "global_index": 1036,
+      "narrative_order": 36
+    },
+    {
+      "source_section": "poem",
+      "source_label": 37,
+      "text": "From its smooth shoulders hung two rapid wings,\nFit to have borne it to the seventh sphere,\nTipped with the speed of liquid lightenings,\nDyed in the ardours of the atmosphere:\nShe led her creature to the boiling springs\nWhere the light boat was moored, and said: 'Sit here!'\nAnd pointed to the prow, and took her seat\nBeside the rudder, with opposing feet.",
+      "line_start": 454,
+      "line_end": 461,
+      "id": "P37",
+      "global_index": 1037,
+      "narrative_order": 37
+    },
+    {
+      "source_section": "poem",
+      "source_label": 38,
+      "text": "And down the streams which clove those mountains vast,\nAround their inland islets, and amid\nThe panther-peopled forests whose shade cast\nDarkness and odours, and a pleasure hid\nIn melancholy gloom, the pinnace passed;\nBy many a star-surrounded pyramid\nOf icy crag cleaving the purple sky,\nAnd caverns yawning round unfathomably.",
+      "line_start": 464,
+      "line_end": 471,
+      "id": "P38",
+      "global_index": 1038,
+      "narrative_order": 38
+    },
+    {
+      "source_section": "poem",
+      "source_label": 39,
+      "text": "The silver noon into that winding dell,\nWith slanted gleam athwart the forest tops,\nTempered like golden evening, feebly fell;\nA green and glowing light, like that which drops\nFrom folded lilies in which glow-worms dwell,\nWhen Earth over her face Night's mantle wraps;\nBetween the severed mountains lay on high,\nOver the stream, a narrow rift of sky.",
+      "line_start": 474,
+      "line_end": 481,
+      "id": "P39",
+      "global_index": 1039,
+      "narrative_order": 39
+    },
+    {
+      "source_section": "poem",
+      "source_label": 40,
+      "text": "And ever as she went, the Image lay\nWith folded wings and unawakened eyes;\nAnd o'er its gentle countenance did play\nThe busy dreams, as thick as summer flies,\nChasing the rapid smiles that would not stay,\nAnd drinking the warm tears, and the sweet sighs\nInhaling, which, with busy murmur vain,\nThey had aroused from that full heart and brain.",
+      "line_start": 484,
+      "line_end": 491,
+      "id": "P40",
+      "global_index": 1040,
+      "narrative_order": 40
+    },
+    {
+      "source_section": "poem",
+      "source_label": 41,
+      "text": "And ever down the prone vale, like a cloud\nUpon a stream of wind, the pinnace went:\nNow lingering on the pools, in which abode\nThe calm and darkness of the deep content\nIn which they paused; now o'er the shallow road\nOf white and dancing waters, all besprent\nWith sand and polished pebbles:--mortal boat\nIn such a shallow rapid could not float.",
+      "line_start": 494,
+      "line_end": 501,
+      "id": "P41",
+      "global_index": 1041,
+      "narrative_order": 41
+    },
+    {
+      "source_section": "poem",
+      "source_label": 42,
+      "text": "And down the earthquaking cataracts which shiver\nTheir snow-like waters into golden air,\nOr under chasms unfathomable ever\nSepulchre them, till in their rage they tear\nA subterranean portal for the river,\nIt fled--the circling sunbows did upbear\nIts fall down the hoar precipice of spray,\nLighting it far upon its lampless way.",
+      "line_start": 504,
+      "line_end": 511,
+      "id": "P42",
+      "global_index": 1042,
+      "narrative_order": 42
+    },
+    {
+      "source_section": "poem",
+      "source_label": 43,
+      "text": "And when the wizard lady would ascend\nThe labyrinths of some many-winding vale,\nWhich to the inmost mountain upward tend--\nShe called 'Hermaphroditus!'--and the pale\nAnd heavy hue which slumber could extend\nOver its lips and eyes, as on the gale\nA rapid shadow from a slope of grass,\nInto the darkness of the stream did pass.",
+      "line_start": 514,
+      "line_end": 521,
+      "id": "P43",
+      "global_index": 1043,
+      "narrative_order": 43
+    },
+    {
+      "source_section": "poem",
+      "source_label": 44,
+      "text": "And it unfurled its heaven-coloured pinions,\nWith stars of fire spotting the stream below;\nAnd from above into the Sun's dominions\nFlinging a glory, like the golden glow\nIn which Spring clothes her emerald-winged minions,\nAll interwoven with fine feathery snow\nAnd moonlight splendour of intensest rime,\nWith which frost paints the pines in winter time.",
+      "line_start": 524,
+      "line_end": 531,
+      "id": "P44",
+      "global_index": 1044,
+      "narrative_order": 44
+    },
+    {
+      "source_section": "poem",
+      "source_label": 45,
+      "text": "And then it winnowed the Elysian air\nWhich ever hung about that lady bright,\nWith its aethereal vans--and speeding there,\nLike a star up the torrent of the night,\nOr a swift eagle in the morning glare\nBreasting the whirlwind with impetuous flight,\nThe pinnace, oared by those enchanted wings,\nClove the fierce streams towards their upper springs.",
+      "line_start": 534,
+      "line_end": 541,
+      "id": "P45",
+      "global_index": 1045,
+      "narrative_order": 45
+    },
+    {
+      "source_section": "poem",
+      "source_label": 46,
+      "text": "The water flashed, like sunlight by the prow\nOf a noon-wandering meteor flung to Heaven;\nThe still air seemed as if its waves did flow\nIn tempest down the mountains; loosely driven\nThe lady's radiant hair streamed to and fro:\nBeneath, the billows having vainly striven\nIndignant and impetuous, roared to feel\nThe swift and steady motion of the keel.",
+      "line_start": 544,
+      "line_end": 551,
+      "id": "P46",
+      "global_index": 1046,
+      "narrative_order": 46
+    },
+    {
+      "source_section": "poem",
+      "source_label": 47,
+      "text": "Or, when the weary moon was in the wane,\nOr in the noon of interlunar night,\nThe lady-witch in visions could not chain\nHer spirit; but sailed forth under the light\nOf shooting stars, and bade extend amain\nIts storm-outspeeding wings, the Hermaphrodite;\nShe to the Austral waters took her way,\nBeyond the fabulous Thamondocana,--",
+      "line_start": 554,
+      "line_end": 561,
+      "id": "P47",
+      "global_index": 1047,
+      "narrative_order": 47
+    },
+    {
+      "source_section": "poem",
+      "source_label": 48,
+      "text": "Where, like a meadow which no scythe has shaven,\nWhich rain could never bend, or whirl-blast shake,\nWith the Antarctic constellations paven,\nCanopus and his crew, lay the Austral lake--\nThere she would build herself a windless haven\nOut of the clouds whose moving turrets make\nThe bastions of the storm, when through the sky\nThe spirits of the tempest thundered by:",
+      "line_start": 564,
+      "line_end": 571,
+      "id": "P48",
+      "global_index": 1048,
+      "narrative_order": 48
+    },
+    {
+      "source_section": "poem",
+      "source_label": 49,
+      "text": "A haven beneath whose translucent floor\nThe tremulous stars sparkled unfathomably,\nAnd around which the solid vapours hoar,\nBased on the level waters, to the sky\nLifted their dreadful crags, and like a shore\nOf wintry mountains, inaccessibly\nHemmed in with rifts and precipices gray,\nAnd hanging crags, many a cove and bay.",
+      "line_start": 574,
+      "line_end": 581,
+      "id": "P49",
+      "global_index": 1049,
+      "narrative_order": 49
+    },
+    {
+      "source_section": "poem",
+      "source_label": 50,
+      "text": "And whilst the outer lake beneath the lash\nOf the wind's scourge, foamed like a wounded thing,\nAnd the incessant hail with stony clash\nPloughed up the waters, and the flagging wing\nOf the roused cormorant in the lightning flash\nLooked like the wreck of some wind-wandering\nFragment of inky thunder-smoke--this haven\nWas as a gem to copy Heaven engraven,--",
+      "line_start": 584,
+      "line_end": 591,
+      "id": "P50",
+      "global_index": 1050,
+      "narrative_order": 50
+    },
+    {
+      "source_section": "poem",
+      "source_label": 51,
+      "text": "On which that lady played her many pranks,\nCircling the image of a shooting star,\nEven as a tiger on Hydaspes' banks\nOutspeeds the antelopes which speediest are,\nIn her light boat; and many quips and cranks\nShe played upon the water, till the car\nOf the late moon, like a sick matron wan,\nTo journey from the misty east began.",
+      "line_start": 594,
+      "line_end": 601,
+      "id": "P51",
+      "global_index": 1051,
+      "narrative_order": 51
+    },
+    {
+      "source_section": "poem",
+      "source_label": 52,
+      "text": "And then she called out of the hollow turrets\nOf those high clouds, white, golden and vermilion,\nThe armies of her ministering spirits--\nIn mighty legions, million after million,\nThey came, each troop emblazoning its merits\nOn meteor flags; and many a proud pavilion\nOf the intertexture of the atmosphere\nThey pitched upon the plain of the calm mere.",
+      "line_start": 604,
+      "line_end": 611,
+      "id": "P52",
+      "global_index": 1052,
+      "narrative_order": 52
+    },
+    {
+      "source_section": "poem",
+      "source_label": 53,
+      "text": "They framed the imperial tent of their great Queen\nOf woven exhalations, underlaid\nWith lambent lightning-fire, as may be seen\nA dome of thin and open ivory inlaid\nWith crimson silk--cressets from the serene\nHung there, and on the water for her tread\nA tapestry of fleece-like mist was strewn,\nDyed in the beams of the ascending moon.",
+      "line_start": 614,
+      "line_end": 621,
+      "id": "P53",
+      "global_index": 1053,
+      "narrative_order": 53
+    },
+    {
+      "source_section": "poem",
+      "source_label": 54,
+      "text": "And on a throne o'erlaid with starlight, caught\nUpon those wandering isles of aery dew,\nWhich highest shoals of mountain shipwreck not,\nShe sate, and heard all that had happened new\nBetween the earth and moon, since they had brought\nThe last intelligence--and now she grew\nPale as that moon, lost in the watery night--\nAnd now she wept, and now she laughed outright.",
+      "line_start": 624,
+      "line_end": 631,
+      "id": "P54",
+      "global_index": 1054,
+      "narrative_order": 54
+    },
+    {
+      "source_section": "poem",
+      "source_label": 55,
+      "text": "These were tame pleasures; she would often climb\nThe steepest ladder of the crudded rack\nUp to some beaked cape of cloud sublime,\nAnd like Arion on the dolphin's back\nRide singing through the shoreless air;--oft-time\nFollowing the serpent lightning's winding track,\nShe ran upon the platforms of the wind,\nAnd laughed to hear the fire-balls roar behind.",
+      "line_start": 634,
+      "line_end": 641,
+      "id": "P55",
+      "global_index": 1055,
+      "narrative_order": 55
+    },
+    {
+      "source_section": "poem",
+      "source_label": 56,
+      "text": "And sometimes to those streams of upper air\nWhich whirl the earth in its diurnal round,\nShe would ascend, and win the spirits there\nTo let her join their chorus. Mortals found\nThat on those days the sky was calm and fair,\nAnd mystic snatches of harmonious sound\nWandered upon the earth where'er she passed,\nAnd happy thoughts of hope, too sweet to last.",
+      "line_start": 644,
+      "line_end": 651,
+      "id": "P56",
+      "global_index": 1056,
+      "narrative_order": 56
+    },
+    {
+      "source_section": "poem",
+      "source_label": 57,
+      "text": "But her choice sport was, in the hours of sleep,\nTo glide adown old Nilus, where he threads\nEgypt and Aethiopia, from the steep\nOf utmost Axume, until he spreads,\nLike a calm flock of silver-fleeced sheep,\nHis waters on the plain: and crested heads\nOf cities and proud temples gleam amid,\nAnd many a vapour-belted pyramid.",
+      "line_start": 654,
+      "line_end": 661,
+      "id": "P57",
+      "global_index": 1057,
+      "narrative_order": 57
+    },
+    {
+      "source_section": "poem",
+      "source_label": 58,
+      "text": "By Moeris and the Mareotid lakes,\nStrewn with faint blooms like bridal chamber floors,\nWhere naked boys bridling tame water-snakes,\nOr charioteering ghastly alligators,\nHad left on the sweet waters mighty wakes\nOf those huge forms--within the brazen doors\nOf the great Labyrinth slept both boy and beast,\nTired with the pomp of their Osirian feast.",
+      "line_start": 664,
+      "line_end": 671,
+      "id": "P58",
+      "global_index": 1058,
+      "narrative_order": 58
+    },
+    {
+      "source_section": "poem",
+      "source_label": 59,
+      "text": "And where within the surface of the river\nThe shadows of the massy temples lie,\nAnd never are erased--but tremble ever\nLike things which every cloud can doom to die,\nThrough lotus-paven canals, and wheresoever\nThe works of man pierced that serenest sky\nWith tombs, and towers, and fanes, 'twas her delight\nTo wander in the shadow of the night.",
+      "line_start": 674,
+      "line_end": 681,
+      "id": "P59",
+      "global_index": 1059,
+      "narrative_order": 59
+    },
+    {
+      "source_section": "poem",
+      "source_label": 60,
+      "text": "With motion like the spirit of that wind\nWhose soft step deepens slumber, her light feet\nPassed through the peopled haunts of humankind.\nScattering sweet visions from her presence sweet,\nThrough fane, and palace-court, and labyrinth mined\nWith many a dark and subterranean street\nUnder the Nile, through chambers high and deep\nShe passed, observing mortals in their sleep.",
+      "line_start": 684,
+      "line_end": 691,
+      "id": "P60",
+      "global_index": 1060,
+      "narrative_order": 60
+    },
+    {
+      "source_section": "poem",
+      "source_label": 61,
+      "text": "A pleasure sweet doubtless it was to see\nMortals subdued in all the shapes of sleep.\nHere lay two sister twins in infancy;\nThere, a lone youth who in his dreams did weep;\nWithin, two lovers linked innocently\nIn their loose locks which over both did creep\nLike ivy from one stem;--and there lay calm\nOld age with snow-bright hair and folded palm.",
+      "line_start": 694,
+      "line_end": 701,
+      "id": "P61",
+      "global_index": 1061,
+      "narrative_order": 61
+    },
+    {
+      "source_section": "poem",
+      "source_label": 62,
+      "text": "But other troubled forms of sleep she saw,\nNot to be mirrored in a holy song--\nDistortions foul of supernatural awe,\nAnd pale imaginings of visioned wrong;\nAnd all the code of Custom's lawless law\nWritten upon the brows of old and young:\n'This,' said the wizard maiden, 'is the strife\nWhich stirs the liquid surface of man's life.'",
+      "line_start": 704,
+      "line_end": 711,
+      "id": "P62",
+      "global_index": 1062,
+      "narrative_order": 62
+    },
+    {
+      "source_section": "poem",
+      "source_label": 63,
+      "text": "And little did the sight disturb her soul.--\nWe, the weak mariners of that wide lake\nWhere'er its shores extend or billows roll,\nOur course unpiloted and starless make\nO'er its wild surface to an unknown goal:--\nBut she in the calm depths her way could take,\nWhere in bright bowers immortal forms abide\nBeneath the weltering of the restless tide.",
+      "line_start": 714,
+      "line_end": 721,
+      "id": "P63",
+      "global_index": 1063,
+      "narrative_order": 63
+    },
+    {
+      "source_section": "poem",
+      "source_label": 64,
+      "text": "And she saw princes couched under the glow\nOf sunlike gems; and round each temple-court\nIn dormitories ranged, row after row,\nShe saw the priests asleep--all of one sort--\nFor all were educated to be so.--\nThe peasants in their huts, and in the port\nThe sailors she saw cradled on the waves,\nAnd the dead lulled within their dreamless graves.",
+      "line_start": 724,
+      "line_end": 731,
+      "id": "P64",
+      "global_index": 1064,
+      "narrative_order": 64
+    },
+    {
+      "source_section": "poem",
+      "source_label": 65,
+      "text": "And all the forms in which those spirits lay\nWere to her sight like the diaphanous\nVeils, in which those sweet ladies oft array\nTheir delicate limbs, who would conceal from us\nOnly their scorn of all concealment: they\nMove in the light of their own beauty thus.\nBut these and all now lay with sleep upon them,\nAnd little thought a Witch was looking on them.",
+      "line_start": 734,
+      "line_end": 741,
+      "id": "P65",
+      "global_index": 1065,
+      "narrative_order": 65
+    },
+    {
+      "source_section": "poem",
+      "source_label": 66,
+      "text": "She, all those human figures breathing there,\nBeheld as living spirits--to her eyes\nThe naked beauty of the soul lay bare,\nAnd often through a rude and worn disguise\nShe saw the inner form most bright and fair--\nAnd then she had a charm of strange device,\nWhich, murmured on mute lips with tender tone,\nCould make that spirit mingle with her own.",
+      "line_start": 744,
+      "line_end": 751,
+      "id": "P66",
+      "global_index": 1066,
+      "narrative_order": 66
+    },
+    {
+      "source_section": "poem",
+      "source_label": 67,
+      "text": "Alas! Aurora, what wouldst thou have given\nFor such a charm when Tithon became gray?\nOr how much, Venus, of thy silver heaven\nWouldst thou have yielded, ere Proserpina\nHad half (oh! why not all?) the debt forgiven\nWhich dear Adonis had been doomed to pay,\nTo any witch who would have taught you it?\nThe Heliad doth not know its value yet.",
+      "line_start": 754,
+      "line_end": 761,
+      "id": "P67",
+      "global_index": 1067,
+      "narrative_order": 67
+    },
+    {
+      "source_section": "poem",
+      "source_label": 68,
+      "text": "'Tis said in after times her spirit free\nKnew what love was, and felt itself alone--\nBut holy Dian could not chaster be\nBefore she stooped to kiss Endymion,\nThan now this lady--like a sexless bee\nTasting all blossoms, and confined to none,\nAmong those mortal forms, the wizard-maiden\nPassed with an eye serene and heart unladen.",
+      "line_start": 764,
+      "line_end": 771,
+      "id": "P68",
+      "global_index": 1068,
+      "narrative_order": 68
+    },
+    {
+      "source_section": "poem",
+      "source_label": 69,
+      "text": "To those she saw most beautiful, she gave\nStrange panacea in a crystal bowl:--\nThey drank in their deep sleep of that sweet wave,\nAnd lived thenceforward as if some control,\nMightier than life, were in them; and the grave\nOf such, when death oppressed the weary soul,\nWas as a green and overarching bower\nLit by the gems of many a starry flower.",
+      "line_start": 774,
+      "line_end": 781,
+      "id": "P69",
+      "global_index": 1069,
+      "narrative_order": 69
+    },
+    {
+      "source_section": "poem",
+      "source_label": 70,
+      "text": "For on the night when they were buried, she\nRestored the embalmers' ruining, and shook\nThe light out of the funeral lamps, to be\nA mimic day within that deathy nook;\nAnd she unwound the woven imagery\nOf second childhood's swaddling bands, and took\nThe coffin, its last cradle, from its niche,\nAnd threw it with contempt into a ditch.",
+      "line_start": 784,
+      "line_end": 791,
+      "id": "P70",
+      "global_index": 1070,
+      "narrative_order": 70
+    },
+    {
+      "source_section": "poem",
+      "source_label": 71,
+      "text": "And there the body lay, age after age.\nMute, breathing, beating, warm, and undecaying,\nLike one asleep in a green hermitage,\nWith gentle smiles about its eyelids playing,\nAnd living in its dreams beyond the rage\nOf death or life; while they were still arraying\nIn liveries ever new, the rapid, blind\nAnd fleeting generations of mankind.",
+      "line_start": 794,
+      "line_end": 801,
+      "id": "P71",
+      "global_index": 1071,
+      "narrative_order": 71
+    },
+    {
+      "source_section": "poem",
+      "source_label": 72,
+      "text": "And she would write strange dreams upon the brain\nOf those who were less beautiful, and make\nAll harsh and crooked purposes more vain\nThan in the desert is the serpent's wake\nWhich the sand covers--all his evil gain\nThe miser in such dreams would rise and shake\nInto a beggar's lap;--the lying scribe\nWould his own lies betray without a bribe.",
+      "line_start": 804,
+      "line_end": 811,
+      "id": "P72",
+      "global_index": 1072,
+      "narrative_order": 72
+    },
+    {
+      "source_section": "poem",
+      "source_label": 73,
+      "text": "The priests would write an explanation full,\nTranslating hieroglyphics into Greek,\nHow the God Apis really was a bull,\nAnd nothing more; and bid the herald stick\nThe same against the temple doors, and pull\nThe old cant down; they licensed all to speak\nWhate'er they thought of hawks, and cats, and geese,\nBy pastoral letters to each diocese.",
+      "line_start": 814,
+      "line_end": 821,
+      "id": "P73",
+      "global_index": 1073,
+      "narrative_order": 73
+    },
+    {
+      "source_section": "poem",
+      "source_label": 74,
+      "text": "The king would dress an ape up in his crown\nAnd robes, and seat him on his glorious seat,\nAnd on the right hand of the sunlike throne\nWould place a gaudy mock-bird to repeat\nThe chatterings of the monkey.--Every one\nOf the prone courtiers crawled to kiss the feet\nOf their great Emperor, when the morning came,\nAnd kissed--alas, how many kiss the same!",
+      "line_start": 824,
+      "line_end": 831,
+      "id": "P74",
+      "global_index": 1074,
+      "narrative_order": 74
+    },
+    {
+      "source_section": "poem",
+      "source_label": 75,
+      "text": "The soldiers dreamed that they were blacksmiths, and\nWalked out of quarters in somnambulism;\nRound the red anvils you might see them stand\nLike Cyclopses in Vulcan's sooty abysm,\nBeating their swords to ploughshares;--in a band\nThe gaolers sent those of the liberal schism\nFree through the streets of Memphis, much, I wis,\nTo the annoyance of king Amasis.",
+      "line_start": 834,
+      "line_end": 841,
+      "id": "P75",
+      "global_index": 1075,
+      "narrative_order": 75
+    },
+    {
+      "source_section": "poem",
+      "source_label": 76,
+      "text": "And timid lovers who had been so coy,\nThey hardly knew whether they loved or not,\nWould rise out of their rest, and take sweet joy,\nTo the fulfilment of their inmost thought;\nAnd when next day the maiden and the boy\nMet one another, both, like sinners caught,\nBlushed at the thing which each believed was done\nOnly in fancy--till the tenth moon shone;",
+      "line_start": 844,
+      "line_end": 851,
+      "id": "P76",
+      "global_index": 1076,
+      "narrative_order": 76
+    },
+    {
+      "source_section": "poem",
+      "source_label": 77,
+      "text": "And then the Witch would let them take no ill:\nOf many thousand schemes which lovers find,\nThe Witch found one,--and so they took their fill\nOf happiness in marriage warm and kind.\nFriends who, by practice of some envious skill,\nWere torn apart--a wide wound, mind from mind!--\nShe did unite again with visions clear\nOf deep affection and of truth sincere.",
+      "line_start": 854,
+      "line_end": 861,
+      "id": "P77",
+      "global_index": 1077,
+      "narrative_order": 77
+    },
+    {
+      "source_section": "poem",
+      "source_label": 80,
+      "text": "These were the pranks she played among the cities\nOf mortal men, and what she did to Sprites\nAnd Gods, entangling them in her sweet ditties\nTo do her will, and show their subtle sleights,\nI will declare another time; for it is\nA tale more fit for the weird winter nights\nThan for these garish summer days, when we\nScarcely believe much more than we can see.",
+      "line_start": 864,
+      "line_end": 871,
+      "id": "P78",
+      "global_index": 1078,
+      "narrative_order": 78
+    }
+  ],
+  "chunks": [
+    {
+      "id": "chunk-000",
+      "stanza_ids": [
+        "D1",
+        "D2",
+        "D3",
+        "D4"
+      ],
+      "text": "[D1]\nHow, my dear Mary,--are you critic-bitten\n(For vipers kill, though dead) by some review,\nThat you condemn these verses I have written,\nBecause they tell no story, false or true?\nWhat, though no mice are caught by a young kitten,\nMay it not leap and play as grown cats do,\nTill its claws come? Prithee, for this one time,\nContent thee with a visionary rhyme.\n\n[D2]\nWhat hand would crush the silken-winged fly,\nThe youngest of inconstant April's minions,\nBecause it cannot climb the purest sky,\nWhere the swan sings, amid the sun's dominions?\nNot thine. Thou knowest 'tis its doom to die,\nWhen Day shall hide within her twilight pinions\nThe lucent eyes, and the eternal smile,\nSerene as thine, which lent it life awhile.\n\n[D3]\nTo thy fair feet a winged Vision came,\nWhose date should have been longer than a day,\nAnd o'er thy head did beat its wings for fame,\nAnd in thy sight its fading plumes display;\nThe watery bow burned in the evening flame.\nBut the shower fell, the swift Sun went his way--\nAnd that is dead.--O, let me not believe\nThat anything of mine is fit to live!\n\n[D4]\nWordsworth informs us he was nineteen years\nConsidering and retouching Peter Bell;\nWatering his laurels with the killing tears\nOf slow, dull care, so that their roots to Hell\nMight pierce, and their wide branches blot the spheres\nOf Heaven, with dewy leaves and flowers; this well\nMay be, for Heaven and Earth conspire to foil\nThe over-busy gardener's blundering toil.",
+      "char_count": 1454,
+      "token_estimate": 363
+    },
+    {
+      "id": "chunk-001",
+      "stanza_ids": [
+        "D4",
+        "D5",
+        "D6",
+        "P1"
+      ],
+      "text": "[D4]\nWordsworth informs us he was nineteen years\nConsidering and retouching Peter Bell;\nWatering his laurels with the killing tears\nOf slow, dull care, so that their roots to Hell\nMight pierce, and their wide branches blot the spheres\nOf Heaven, with dewy leaves and flowers; this well\nMay be, for Heaven and Earth conspire to foil\nThe over-busy gardener's blundering toil.\n\n[D5]\nMy Witch indeed is not so sweet a creature\nAs Ruth or Lucy, whom his graceful praise\nClothes for our grandsons--but she matches Peter,\nThough he took nineteen years, and she three days\nIn dressing. Light the vest of flowing metre\nShe wears; he, proud as dandy with his stays,\nHas hung upon his wiry limbs a dress\nLike King Lear's 'looped and windowed raggedness.'\n\n[D6]\nIf you strip Peter, you will see a fellow\nScorched by Hell's hyperequatorial climate\nInto a kind of a sulphureous yellow:\nA lean mark, hardly fit to fling a rhyme at;\nIn shape a Scaramouch, in hue Othello.\nIf you unveil my Witch, no priest nor primate\nCan shrive you of that sin,--if sin there be\nIn love, when it becomes idolatry.\n\n[P1]\nBefore those cruel Twins, whom at one birth\nIncestuous Change bore to her father Time,\nError and Truth, had hunted from the Earth\nAll those bright natures which adorned its prime,\nAnd left us nothing to believe in, worth\nThe pains of putting into learned rhyme,\nA lady-witch there lived on Atlas' mountain\nWithin a cavern, by a secret fountain.",
+      "char_count": 1432,
+      "token_estimate": 358
+    },
+    {
+      "id": "chunk-002",
+      "stanza_ids": [
+        "P1",
+        "P2",
+        "P3",
+        "P4"
+      ],
+      "text": "[P1]\nBefore those cruel Twins, whom at one birth\nIncestuous Change bore to her father Time,\nError and Truth, had hunted from the Earth\nAll those bright natures which adorned its prime,\nAnd left us nothing to believe in, worth\nThe pains of putting into learned rhyme,\nA lady-witch there lived on Atlas' mountain\nWithin a cavern, by a secret fountain.\n\n[P2]\nHer mother was one of the Atlantides:\nThe all-beholding Sun had ne'er beholden\nIn his wide voyage o'er continents and seas\nSo fair a creature, as she lay enfolden\nIn the warm shadow of her loveliness;--\nHe kissed her with his beams, and made all golden\nThe chamber of gray rock in which she lay--\nShe, in that dream of joy, dissolved away.\n\n[P3]\n'Tis said, she first was changed into a vapour,\nAnd then into a cloud, such clouds as flit,\nLike splendour-winged moths about a taper,\nRound the red west when the sun dies in it:\nAnd then into a meteor, such as caper\nOn hill-tops when the moon is in a fit:\nThen, into one of those mysterious stars\nWhich hide themselves between the Earth and Mars.\n\n[P4]\nTen times the Mother of the Months had bent\nHer bow beside the folding-star, and bidden\nWith that bright sign the billows to indent\nThe sea-deserted sand--like children chidden,\nAt her command they ever came and went--\nSince in that cave a dewy splendour hidden\nTook shape and motion: with the living form\nOf this embodied Power, the cave grew warm.",
+      "char_count": 1405,
+      "token_estimate": 351
+    },
+    {
+      "id": "chunk-003",
+      "stanza_ids": [
+        "P4",
+        "P5",
+        "P6",
+        "P7"
+      ],
+      "text": "[P4]\nTen times the Mother of the Months had bent\nHer bow beside the folding-star, and bidden\nWith that bright sign the billows to indent\nThe sea-deserted sand--like children chidden,\nAt her command they ever came and went--\nSince in that cave a dewy splendour hidden\nTook shape and motion: with the living form\nOf this embodied Power, the cave grew warm.\n\n[P5]\nA lovely lady garmented in light\nFrom her own beauty--deep her eyes, as are\nTwo openings of unfathomable night\nSeen through a Temple's cloven roof--her hair\nDark--the dim brain whirls dizzy with delight.\nPicturing her form; her soft smiles shone afar,\nAnd her low voice was heard like love, and drew\nAll living things towards this wonder new.\n\n[P6]\nAnd first the spotted cameleopard came,\nAnd then the wise and fearless elephant;\nThen the sly serpent, in the golden flame\nOf his own volumes intervolved;--all gaunt\nAnd sanguine beasts her gentle looks made tame.\nThey drank before her at her sacred fount;\nAnd every beast of beating heart grew bold,\nSuch gentleness and power even to behold.\n\n[P7]\nThe brinded lioness led forth her young,\nThat she might teach them how they should forego\nTheir inborn thirst of death; the pard unstrung\nHis sinews at her feet, and sought to know\nWith looks whose motions spoke without a tongue\nHow he might be as gentle as the doe.\nThe magic circle of her voice and eyes\nAll savage natures did imparadise.",
+      "char_count": 1399,
+      "token_estimate": 349
+    },
+    {
+      "id": "chunk-004",
+      "stanza_ids": [
+        "P7",
+        "P8",
+        "P9",
+        "P10"
+      ],
+      "text": "[P7]\nThe brinded lioness led forth her young,\nThat she might teach them how they should forego\nTheir inborn thirst of death; the pard unstrung\nHis sinews at her feet, and sought to know\nWith looks whose motions spoke without a tongue\nHow he might be as gentle as the doe.\nThe magic circle of her voice and eyes\nAll savage natures did imparadise.\n\n[P8]\nAnd old Silenus, shaking a green stick\nOf lilies, and the wood-gods in a crew\nCame, blithe, as in the olive copses thick\nCicadae are, drunk with the noonday dew:\nAnd Dryope and Faunus followed quick,\nTeasing the God to sing them something new;\nTill in this cave they found the lady lone,\nSitting upon a seat of emerald stone.\n\n[P9]\nAnd universal Pan, 'tis said, was there,\nAnd though none saw him,--through the adamant\nOf the deep mountains, through the trackless air,\nAnd through those living spirits, like a want,\nHe passed out of his everlasting lair\nWhere the quick heart of the great world doth pant,\nAnd felt that wondrous lady all alone,--\nAnd she felt him, upon her emerald throne.\n\n[P10]\nAnd every nymph of stream and spreading tree,\nAnd every shepherdess of Ocean's flocks,\nWho drives her white waves over the green sea,\nAnd Ocean with the brine on his gray locks,\nAnd quaint Priapus with his company,\nAll came, much wondering how the enwombed rocks\nCould have brought forth so beautiful a birth;--\nHer love subdued their wonder and their mirth.",
+      "char_count": 1407,
+      "token_estimate": 351
+    },
+    {
+      "id": "chunk-005",
+      "stanza_ids": [
+        "P10",
+        "P11",
+        "P12",
+        "P13"
+      ],
+      "text": "[P10]\nAnd every nymph of stream and spreading tree,\nAnd every shepherdess of Ocean's flocks,\nWho drives her white waves over the green sea,\nAnd Ocean with the brine on his gray locks,\nAnd quaint Priapus with his company,\nAll came, much wondering how the enwombed rocks\nCould have brought forth so beautiful a birth;--\nHer love subdued their wonder and their mirth.\n\n[P11]\nThe herdsmen and the mountain maidens came,\nAnd the rude kings of pastoral Garamant--\nTheir spirits shook within them, as a flame\nStirred by the air under a cavern gaunt:\nPigmies, and Polyphemes, by many a name,\nCentaurs, and Satyrs, and such shapes as haunt\nWet clefts,--and lumps neither alive nor dead,\nDog-headed, bosom-eyed, and bird-footed.\n\n[P12]\nFor she was beautiful--her beauty made\nThe bright world dim, and everything beside\nSeemed like the fleeting image of a shade:\nNo thought of living spirit could abide,\nWhich to her looks had ever been betrayed,\nOn any object in the world so wide,\nOn any hope within the circling skies,\nBut on her form, and in her inmost eyes.\n\n[P13]\nWhich when the lady knew, she took her spindle\nAnd twined three threads of fleecy mist, and three\nLong lines of light, such as the dawn may kindle\nThe clouds and waves and mountains with; and she\nAs many star-beams, ere their lamps could dwindle\nIn the belated moon, wound skilfully;\nAnd with these threads a subtle veil she wove--\nA shadow for the splendour of her love.",
+      "char_count": 1430,
+      "token_estimate": 357
+    },
+    {
+      "id": "chunk-006",
+      "stanza_ids": [
+        "P13",
+        "P14",
+        "P15",
+        "P16"
+      ],
+      "text": "[P13]\nWhich when the lady knew, she took her spindle\nAnd twined three threads of fleecy mist, and three\nLong lines of light, such as the dawn may kindle\nThe clouds and waves and mountains with; and she\nAs many star-beams, ere their lamps could dwindle\nIn the belated moon, wound skilfully;\nAnd with these threads a subtle veil she wove--\nA shadow for the splendour of her love.\n\n[P14]\nThe deep recesses of her odorous dwelling\nWere stored with magic treasures--sounds of air,\nWhich had the power all spirits of compelling,\nFolded in cells of crystal silence there;\nSuch as we hear in youth, and think the feeling\nWill never die--yet ere we are aware,\nThe feeling and the sound are fled and gone,\nAnd the regret they leave remains alone.\n\n[P15]\nAnd there lay Visions swift, and sweet, and quaint,\nEach in its thin sheath, like a chrysalis,\nSome eager to burst forth, some weak and faint\nWith the soft burthen of intensest bliss.\nIt was its work to bear to many a saint\nWhose heart adores the shrine which holiest is,\nEven Love's:--and others white, green, gray, and black,\nAnd of all shapes--and each was at her beck.\n\n[P16]\nAnd odours in a kind of aviary\nOf ever-blooming Eden-trees she kept,\nClipped in a floating net, a love-sick Fairy\nHad woven from dew-beams while the moon yet slept;\nAs bats at the wired window of a dairy,\nThey beat their vans; and each was an adept,\nWhen loosed and missioned, making wings of winds,\nTo stir sweet thoughts or sad, in destined minds.",
+      "char_count": 1473,
+      "token_estimate": 368
+    },
+    {
+      "id": "chunk-007",
+      "stanza_ids": [
+        "P16",
+        "P17",
+        "P18",
+        "P19"
+      ],
+      "text": "[P16]\nAnd odours in a kind of aviary\nOf ever-blooming Eden-trees she kept,\nClipped in a floating net, a love-sick Fairy\nHad woven from dew-beams while the moon yet slept;\nAs bats at the wired window of a dairy,\nThey beat their vans; and each was an adept,\nWhen loosed and missioned, making wings of winds,\nTo stir sweet thoughts or sad, in destined minds.\n\n[P17]\nAnd liquors clear and sweet, whose healthful might\nCould medicine the sick soul to happy sleep,\nAnd change eternal death into a night\nOf glorious dreams--or if eyes needs must weep,\nCould make their tears all wonder and delight,\nShe in her crystal vials did closely keep:\nIf men could drink of those clear vials, 'tis said\nThe living were not envied of the dead.\n\n[P18]\nHer cave was stored with scrolls of strange device,\nThe works of some Saturnian Archimage,\nWhich taught the expiations at whose price\nMen from the Gods might win that happy age\nToo lightly lost, redeeming native vice;\nAnd which might quench the Earth-consuming rage\nOf gold and blood--till men should live and move\nHarmonious as the sacred stars above;\n\n[P19]\nAnd how all things that seem untameable,\nNot to be checked and not to be confined,\nObey the spells of Wisdom's wizard skill;\nTime, earth, and fire--the ocean and the wind,\nAnd all their shapes--and man's imperial will;\nAnd other scrolls whose writings did unbind\nThe inmost lore of Love--let the profane\nTremble to ask what secrets they contain.",
+      "char_count": 1438,
+      "token_estimate": 359
+    },
+    {
+      "id": "chunk-008",
+      "stanza_ids": [
+        "P19",
+        "P20",
+        "P21",
+        "P22"
+      ],
+      "text": "[P19]\nAnd how all things that seem untameable,\nNot to be checked and not to be confined,\nObey the spells of Wisdom's wizard skill;\nTime, earth, and fire--the ocean and the wind,\nAnd all their shapes--and man's imperial will;\nAnd other scrolls whose writings did unbind\nThe inmost lore of Love--let the profane\nTremble to ask what secrets they contain.\n\n[P20]\nAnd wondrous works of substances unknown,\nTo which the enchantment of her father's power\nHad changed those ragged blocks of savage stone,\nWere heaped in the recesses of her bower;\nCarved lamps and chalices, and vials which shone\nIn their own golden beams--each like a flower,\nOut of whose depth a fire-fly shakes his light\nUnder a cypress in a starless night.\n\n[P21]\nAt first she lived alone in this wild home,\nAnd her own thoughts were each a minister,\nClothing themselves, or with the ocean foam,\nOr with the wind, or with the speed of fire,\nTo work whatever purposes might come\nInto her mind; such power her mighty Sire\nHad girt them with, whether to fly or run,\nThrough all the regions which he shines upon.\n\n[P22]\nThe Ocean-nymphs and Hamadryades,\nOreads and Naiads, with long weedy locks,\nOffered to do her bidding through the seas,\nUnder the earth, and in the hollow rocks,\nAnd far beneath the matted roots of trees,\nAnd in the gnarled heart of stubborn oaks,\nSo they might live for ever in the light\nOf her sweet presence--each a satellite.",
+      "char_count": 1407,
+      "token_estimate": 351
+    },
+    {
+      "id": "chunk-009",
+      "stanza_ids": [
+        "P22",
+        "P23",
+        "P24",
+        "P25"
+      ],
+      "text": "[P22]\nThe Ocean-nymphs and Hamadryades,\nOreads and Naiads, with long weedy locks,\nOffered to do her bidding through the seas,\nUnder the earth, and in the hollow rocks,\nAnd far beneath the matted roots of trees,\nAnd in the gnarled heart of stubborn oaks,\nSo they might live for ever in the light\nOf her sweet presence--each a satellite.\n\n[P23]\n'This may not be,' the wizard maid replied;\n'The fountains where the Naiades bedew\nTheir shining hair, at length are drained and dried;\nThe solid oaks forget their strength, and strew\nTheir latest leaf upon the mountains wide;\nThe boundless ocean like a drop of dew\nWill be consumed--the stubborn centre must\nBe scattered, like a cloud of summer dust.\n\n[P24]\n'And ye with them will perish, one by one;--\nIf I must sigh to think that this shall be,\nIf I must weep when the surviving Sun\nShall smile on your decay--oh, ask not me\nTo love you till your little race is run;\nI cannot die as ye must--over me\nYour leaves shall glance--the streams in which ye dwell\nShall be my paths henceforth, and so--farewell!'--\n\n[P25]\nShe spoke and wept:--the dark and azure well\nSparkled beneath the shower of her bright tears,\nAnd every little circlet where they fell\nFlung to the cavern-roof inconstant spheres\nAnd intertangled lines of light:--a knell\nOf sobbing voices came upon her ears\nFrom those departing Forms, o'er the serene\nOf the white streams and of the forest green.",
+      "char_count": 1407,
+      "token_estimate": 351
+    },
+    {
+      "id": "chunk-010",
+      "stanza_ids": [
+        "P25",
+        "P26",
+        "P27",
+        "P28"
+      ],
+      "text": "[P25]\nShe spoke and wept:--the dark and azure well\nSparkled beneath the shower of her bright tears,\nAnd every little circlet where they fell\nFlung to the cavern-roof inconstant spheres\nAnd intertangled lines of light:--a knell\nOf sobbing voices came upon her ears\nFrom those departing Forms, o'er the serene\nOf the white streams and of the forest green.\n\n[P26]\nAll day the wizard lady sate aloof,\nSpelling out scrolls of dread antiquity,\nUnder the cavern's fountain-lighted roof;\nOr broidering the pictured poesy\nOf some high tale upon her growing woof,\nWhich the sweet splendour of her smiles could dye\nIn hues outshining heaven--and ever she\nAdded some grace to the wrought poesy.\n\n[P27]\nWhile on her hearth lay blazing many a piece\nOf sandal wood, rare gums, and cinnamon;\nMen scarcely know how beautiful fire is--\nEach flame of it is as a precious stone\nDissolved in ever-moving light, and this\nBelongs to each and all who gaze upon.\nThe Witch beheld it not, for in her hand\nShe held a woof that dimmed the burning brand.\n\n[P28]\nThis lady never slept, but lay in trance\nAll night within the fountain--as in sleep.\nIts emerald crags glowed in her beauty's glance;\nThrough the green splendour of the water deep\nShe saw the constellations reel and dance\nLike fire-flies--and withal did ever keep\nThe tenour of her contemplations calm,\nWith open eyes, closed feet, and folded palm.",
+      "char_count": 1381,
+      "token_estimate": 345
+    },
+    {
+      "id": "chunk-011",
+      "stanza_ids": [
+        "P28",
+        "P29",
+        "P30",
+        "P31"
+      ],
+      "text": "[P28]\nThis lady never slept, but lay in trance\nAll night within the fountain--as in sleep.\nIts emerald crags glowed in her beauty's glance;\nThrough the green splendour of the water deep\nShe saw the constellations reel and dance\nLike fire-flies--and withal did ever keep\nThe tenour of her contemplations calm,\nWith open eyes, closed feet, and folded palm.\n\n[P29]\nAnd when the whirlwinds and the clouds descended\nFrom the white pinnacles of that cold hill,\nShe passed at dewfall to a space extended,\nWhere in a lawn of flowering asphodel\nAmid a wood of pines and cedars blended,\nThere yawned an inextinguishable well\nOf crimson fire--full even to the brim,\nAnd overflowing all the margin trim.\n\n[P30]\nWithin the which she lay when the fierce war\nOf wintry winds shook that innocuous liquor\nIn many a mimic moon and bearded star\nO'er woods and lawns;--the serpent heard it flicker\nIn sleep, and dreaming still, he crept afar--\nAnd when the windless snow descended thicker\nThan autumn leaves, she watched it as it came\nMelt on the surface of the level flame.\n\n[P31]\nShe had a boat, which some say Vulcan wrought\nFor Venus, as the chariot of her star;\nBut it was found too feeble to be fraught\nWith all the ardours in that sphere which are,\nAnd so she sold it, and Apollo bought\nAnd gave it to this daughter: from a car\nChanged to the fairest and the lightest boat\nWhich ever upon mortal stream did float.",
+      "char_count": 1400,
+      "token_estimate": 350
+    },
+    {
+      "id": "chunk-012",
+      "stanza_ids": [
+        "P31",
+        "P32",
+        "P33",
+        "P34"
+      ],
+      "text": "[P31]\nShe had a boat, which some say Vulcan wrought\nFor Venus, as the chariot of her star;\nBut it was found too feeble to be fraught\nWith all the ardours in that sphere which are,\nAnd so she sold it, and Apollo bought\nAnd gave it to this daughter: from a car\nChanged to the fairest and the lightest boat\nWhich ever upon mortal stream did float.\n\n[P32]\nAnd others say, that, when but three hours old,\nThe first-born Love out of his cradle lept,\nAnd clove dun Chaos with his wings of gold,\nAnd like a horticultural adept,\nStole a strange seed, and wrapped it up in mould,\nAnd sowed it in his mother's star, and kept\nWatering it all the summer with sweet dew,\nAnd with his wings fanning it as it grew.\n\n[P33]\nThe plant grew strong and green, the snowy flower\nFell, and the long and gourd-like fruit began\nTo turn the light and dew by inward power\nTo its own substance; woven tracery ran\nOf light firm texture, ribbed and branching, o'er\nThe solid rind, like a leaf's veined fan--\nOf which Love scooped this boat--and with soft motion\nPiloted it round the circumfluous ocean.\n\n[P34]\nThis boat she moored upon her fount, and lit\nA living spirit within all its frame,\nBreathing the soul of swiftness into it.\nCouched on the fountain like a panther tame,\nOne of the twain at Evan's feet that sit--\nOr as on Vesta's sceptre a swift flame--\nOr on blind Homer's heart a winged thought,--\nIn joyous expectation lay the boat.",
+      "char_count": 1413,
+      "token_estimate": 353
+    },
+    {
+      "id": "chunk-013",
+      "stanza_ids": [
+        "P34",
+        "P35",
+        "P36",
+        "P37"
+      ],
+      "text": "[P34]\nThis boat she moored upon her fount, and lit\nA living spirit within all its frame,\nBreathing the soul of swiftness into it.\nCouched on the fountain like a panther tame,\nOne of the twain at Evan's feet that sit--\nOr as on Vesta's sceptre a swift flame--\nOr on blind Homer's heart a winged thought,--\nIn joyous expectation lay the boat.\n\n[P35]\nThen by strange art she kneaded fire and snow\nTogether, tempering the repugnant mass\nWith liquid love--all things together grow\nThrough which the harmony of love can pass;\nAnd a fair Shape out of her hands did flow--\nA living Image, which did far surpass\nIn beauty that bright shape of vital stone\nWhich drew the heart out of Pygmalion.\n\n[P36]\nA sexless thing it was, and in its growth\nIt seemed to have developed no defect\nOf either sex, yet all the grace of both,--\nIn gentleness and strength its limbs were decked;\nThe bosom swelled lightly with its full youth,\nThe countenance was such as might select\nSome artist that his skill should never die,\nImaging forth such perfect purity.\n\n[P37]\nFrom its smooth shoulders hung two rapid wings,\nFit to have borne it to the seventh sphere,\nTipped with the speed of liquid lightenings,\nDyed in the ardours of the atmosphere:\nShe led her creature to the boiling springs\nWhere the light boat was moored, and said: 'Sit here!'\nAnd pointed to the prow, and took her seat\nBeside the rudder, with opposing feet.",
+      "char_count": 1397,
+      "token_estimate": 349
+    },
+    {
+      "id": "chunk-014",
+      "stanza_ids": [
+        "P37",
+        "P38",
+        "P39",
+        "P40"
+      ],
+      "text": "[P37]\nFrom its smooth shoulders hung two rapid wings,\nFit to have borne it to the seventh sphere,\nTipped with the speed of liquid lightenings,\nDyed in the ardours of the atmosphere:\nShe led her creature to the boiling springs\nWhere the light boat was moored, and said: 'Sit here!'\nAnd pointed to the prow, and took her seat\nBeside the rudder, with opposing feet.\n\n[P38]\nAnd down the streams which clove those mountains vast,\nAround their inland islets, and amid\nThe panther-peopled forests whose shade cast\nDarkness and odours, and a pleasure hid\nIn melancholy gloom, the pinnace passed;\nBy many a star-surrounded pyramid\nOf icy crag cleaving the purple sky,\nAnd caverns yawning round unfathomably.\n\n[P39]\nThe silver noon into that winding dell,\nWith slanted gleam athwart the forest tops,\nTempered like golden evening, feebly fell;\nA green and glowing light, like that which drops\nFrom folded lilies in which glow-worms dwell,\nWhen Earth over her face Night's mantle wraps;\nBetween the severed mountains lay on high,\nOver the stream, a narrow rift of sky.\n\n[P40]\nAnd ever as she went, the Image lay\nWith folded wings and unawakened eyes;\nAnd o'er its gentle countenance did play\nThe busy dreams, as thick as summer flies,\nChasing the rapid smiles that would not stay,\nAnd drinking the warm tears, and the sweet sighs\nInhaling, which, with busy murmur vain,\nThey had aroused from that full heart and brain.",
+      "char_count": 1406,
+      "token_estimate": 351
+    },
+    {
+      "id": "chunk-015",
+      "stanza_ids": [
+        "P40",
+        "P41",
+        "P42",
+        "P43"
+      ],
+      "text": "[P40]\nAnd ever as she went, the Image lay\nWith folded wings and unawakened eyes;\nAnd o'er its gentle countenance did play\nThe busy dreams, as thick as summer flies,\nChasing the rapid smiles that would not stay,\nAnd drinking the warm tears, and the sweet sighs\nInhaling, which, with busy murmur vain,\nThey had aroused from that full heart and brain.\n\n[P41]\nAnd ever down the prone vale, like a cloud\nUpon a stream of wind, the pinnace went:\nNow lingering on the pools, in which abode\nThe calm and darkness of the deep content\nIn which they paused; now o'er the shallow road\nOf white and dancing waters, all besprent\nWith sand and polished pebbles:--mortal boat\nIn such a shallow rapid could not float.\n\n[P42]\nAnd down the earthquaking cataracts which shiver\nTheir snow-like waters into golden air,\nOr under chasms unfathomable ever\nSepulchre them, till in their rage they tear\nA subterranean portal for the river,\nIt fled--the circling sunbows did upbear\nIts fall down the hoar precipice of spray,\nLighting it far upon its lampless way.\n\n[P43]\nAnd when the wizard lady would ascend\nThe labyrinths of some many-winding vale,\nWhich to the inmost mountain upward tend--\nShe called 'Hermaphroditus!'--and the pale\nAnd heavy hue which slumber could extend\nOver its lips and eyes, as on the gale\nA rapid shadow from a slope of grass,\nInto the darkness of the stream did pass.",
+      "char_count": 1368,
+      "token_estimate": 342
+    },
+    {
+      "id": "chunk-016",
+      "stanza_ids": [
+        "P43",
+        "P44",
+        "P45",
+        "P46"
+      ],
+      "text": "[P43]\nAnd when the wizard lady would ascend\nThe labyrinths of some many-winding vale,\nWhich to the inmost mountain upward tend--\nShe called 'Hermaphroditus!'--and the pale\nAnd heavy hue which slumber could extend\nOver its lips and eyes, as on the gale\nA rapid shadow from a slope of grass,\nInto the darkness of the stream did pass.\n\n[P44]\nAnd it unfurled its heaven-coloured pinions,\nWith stars of fire spotting the stream below;\nAnd from above into the Sun's dominions\nFlinging a glory, like the golden glow\nIn which Spring clothes her emerald-winged minions,\nAll interwoven with fine feathery snow\nAnd moonlight splendour of intensest rime,\nWith which frost paints the pines in winter time.\n\n[P45]\nAnd then it winnowed the Elysian air\nWhich ever hung about that lady bright,\nWith its aethereal vans--and speeding there,\nLike a star up the torrent of the night,\nOr a swift eagle in the morning glare\nBreasting the whirlwind with impetuous flight,\nThe pinnace, oared by those enchanted wings,\nClove the fierce streams towards their upper springs.\n\n[P46]\nThe water flashed, like sunlight by the prow\nOf a noon-wandering meteor flung to Heaven;\nThe still air seemed as if its waves did flow\nIn tempest down the mountains; loosely driven\nThe lady's radiant hair streamed to and fro:\nBeneath, the billows having vainly striven\nIndignant and impetuous, roared to feel\nThe swift and steady motion of the keel.",
+      "char_count": 1403,
+      "token_estimate": 350
+    },
+    {
+      "id": "chunk-017",
+      "stanza_ids": [
+        "P46",
+        "P47",
+        "P48",
+        "P49"
+      ],
+      "text": "[P46]\nThe water flashed, like sunlight by the prow\nOf a noon-wandering meteor flung to Heaven;\nThe still air seemed as if its waves did flow\nIn tempest down the mountains; loosely driven\nThe lady's radiant hair streamed to and fro:\nBeneath, the billows having vainly striven\nIndignant and impetuous, roared to feel\nThe swift and steady motion of the keel.\n\n[P47]\nOr, when the weary moon was in the wane,\nOr in the noon of interlunar night,\nThe lady-witch in visions could not chain\nHer spirit; but sailed forth under the light\nOf shooting stars, and bade extend amain\nIts storm-outspeeding wings, the Hermaphrodite;\nShe to the Austral waters took her way,\nBeyond the fabulous Thamondocana,--\n\n[P48]\nWhere, like a meadow which no scythe has shaven,\nWhich rain could never bend, or whirl-blast shake,\nWith the Antarctic constellations paven,\nCanopus and his crew, lay the Austral lake--\nThere she would build herself a windless haven\nOut of the clouds whose moving turrets make\nThe bastions of the storm, when through the sky\nThe spirits of the tempest thundered by:\n\n[P49]\nA haven beneath whose translucent floor\nThe tremulous stars sparkled unfathomably,\nAnd around which the solid vapours hoar,\nBased on the level waters, to the sky\nLifted their dreadful crags, and like a shore\nOf wintry mountains, inaccessibly\nHemmed in with rifts and precipices gray,\nAnd hanging crags, many a cove and bay.",
+      "char_count": 1395,
+      "token_estimate": 348
+    },
+    {
+      "id": "chunk-018",
+      "stanza_ids": [
+        "P49",
+        "P50",
+        "P51",
+        "P52"
+      ],
+      "text": "[P49]\nA haven beneath whose translucent floor\nThe tremulous stars sparkled unfathomably,\nAnd around which the solid vapours hoar,\nBased on the level waters, to the sky\nLifted their dreadful crags, and like a shore\nOf wintry mountains, inaccessibly\nHemmed in with rifts and precipices gray,\nAnd hanging crags, many a cove and bay.\n\n[P50]\nAnd whilst the outer lake beneath the lash\nOf the wind's scourge, foamed like a wounded thing,\nAnd the incessant hail with stony clash\nPloughed up the waters, and the flagging wing\nOf the roused cormorant in the lightning flash\nLooked like the wreck of some wind-wandering\nFragment of inky thunder-smoke--this haven\nWas as a gem to copy Heaven engraven,--\n\n[P51]\nOn which that lady played her many pranks,\nCircling the image of a shooting star,\nEven as a tiger on Hydaspes' banks\nOutspeeds the antelopes which speediest are,\nIn her light boat; and many quips and cranks\nShe played upon the water, till the car\nOf the late moon, like a sick matron wan,\nTo journey from the misty east began.\n\n[P52]\nAnd then she called out of the hollow turrets\nOf those high clouds, white, golden and vermilion,\nThe armies of her ministering spirits--\nIn mighty legions, million after million,\nThey came, each troop emblazoning its merits\nOn meteor flags; and many a proud pavilion\nOf the intertexture of the atmosphere\nThey pitched upon the plain of the calm mere.",
+      "char_count": 1384,
+      "token_estimate": 346
+    },
+    {
+      "id": "chunk-019",
+      "stanza_ids": [
+        "P52",
+        "P53",
+        "P54",
+        "P55"
+      ],
+      "text": "[P52]\nAnd then she called out of the hollow turrets\nOf those high clouds, white, golden and vermilion,\nThe armies of her ministering spirits--\nIn mighty legions, million after million,\nThey came, each troop emblazoning its merits\nOn meteor flags; and many a proud pavilion\nOf the intertexture of the atmosphere\nThey pitched upon the plain of the calm mere.\n\n[P53]\nThey framed the imperial tent of their great Queen\nOf woven exhalations, underlaid\nWith lambent lightning-fire, as may be seen\nA dome of thin and open ivory inlaid\nWith crimson silk--cressets from the serene\nHung there, and on the water for her tread\nA tapestry of fleece-like mist was strewn,\nDyed in the beams of the ascending moon.\n\n[P54]\nAnd on a throne o'erlaid with starlight, caught\nUpon those wandering isles of aery dew,\nWhich highest shoals of mountain shipwreck not,\nShe sate, and heard all that had happened new\nBetween the earth and moon, since they had brought\nThe last intelligence--and now she grew\nPale as that moon, lost in the watery night--\nAnd now she wept, and now she laughed outright.\n\n[P55]\nThese were tame pleasures; she would often climb\nThe steepest ladder of the crudded rack\nUp to some beaked cape of cloud sublime,\nAnd like Arion on the dolphin's back\nRide singing through the shoreless air;--oft-time\nFollowing the serpent lightning's winding track,\nShe ran upon the platforms of the wind,\nAnd laughed to hear the fire-balls roar behind.",
+      "char_count": 1433,
+      "token_estimate": 358
+    },
+    {
+      "id": "chunk-020",
+      "stanza_ids": [
+        "P55",
+        "P56",
+        "P57",
+        "P58"
+      ],
+      "text": "[P55]\nThese were tame pleasures; she would often climb\nThe steepest ladder of the crudded rack\nUp to some beaked cape of cloud sublime,\nAnd like Arion on the dolphin's back\nRide singing through the shoreless air;--oft-time\nFollowing the serpent lightning's winding track,\nShe ran upon the platforms of the wind,\nAnd laughed to hear the fire-balls roar behind.\n\n[P56]\nAnd sometimes to those streams of upper air\nWhich whirl the earth in its diurnal round,\nShe would ascend, and win the spirits there\nTo let her join their chorus. Mortals found\nThat on those days the sky was calm and fair,\nAnd mystic snatches of harmonious sound\nWandered upon the earth where'er she passed,\nAnd happy thoughts of hope, too sweet to last.\n\n[P57]\nBut her choice sport was, in the hours of sleep,\nTo glide adown old Nilus, where he threads\nEgypt and Aethiopia, from the steep\nOf utmost Axume, until he spreads,\nLike a calm flock of silver-fleeced sheep,\nHis waters on the plain: and crested heads\nOf cities and proud temples gleam amid,\nAnd many a vapour-belted pyramid.\n\n[P58]\nBy Moeris and the Mareotid lakes,\nStrewn with faint blooms like bridal chamber floors,\nWhere naked boys bridling tame water-snakes,\nOr charioteering ghastly alligators,\nHad left on the sweet waters mighty wakes\nOf those huge forms--within the brazen doors\nOf the great Labyrinth slept both boy and beast,\nTired with the pomp of their Osirian feast.",
+      "char_count": 1406,
+      "token_estimate": 351
+    },
+    {
+      "id": "chunk-021",
+      "stanza_ids": [
+        "P58",
+        "P59",
+        "P60",
+        "P61"
+      ],
+      "text": "[P58]\nBy Moeris and the Mareotid lakes,\nStrewn with faint blooms like bridal chamber floors,\nWhere naked boys bridling tame water-snakes,\nOr charioteering ghastly alligators,\nHad left on the sweet waters mighty wakes\nOf those huge forms--within the brazen doors\nOf the great Labyrinth slept both boy and beast,\nTired with the pomp of their Osirian feast.\n\n[P59]\nAnd where within the surface of the river\nThe shadows of the massy temples lie,\nAnd never are erased--but tremble ever\nLike things which every cloud can doom to die,\nThrough lotus-paven canals, and wheresoever\nThe works of man pierced that serenest sky\nWith tombs, and towers, and fanes, 'twas her delight\nTo wander in the shadow of the night.\n\n[P60]\nWith motion like the spirit of that wind\nWhose soft step deepens slumber, her light feet\nPassed through the peopled haunts of humankind.\nScattering sweet visions from her presence sweet,\nThrough fane, and palace-court, and labyrinth mined\nWith many a dark and subterranean street\nUnder the Nile, through chambers high and deep\nShe passed, observing mortals in their sleep.\n\n[P61]\nA pleasure sweet doubtless it was to see\nMortals subdued in all the shapes of sleep.\nHere lay two sister twins in infancy;\nThere, a lone youth who in his dreams did weep;\nWithin, two lovers linked innocently\nIn their loose locks which over both did creep\nLike ivy from one stem;--and there lay calm\nOld age with snow-bright hair and folded palm.",
+      "char_count": 1438,
+      "token_estimate": 359
+    },
+    {
+      "id": "chunk-022",
+      "stanza_ids": [
+        "P61",
+        "P62",
+        "P63",
+        "P64"
+      ],
+      "text": "[P61]\nA pleasure sweet doubtless it was to see\nMortals subdued in all the shapes of sleep.\nHere lay two sister twins in infancy;\nThere, a lone youth who in his dreams did weep;\nWithin, two lovers linked innocently\nIn their loose locks which over both did creep\nLike ivy from one stem;--and there lay calm\nOld age with snow-bright hair and folded palm.\n\n[P62]\nBut other troubled forms of sleep she saw,\nNot to be mirrored in a holy song--\nDistortions foul of supernatural awe,\nAnd pale imaginings of visioned wrong;\nAnd all the code of Custom's lawless law\nWritten upon the brows of old and young:\n'This,' said the wizard maiden, 'is the strife\nWhich stirs the liquid surface of man's life.'\n\n[P63]\nAnd little did the sight disturb her soul.--\nWe, the weak mariners of that wide lake\nWhere'er its shores extend or billows roll,\nOur course unpiloted and starless make\nO'er its wild surface to an unknown goal:--\nBut she in the calm depths her way could take,\nWhere in bright bowers immortal forms abide\nBeneath the weltering of the restless tide.\n\n[P64]\nAnd she saw princes couched under the glow\nOf sunlike gems; and round each temple-court\nIn dormitories ranged, row after row,\nShe saw the priests asleep--all of one sort--\nFor all were educated to be so.--\nThe peasants in their huts, and in the port\nThe sailors she saw cradled on the waves,\nAnd the dead lulled within their dreamless graves.",
+      "char_count": 1394,
+      "token_estimate": 348
+    },
+    {
+      "id": "chunk-023",
+      "stanza_ids": [
+        "P64",
+        "P65",
+        "P66",
+        "P67"
+      ],
+      "text": "[P64]\nAnd she saw princes couched under the glow\nOf sunlike gems; and round each temple-court\nIn dormitories ranged, row after row,\nShe saw the priests asleep--all of one sort--\nFor all were educated to be so.--\nThe peasants in their huts, and in the port\nThe sailors she saw cradled on the waves,\nAnd the dead lulled within their dreamless graves.\n\n[P65]\nAnd all the forms in which those spirits lay\nWere to her sight like the diaphanous\nVeils, in which those sweet ladies oft array\nTheir delicate limbs, who would conceal from us\nOnly their scorn of all concealment: they\nMove in the light of their own beauty thus.\nBut these and all now lay with sleep upon them,\nAnd little thought a Witch was looking on them.\n\n[P66]\nShe, all those human figures breathing there,\nBeheld as living spirits--to her eyes\nThe naked beauty of the soul lay bare,\nAnd often through a rude and worn disguise\nShe saw the inner form most bright and fair--\nAnd then she had a charm of strange device,\nWhich, murmured on mute lips with tender tone,\nCould make that spirit mingle with her own.\n\n[P67]\nAlas! Aurora, what wouldst thou have given\nFor such a charm when Tithon became gray?\nOr how much, Venus, of thy silver heaven\nWouldst thou have yielded, ere Proserpina\nHad half (oh! why not all?) the debt forgiven\nWhich dear Adonis had been doomed to pay,\nTo any witch who would have taught you it?\nThe Heliad doth not know its value yet.",
+      "char_count": 1413,
+      "token_estimate": 353
+    },
+    {
+      "id": "chunk-024",
+      "stanza_ids": [
+        "P67",
+        "P68",
+        "P69",
+        "P70"
+      ],
+      "text": "[P67]\nAlas! Aurora, what wouldst thou have given\nFor such a charm when Tithon became gray?\nOr how much, Venus, of thy silver heaven\nWouldst thou have yielded, ere Proserpina\nHad half (oh! why not all?) the debt forgiven\nWhich dear Adonis had been doomed to pay,\nTo any witch who would have taught you it?\nThe Heliad doth not know its value yet.\n\n[P68]\n'Tis said in after times her spirit free\nKnew what love was, and felt itself alone--\nBut holy Dian could not chaster be\nBefore she stooped to kiss Endymion,\nThan now this lady--like a sexless bee\nTasting all blossoms, and confined to none,\nAmong those mortal forms, the wizard-maiden\nPassed with an eye serene and heart unladen.\n\n[P69]\nTo those she saw most beautiful, she gave\nStrange panacea in a crystal bowl:--\nThey drank in their deep sleep of that sweet wave,\nAnd lived thenceforward as if some control,\nMightier than life, were in them; and the grave\nOf such, when death oppressed the weary soul,\nWas as a green and overarching bower\nLit by the gems of many a starry flower.\n\n[P70]\nFor on the night when they were buried, she\nRestored the embalmers' ruining, and shook\nThe light out of the funeral lamps, to be\nA mimic day within that deathy nook;\nAnd she unwound the woven imagery\nOf second childhood's swaddling bands, and took\nThe coffin, its last cradle, from its niche,\nAnd threw it with contempt into a ditch.",
+      "char_count": 1374,
+      "token_estimate": 343
+    },
+    {
+      "id": "chunk-025",
+      "stanza_ids": [
+        "P70",
+        "P71",
+        "P72",
+        "P73"
+      ],
+      "text": "[P70]\nFor on the night when they were buried, she\nRestored the embalmers' ruining, and shook\nThe light out of the funeral lamps, to be\nA mimic day within that deathy nook;\nAnd she unwound the woven imagery\nOf second childhood's swaddling bands, and took\nThe coffin, its last cradle, from its niche,\nAnd threw it with contempt into a ditch.\n\n[P71]\nAnd there the body lay, age after age.\nMute, breathing, beating, warm, and undecaying,\nLike one asleep in a green hermitage,\nWith gentle smiles about its eyelids playing,\nAnd living in its dreams beyond the rage\nOf death or life; while they were still arraying\nIn liveries ever new, the rapid, blind\nAnd fleeting generations of mankind.\n\n[P72]\nAnd she would write strange dreams upon the brain\nOf those who were less beautiful, and make\nAll harsh and crooked purposes more vain\nThan in the desert is the serpent's wake\nWhich the sand covers--all his evil gain\nThe miser in such dreams would rise and shake\nInto a beggar's lap;--the lying scribe\nWould his own lies betray without a bribe.\n\n[P73]\nThe priests would write an explanation full,\nTranslating hieroglyphics into Greek,\nHow the God Apis really was a bull,\nAnd nothing more; and bid the herald stick\nThe same against the temple doors, and pull\nThe old cant down; they licensed all to speak\nWhate'er they thought of hawks, and cats, and geese,\nBy pastoral letters to each diocese.",
+      "char_count": 1383,
+      "token_estimate": 345
+    },
+    {
+      "id": "chunk-026",
+      "stanza_ids": [
+        "P73",
+        "P74",
+        "P75",
+        "P76"
+      ],
+      "text": "[P73]\nThe priests would write an explanation full,\nTranslating hieroglyphics into Greek,\nHow the God Apis really was a bull,\nAnd nothing more; and bid the herald stick\nThe same against the temple doors, and pull\nThe old cant down; they licensed all to speak\nWhate'er they thought of hawks, and cats, and geese,\nBy pastoral letters to each diocese.\n\n[P74]\nThe king would dress an ape up in his crown\nAnd robes, and seat him on his glorious seat,\nAnd on the right hand of the sunlike throne\nWould place a gaudy mock-bird to repeat\nThe chatterings of the monkey.--Every one\nOf the prone courtiers crawled to kiss the feet\nOf their great Emperor, when the morning came,\nAnd kissed--alas, how many kiss the same!\n\n[P75]\nThe soldiers dreamed that they were blacksmiths, and\nWalked out of quarters in somnambulism;\nRound the red anvils you might see them stand\nLike Cyclopses in Vulcan's sooty abysm,\nBeating their swords to ploughshares;--in a band\nThe gaolers sent those of the liberal schism\nFree through the streets of Memphis, much, I wis,\nTo the annoyance of king Amasis.\n\n[P76]\nAnd timid lovers who had been so coy,\nThey hardly knew whether they loved or not,\nWould rise out of their rest, and take sweet joy,\nTo the fulfilment of their inmost thought;\nAnd when next day the maiden and the boy\nMet one another, both, like sinners caught,\nBlushed at the thing which each believed was done\nOnly in fancy--till the tenth moon shone;",
+      "char_count": 1429,
+      "token_estimate": 357
+    },
+    {
+      "id": "chunk-027",
+      "stanza_ids": [
+        "P76",
+        "P77",
+        "P78"
+      ],
+      "text": "[P76]\nAnd timid lovers who had been so coy,\nThey hardly knew whether they loved or not,\nWould rise out of their rest, and take sweet joy,\nTo the fulfilment of their inmost thought;\nAnd when next day the maiden and the boy\nMet one another, both, like sinners caught,\nBlushed at the thing which each believed was done\nOnly in fancy--till the tenth moon shone;\n\n[P77]\nAnd then the Witch would let them take no ill:\nOf many thousand schemes which lovers find,\nThe Witch found one,--and so they took their fill\nOf happiness in marriage warm and kind.\nFriends who, by practice of some envious skill,\nWere torn apart--a wide wound, mind from mind!--\nShe did unite again with visions clear\nOf deep affection and of truth sincere.\n\n[P78]\nThese were the pranks she played among the cities\nOf mortal men, and what she did to Sprites\nAnd Gods, entangling them in her sweet ditties\nTo do her will, and show their subtle sleights,\nI will declare another time; for it is\nA tale more fit for the weird winter nights\nThan for these garish summer days, when we\nScarcely believe much more than we can see.",
+      "char_count": 1086,
+      "token_estimate": 271
+    }
+  ]
+}

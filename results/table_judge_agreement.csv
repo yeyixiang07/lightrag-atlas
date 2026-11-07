@@ -1,0 +1,12 @@
+condition,label,n,agreement,kappa_3,kappa_binary,spearman
+c0_closed,Closed-book,20,0.05,0.04669260700389111,0.018404907975459905,0.3047609833393118
+c1_naive,NaiveRAG,20,0.95,0.8809523809523809,0.6428571428571428,0.7254762501100117
+c2_full,LightRAG-Full,20,0.9,0.0,0.0,
+c3_low,LightRAG-LowOnly,20,0.85,0.0,0.0,
+c4_high,LightRAG-HighOnly,20,0.95,0.8979591836734694,0.7727272727272727,0.8167949535234437
+c5_origin,LightRAG-NoOriginalText,20,0.75,0.7058823529411765,0.6153846153846154,0.732287375932894
+c6_empty,LightRAG-EmptyProfiles,20,0.85,0.0,0.0,
+c7_shuffled,LightRAG-ShuffledStructure,20,0.85,0.7321428571428572,0.5,0.6347917188462602
+c8_extractive,LightRAG-ExtractiveProfiles,20,0.95,0.0,0.0,
+c9_temporal,LightRAG-TemporalGraph,20,0.95,0.0,0.0,
+c10_naive_temporal,NaiveRAG-TemporalOrder,20,1.0,1.0,1.0,1.0

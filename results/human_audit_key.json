@@ -1,0 +1,222 @@
+{
+  "A001": {
+    "condition": "c0_closed",
+    "qid": "F04",
+    "type": "factual"
+  },
+  "A002": {
+    "condition": "c0_closed",
+    "qid": "M11",
+    "type": "multihop"
+  },
+  "A003": {
+    "condition": "c0_closed",
+    "qid": "T17",
+    "type": "thematic"
+  },
+  "A004": {
+    "condition": "c0_closed",
+    "qid": "Q17",
+    "type": "temporal"
+  },
+  "A005": {
+    "condition": "c1_naive",
+    "qid": "F21",
+    "type": "factual"
+  },
+  "A006": {
+    "condition": "c1_naive",
+    "qid": "M04",
+    "type": "multihop"
+  },
+  "A007": {
+    "condition": "c1_naive",
+    "qid": "T08",
+    "type": "thematic"
+  },
+  "A008": {
+    "condition": "c1_naive",
+    "qid": "Q20",
+    "type": "temporal"
+  },
+  "A009": {
+    "condition": "c2_full",
+    "qid": "F20",
+    "type": "factual"
+  },
+  "A010": {
+    "condition": "c2_full",
+    "qid": "M18",
+    "type": "multihop"
+  },
+  "A011": {
+    "condition": "c2_full",
+    "qid": "T14",
+    "type": "thematic"
+  },
+  "A012": {
+    "condition": "c2_full",
+    "qid": "Q19",
+    "type": "temporal"
+  },
+  "A013": {
+    "condition": "c3_low",
+    "qid": "F18",
+    "type": "factual"
+  },
+  "A014": {
+    "condition": "c3_low",
+    "qid": "M24",
+    "type": "multihop"
+  },
+  "A015": {
+    "condition": "c3_low",
+    "qid": "T25",
+    "type": "thematic"
+  },
+  "A016": {
+    "condition": "c3_low",
+    "qid": "Q16",
+    "type": "temporal"
+  },
+  "A017": {
+    "condition": "c4_high",
+    "qid": "F25",
+    "type": "factual"
+  },
+  "A018": {
+    "condition": "c4_high",
+    "qid": "M25",
+    "type": "multihop"
+  },
+  "A019": {
+    "condition": "c4_high",
+    "qid": "T19",
+    "type": "thematic"
+  },
+  "A020": {
+    "condition": "c4_high",
+    "qid": "Q15",
+    "type": "temporal"
+  },
+  "A021": {
+    "condition": "c5_origin",
+    "qid": "F08",
+    "type": "factual"
+  },
+  "A022": {
+    "condition": "c5_origin",
+    "qid": "M01",
+    "type": "multihop"
+  },
+  "A023": {
+    "condition": "c5_origin",
+    "qid": "T20",
+    "type": "thematic"
+  },
+  "A024": {
+    "condition": "c5_origin",
+    "qid": "Q03",
+    "type": "temporal"
+  },
+  "A025": {
+    "condition": "c6_empty",
+    "qid": "F04",
+    "type": "factual"
+  },
+  "A026": {
+    "condition": "c6_empty",
+    "qid": "M10",
+    "type": "multihop"
+  },
+  "A027": {
+    "condition": "c6_empty",
+    "qid": "T04",
+    "type": "thematic"
+  },
+  "A028": {
+    "condition": "c6_empty",
+    "qid": "Q15",
+    "type": "temporal"
+  },
+  "A029": {
+    "condition": "c7_shuffled",
+    "qid": "F01",
+    "type": "factual"
+  },
+  "A030": {
+    "condition": "c7_shuffled",
+    "qid": "M22",
+    "type": "multihop"
+  },
+  "A031": {
+    "condition": "c7_shuffled",
+    "qid": "T16",
+    "type": "thematic"
+  },
+  "A032": {
+    "condition": "c7_shuffled",
+    "qid": "Q11",
+    "type": "temporal"
+  },
+  "A033": {
+    "condition": "c8_extractive",
+    "qid": "F07",
+    "type": "factual"
+  },
+  "A034": {
+    "condition": "c8_extractive",
+    "qid": "M13",
+    "type": "multihop"
+  },
+  "A035": {
+    "condition": "c8_extractive",
+    "qid": "T09",
+    "type": "thematic"
+  },
+  "A036": {
+    "condition": "c8_extractive",
+    "qid": "Q12",
+    "type": "temporal"
+  },
+  "A037": {
+    "condition": "c9_temporal",
+    "qid": "F30",
+    "type": "factual"
+  },
+  "A038": {
+    "condition": "c9_temporal",
+    "qid": "M12",
+    "type": "multihop"
+  },
+  "A039": {
+    "condition": "c9_temporal",
+    "qid": "T13",
+    "type": "thematic"
+  },
+  "A040": {
+    "condition": "c9_temporal",
+    "qid": "Q17",
+    "type": "temporal"
+  },
+  "A041": {
+    "condition": "c10_naive_temporal",
+    "qid": "F21",
+    "type": "factual"
+  },
+  "A042": {
+    "condition": "c10_naive_temporal",
+    "qid": "M03",
+    "type": "multihop"
+  },
+  "A043": {
+    "condition": "c10_naive_temporal",
+    "qid": "T24",
+    "type": "thematic"
+  },
+  "A044": {
+    "condition": "c10_naive_temporal",
+    "qid": "Q11",
+    "type": "temporal"
+  }
+}

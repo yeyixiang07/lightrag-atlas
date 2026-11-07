@@ -1,0 +1,3331 @@
+{
+  "F01": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The answer correctly identifies the mother of the Witch as one of the Atlantides and cites relevant stanzas.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\n      \"text\": \"The mother of the Witch was one of the Atlantides\",\n      \"supported\": true,\n      \"evidence\": [\"P1\", \"P2\", \"P3\", \"P4\"]\n    }\n  ],\n  \"citation_precision\": 1,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The answer correctly identifies the mother of the Witch as one of the Atlantides and cites relevant stanzas.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The mother of the Witch was one of the Atlantides",
+          "supported": true,
+          "evidence": [
+            "P1",
+            "P2",
+            "P3",
+            "P4"
+          ]
+        }
+      ],
+      "citation_precision": 1,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 2075,
+      "completion_tokens": 138,
+      "seconds": 2.908447946
+    },
+    "error": null
+  },
+  "F02": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The answer is correct and directly states the location of the Witch as specified in the poem.\",\n  \"key_point_coverage\": null,\n  \"claims\": [{\"text\": \"The Witch lived on Atlas' mountain.\", \"supported\": true, \"evidence\": [\"P1\"]}],\n  \"citation_precision\": 1,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The answer is correct and directly states the location of the Witch as specified in the poem.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The Witch lived on Atlas' mountain.",
+          "supported": true,
+          "evidence": [
+            "P1"
+          ]
+        }
+      ],
+      "citation_precision": 1,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 1777,
+      "completion_tokens": 107,
+      "seconds": 2.296744586
+    },
+    "error": null
+  },
+  "F03": {
+    "raw": "{\n  \"correctness\": 0,\n  \"correctness_reason\": \"The answer is wrong because the gold answer states that a secret fountain ran beside the Witch's cavern, which is supported by the retrieved context.\",\n  \"key_point_coverage\": null,\n  \"claims\": [],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The answer does not address the question and instead states that the provided context does not establish the answer, which is incorrect given the information in the context.\"\n}",
+    "parsed": {
+      "correctness": 0,
+      "correctness_reason": "The answer is wrong because the gold answer states that a secret fountain ran beside the Witch's cavern, which is supported by the retrieved context.",
+      "key_point_coverage": null,
+      "claims": [],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The answer does not address the question and instead states that the provided context does not establish the answer, which is incorrect given the information in the context."
+    },
+    "usage": {
+      "prompt_tokens": 1688,
+      "completion_tokens": 121,
+      "seconds": 2.465399737
+    },
+    "error": null
+  },
+  "F04": {
+    "raw": "{\n  \"correctness\": 0,\n  \"correctness_reason\": \"The answer is wrong because it states that the context does not establish the information, but the gold answer is 'A vapour.'\",\n  \"key_point_coverage\": null,\n  \"claims\": [{\"text\": \"The context does not establish this.\", \"supported\": null, \"evidence\": []}],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The answer is incorrect as it contradicts the gold answer without providing any supporting evidence from the context.\"\n}",
+    "parsed": {
+      "correctness": 0,
+      "correctness_reason": "The answer is wrong because it states that the context does not establish the information, but the gold answer is 'A vapour.'",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The context does not establish this.",
+          "supported": null,
+          "evidence": []
+        }
+      ],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The answer is incorrect as it contradicts the gold answer without providing any supporting evidence from the context."
+    },
+    "usage": {
+      "prompt_tokens": 1683,
+      "completion_tokens": 131,
+      "seconds": 2.621867053
+    },
+    "error": null
+  },
+  "F05": {
+    "raw": "{\n  \"correctness\": 0,\n  \"correctness_reason\": \"The answer is wrong because the gold answer states that the Witch's mother changed into a meteor, which is not supported by the provided context.\",\n  \"key_point_coverage\": null,\n  \"claims\": [],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The answer correctly identifies that the provided context does not support the claim, but it does not provide the correct information from the poem.\"\n}",
+    "parsed": {
+      "correctness": 0,
+      "correctness_reason": "The answer is wrong because the gold answer states that the Witch's mother changed into a meteor, which is not supported by the provided context.",
+      "key_point_coverage": null,
+      "claims": [],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The answer correctly identifies that the provided context does not support the claim, but it does not provide the correct information from the poem."
+    },
+    "usage": {
+      "prompt_tokens": 1688,
+      "completion_tokens": 117,
+      "seconds": 2.407199717
+    },
+    "error": null
+  },
+  "F06": {
+    "raw": "{\n  \"correctness\": 0,\n  \"correctness_reason\": \"The answer is wrong because it states that the context does not establish the information, but the gold answer is explicitly given in the question and should be used.\",\n  \"key_point_coverage\": null,\n  \"claims\": [],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The candidate answer incorrectly states that the context does not provide the information, when in fact the gold answer is given directly in the question.\"\n}",
+    "parsed": {
+      "correctness": 0,
+      "correctness_reason": "The answer is wrong because it states that the context does not establish the information, but the gold answer is explicitly given in the question and should be used.",
+      "key_point_coverage": null,
+      "claims": [],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The candidate answer incorrectly states that the context does not provide the information, when in fact the gold answer is given directly in the question."
+    },
+    "usage": {
+      "prompt_tokens": 1691,
+      "completion_tokens": 121,
+      "seconds": 2.482228801
+    },
+    "error": null
+  },
+  "F07": {
+    "raw": "{\n  \"correctness\": 0,\n  \"correctness_reason\": \"The answer is wrong because it states that the context does not establish the number of times the Mother of the Months bent her bow before the Witch took shape, but the poem explicitly states 'Ten times' in the gold answer.\",\n  \"key_point_coverage\": null,\n  \"claims\": [],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The candidate answer is incorrect as it does not provide the correct information from the poem.\"\n}",
+    "parsed": {
+      "correctness": 0,
+      "correctness_reason": "The answer is wrong because it states that the context does not establish the number of times the Mother of the Months bent her bow before the Witch took shape, but the poem explicitly states 'Ten times' in the gold answer.",
+      "key_point_coverage": null,
+      "claims": [],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The candidate answer is incorrect as it does not provide the correct information from the poem."
+    },
+    "usage": {
+      "prompt_tokens": 1703,
+      "completion_tokens": 125,
+      "seconds": 2.538850872
+    },
+    "error": null
+  },
+  "F08": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The answer correctly identifies the spotted cameleopard as the first animal to come to the Witch. It also provides the correct citation.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\n      \"text\": \"The spotted cameleopard came first to the Witch.\",\n      \"supported\": true,\n      \"evidence\": [\"P6\"]\n    }\n  ],\n  \"citation_precision\": 1,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The answer correctly identifies the spotted cameleopard as the first animal to come to the Witch. It also provides the correct citation.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The spotted cameleopard came first to the Witch.",
+          "supported": true,
+          "evidence": [
+            "P6"
+          ]
+        }
+      ],
+      "citation_precision": 1,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 2050,
+      "completion_tokens": 127,
+      "seconds": 2.722454372
+    },
+    "error": null
+  },
+  "F09": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The answer correctly identifies that the elephant came after the spotted cameleopard and provides supporting evidence from the poem.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\n      \"text\": \"The elephant came after the spotted cameleopard.\",\n      \"supported\": true,\n      \"evidence\": [\"P6\"]\n    }\n  ],\n  \"citation_precision\": 1,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The answer correctly identifies that the elephant came after the spotted cameleopard and provides supporting evidence from the poem.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The elephant came after the spotted cameleopard.",
+          "supported": true,
+          "evidence": [
+            "P6"
+          ]
+        }
+      ],
+      "citation_precision": 1,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 2127,
+      "completion_tokens": 122,
+      "seconds": 2.685932429
+    },
+    "error": null
+  },
+  "F10": {
+    "raw": "{\n  \"correctness\": 0,\n  \"correctness_reason\": \"The answer is wrong because it states that the context does not establish the god, when in fact Pan is explicitly mentioned as the god who came unseen through the mountains.\",\n  \"key_point_coverage\": null,\n  \"claims\": [],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The answer is incorrect and does not address the question.\"\n}",
+    "parsed": {
+      "correctness": 0,
+      "correctness_reason": "The answer is wrong because it states that the context does not establish the god, when in fact Pan is explicitly mentioned as the god who came unseen through the mountains.",
+      "key_point_coverage": null,
+      "claims": [],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The answer is incorrect and does not address the question."
+    },
+    "usage": {
+      "prompt_tokens": 1701,
+      "completion_tokens": 107,
+      "seconds": 2.266820577
+    },
+    "error": null
+  },
+  "F11": {
+    "raw": "{\n  \"correctness\": 0,\n  \"correctness_reason\": \"The answer is wrong as it states that the provided context does not establish the information, but the poem clearly mentions Silenus shaking a green stick of lilies.\",\n  \"key_point_coverage\": null,\n  \"claims\": [{\"text\": \"Silenus shook a green stick of lilies.\", \"supported\": true, \"evidence\": [\"P64\"]}],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The answer should directly state the correct figure (Silenus) without any additional context or citations.\"\n}",
+    "parsed": {
+      "correctness": 0,
+      "correctness_reason": "The answer is wrong as it states that the provided context does not establish the information, but the poem clearly mentions Silenus shaking a green stick of lilies.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "Silenus shook a green stick of lilies.",
+          "supported": true,
+          "evidence": [
+            "P64"
+          ]
+        }
+      ],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The answer should directly state the correct figure (Silenus) without any additional context or citations."
+    },
+    "usage": {
+      "prompt_tokens": 1774,
+      "completion_tokens": 144,
+      "seconds": 2.868957706
+    },
+    "error": null
+  },
+  "F12": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The answer accurately states that the Witch wove a subtle veil from three threads of fleecy mist and light and star-beams, which is correct according to the poem. The citation [P13, P14, P15, P16] is also accurate.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\n      \"text\": \"The Witch wove a subtle veil from three threads of fleecy mist and light and star-beams\",\n      \"supported\": true,\n      \"evidence\": [\"P13\"]\n    }\n  ],\n  \"citation_precision\": 1,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The answer accurately states that the Witch wove a subtle veil from three threads of fleecy mist and light and star-beams, which is correct according to the poem. The citation [P13, P14, P15, P16] is also accurate.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The Witch wove a subtle veil from three threads of fleecy mist and light and star-beams",
+          "supported": true,
+          "evidence": [
+            "P13"
+          ]
+        }
+      ],
+      "citation_precision": 1,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 2131,
+      "completion_tokens": 171,
+      "seconds": 3.495426568
+    },
+    "error": null
+  },
+  "F13": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The answer accurately describes the contents of the crystal vials as clear liquids with healthful and transformative properties, which aligns with the gold answer.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\n      \"text\": \"The Witch kept clear liquids with healthful and transformative properties in crystal vials.\",\n      \"supported\": true,\n      \"evidence\": [\"P17\"]\n    }\n  ],\n  \"citation_precision\": 1,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The answer accurately describes the contents of the crystal vials as clear liquids with healthful and transformative properties, which aligns with the gold answer.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The Witch kept clear liquids with healthful and transformative properties in crystal vials.",
+          "supported": true,
+          "evidence": [
+            "P17"
+          ]
+        }
+      ],
+      "citation_precision": 1,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 2084,
+      "completion_tokens": 136,
+      "seconds": 2.881713077
+    },
+    "error": null
+  },
+  "F14": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The answer correctly identifies that the Ocean-nymphs and Hamadryades offered to serve the Witch of Atlas. It also provides the relevant citation [P22], which supports the claim.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\n      \"text\": \"The Ocean-nymphs and Hamadryades offered to serve the Witch of Atlas\",\n      \"supported\": true,\n      \"evidence\": [\"P22\"]\n    }\n  ],\n  \"citation_precision\": 1,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The answer correctly identifies that the Ocean-nymphs and Hamadryades offered to serve the Witch of Atlas. It also provides the relevant citation [P22], which supports the claim.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The Ocean-nymphs and Hamadryades offered to serve the Witch of Atlas",
+          "supported": true,
+          "evidence": [
+            "P22"
+          ]
+        }
+      ],
+      "citation_precision": 1,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 2116,
+      "completion_tokens": 148,
+      "seconds": 3.132452362
+    },
+    "error": null
+  },
+  "F15": {
+    "raw": "{\n  \"correctness\": 0,\n  \"correctness_reason\": \"The answer does not provide the correct information from the poem and instead states that the context does not establish the activities of the Witch. The gold answer specifies what the Witch does all day in her cave, which is not addressed in the given answer.\",\n  \"key_point_coverage\": null,\n  \"claims\": [{\"text\": \"The provided context does not establish this.\", \"supported\": null, \"evidence\": []}],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The answer should provide the specific activities of the Witch as stated in the poem.\"\n}",
+    "parsed": {
+      "correctness": 0,
+      "correctness_reason": "The answer does not provide the correct information from the poem and instead states that the context does not establish the activities of the Witch. The gold answer specifies what the Witch does all day in her cave, which is not addressed in the given answer.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The provided context does not establish this.",
+          "supported": null,
+          "evidence": []
+        }
+      ],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The answer should provide the specific activities of the Witch as stated in the poem."
+    },
+    "usage": {
+      "prompt_tokens": 1726,
+      "completion_tokens": 150,
+      "seconds": 2.972380343
+    },
+    "error": null
+  },
+  "F16": {
+    "raw": "{\n  \"correctness\": 0,\n  \"correctness_reason\": \"The answer is wrong because it contradicts the gold answer, which states that the Witch lies in a trance within the fountain. The candidate answer incorrectly claims that the context does not support the statement, but the poem clearly indicates her state.\",\n  \"key_point_coverage\": null,\n  \"claims\": [],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The answer should directly address the question by stating that the Witch lies in a trance within the fountain, as per the gold answer.\"\n}",
+    "parsed": {
+      "correctness": 0,
+      "correctness_reason": "The answer is wrong because it contradicts the gold answer, which states that the Witch lies in a trance within the fountain. The candidate answer incorrectly claims that the context does not support the statement, but the poem clearly indicates her state.",
+      "key_point_coverage": null,
+      "claims": [],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The answer should directly address the question by stating that the Witch lies in a trance within the fountain, as per the gold answer."
+    },
+    "usage": {
+      "prompt_tokens": 1704,
+      "completion_tokens": 136,
+      "seconds": 2.741418237
+    },
+    "error": null
+  },
+  "F17": {
+    "raw": "{\n  \"correctness\": 0,\n  \"correctness_reason\": \"The answer is wrong because the gold answer specifies that the Witch goes to a lawn of flowering asphodel beside a well of crimson fire, not to the clouds.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\n      \"text\": \"The Witch goes to the clouds when whirlwinds and clouds descend\",\n      \"supported\": false,\n      \"evidence\": [\"P28\", \"P29\", \"P30\", \"P31\", \"P52\", \"P53\"]\n    }\n  ],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"notes\": \"The answer contradicts the poem and does not provide the correct location as specified in the gold answer.\"\n}",
+    "parsed": {
+      "correctness": 0,
+      "correctness_reason": "The answer is wrong because the gold answer specifies that the Witch goes to a lawn of flowering asphodel beside a well of crimson fire, not to the clouds.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The Witch goes to the clouds when whirlwinds and clouds descend",
+          "supported": false,
+          "evidence": [
+            "P28",
+            "P29",
+            "P30",
+            "P31",
+            "P52",
+            "P53"
+          ]
+        }
+      ],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "notes": "The answer contradicts the poem and does not provide the correct location as specified in the gold answer."
+    },
+    "usage": {
+      "prompt_tokens": 2113,
+      "completion_tokens": 175,
+      "seconds": 3.508306609
+    },
+    "error": null
+  },
+  "F18": {
+    "raw": "{\n  \"correctness\": 1,\n  \"correctness_reason\": \"The answer correctly identifies that the Witch of Atlas created a living boat. However, it incorrectly states that Apollo bought a boat from Venus and gave it to the Witch of Atlas, which is not supported by the poem.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"The Witch of Atlas created a living boat with swiftness.\", \"supported\": true, \"evidence\": [\"P34\", \"P35\", \"P36\", \"P37\"]},\n    {\"text\": \"Apollo bought a boat from Venus and gave it to the Witch of Atlas as her daughter.\", \"supported\": false, \"evidence\": [\"P28\", \"P29\", \"P30\", \"P31\"]}\n  ],\n  \"citation_precision\": 0.5,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The answer correctly identifies the Witch of Atlas as the creator of the boat but incorrectly attributes the origin of the boat to Apollo and Venus.\"\n}",
+    "parsed": {
+      "correctness": 1,
+      "correctness_reason": "The answer correctly identifies that the Witch of Atlas created a living boat. However, it incorrectly states that Apollo bought a boat from Venus and gave it to the Witch of Atlas, which is not supported by the poem.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The Witch of Atlas created a living boat with swiftness.",
+          "supported": true,
+          "evidence": [
+            "P34",
+            "P35",
+            "P36",
+            "P37"
+          ]
+        },
+        {
+          "text": "Apollo bought a boat from Venus and gave it to the Witch of Atlas as her daughter.",
+          "supported": false,
+          "evidence": [
+            "P28",
+            "P29",
+            "P30",
+            "P31"
+          ]
+        }
+      ],
+      "citation_precision": 0.5,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The answer correctly identifies the Witch of Atlas as the creator of the boat but incorrectly attributes the origin of the boat to Apollo and Venus."
+    },
+    "usage": {
+      "prompt_tokens": 2135,
+      "completion_tokens": 239,
+      "seconds": 4.577528039
+    },
+    "error": null
+  },
+  "F19": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The answer is correct and complete, accurately stating that Apollo bought the boat from Venus and gave it to the Witch of Atlas, including the detail about her daughter.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"Apollo bought the boat from Venus.\", \"supported\": true, \"evidence\": [\"P31\"]},\n    {\"text\": \"Apollo gave the boat to the Witch of Atlas.\", \"supported\": true, \"evidence\": [\"P31\"]},\n    {\"text\": \"The Witch of Atlas is Apollo's daughter.\", \"supported\": null, \"evidence\": []}\n  ],\n  \"citation_precision\": 1,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The answer is correct and complete. The claim about the Witch of Atlas being Apollo's daughter is not explicitly supported by the poem, but it is a reasonable inference from the context.\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The answer is correct and complete, accurately stating that Apollo bought the boat from Venus and gave it to the Witch of Atlas, including the detail about her daughter.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "Apollo bought the boat from Venus.",
+          "supported": true,
+          "evidence": [
+            "P31"
+          ]
+        },
+        {
+          "text": "Apollo gave the boat to the Witch of Atlas.",
+          "supported": true,
+          "evidence": [
+            "P31"
+          ]
+        },
+        {
+          "text": "The Witch of Atlas is Apollo's daughter.",
+          "supported": null,
+          "evidence": []
+        }
+      ],
+      "citation_precision": 1,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The answer is correct and complete. The claim about the Witch of Atlas being Apollo's daughter is not explicitly supported by the poem, but it is a reasonable inference from the context."
+    },
+    "usage": {
+      "prompt_tokens": 1805,
+      "completion_tokens": 216,
+      "seconds": 4.037110145
+    },
+    "error": null
+  },
+  "F20": {
+    "raw": "{\n  \"correctness\": 0,\n  \"correctness_reason\": \"The answer is wrong because it states that the context does not establish the age of Love, which contradicts the gold answer.\",\n  \"key_point_coverage\": null,\n  \"claims\": [{\"text\": \"The context does not provide information about Love's age.\", \"supported\": null, \"evidence\": []}],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The answer is incorrect as it contradicts the gold answer without providing any supporting evidence from the context.\"\n}",
+    "parsed": {
+      "correctness": 0,
+      "correctness_reason": "The answer is wrong because it states that the context does not establish the age of Love, which contradicts the gold answer.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The context does not provide information about Love's age.",
+          "supported": null,
+          "evidence": []
+        }
+      ],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The answer is incorrect as it contradicts the gold answer without providing any supporting evidence from the context."
+    },
+    "usage": {
+      "prompt_tokens": 1774,
+      "completion_tokens": 133,
+      "seconds": 2.712629305
+    },
+    "error": null
+  },
+  "F21": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The answer accurately states that Love sowed a plant in his mother's star and watered it with sweet dew, which is correct according to the poem. It does not include any unsupported or contradictory details.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"Love sowed a plant in his mother's star\", \"supported\": true, \"evidence\": [\"P32\"]},\n    {\"text\": \"He watered it with sweet dew\", \"supported\": true, \"evidence\": [\"P32\"]}\n  ],\n  \"citation_precision\": 1,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The answer accurately states that Love sowed a plant in his mother's star and watered it with sweet dew, which is correct according to the poem. It does not include any unsupported or contradictory details.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "Love sowed a plant in his mother's star",
+          "supported": true,
+          "evidence": [
+            "P32"
+          ]
+        },
+        {
+          "text": "He watered it with sweet dew",
+          "supported": true,
+          "evidence": [
+            "P32"
+          ]
+        }
+      ],
+      "citation_precision": 1,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 2153,
+      "completion_tokens": 165,
+      "seconds": 3.381547209
+    },
+    "error": null
+  },
+  "F22": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The answer correctly identifies the boat as made from a plant grown by Love and imbued with swiftness. It is supported by the cited stanzas.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\n      \"text\": \"The Witch's boat is made from a plant that Love grew, imbued with swiftness.\",\n      \"supported\": true,\n      \"evidence\": [\"P31\"]\n    }\n  ],\n  \"citation_precision\": 1,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The answer correctly identifies the boat as made from a plant grown by Love and imbued with swiftness. It is supported by the cited stanzas.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The Witch's boat is made from a plant that Love grew, imbued with swiftness.",
+          "supported": true,
+          "evidence": [
+            "P31"
+          ]
+        }
+      ],
+      "citation_precision": 1,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 2143,
+      "completion_tokens": 145,
+      "seconds": 3.11055938
+    },
+    "error": null
+  },
+  "F23": {
+    "raw": "{\n  \"correctness\": 0,\n  \"correctness_reason\": \"The answer is wrong because it states that the provided context does not establish the information, but the gold answer is clearly stated in the poem.\",\n  \"key_point_coverage\": null,\n  \"claims\": [],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The candidate answer is incorrect as it does not provide the correct information from the poem. The Witch breathed a living spirit, the soul of swiftness, into the boat.\"\n}",
+    "parsed": {
+      "correctness": 0,
+      "correctness_reason": "The answer is wrong because it states that the provided context does not establish the information, but the gold answer is clearly stated in the poem.",
+      "key_point_coverage": null,
+      "claims": [],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The candidate answer is incorrect as it does not provide the correct information from the poem. The Witch breathed a living spirit, the soul of swiftness, into the boat."
+    },
+    "usage": {
+      "prompt_tokens": 1709,
+      "completion_tokens": 127,
+      "seconds": 2.590929073
+    },
+    "error": null
+  },
+  "F24": {
+    "raw": "{\n  \"correctness\": 0,\n  \"correctness_reason\": \"The answer is wrong because it states that the provided context does not establish the answer, but the gold answer is 'Fire and snow.'\",\n  \"key_point_coverage\": null,\n  \"claims\": [],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The candidate answer does not provide the correct information and instead states that the context does not support the answer, which is incorrect.\"\n}",
+    "parsed": {
+      "correctness": 0,
+      "correctness_reason": "The answer is wrong because it states that the provided context does not establish the answer, but the gold answer is 'Fire and snow.'",
+      "key_point_coverage": null,
+      "claims": [],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The candidate answer does not provide the correct information and instead states that the context does not support the answer, which is incorrect."
+    },
+    "usage": {
+      "prompt_tokens": 1704,
+      "completion_tokens": 116,
+      "seconds": 2.389393489
+    },
+    "error": null
+  },
+  "F25": {
+    "raw": "{\n  \"correctness\": 0,\n  \"correctness_reason\": \"The answer is wrong because it states that the context does not establish the name, which contradicts the gold answer.\",\n  \"key_point_coverage\": null,\n  \"claims\": [],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The candidate answer is incorrect as it contradicts the gold answer by denying the existence of the name in the context.\"\n}",
+    "parsed": {
+      "correctness": 0,
+      "correctness_reason": "The answer is wrong because it states that the context does not establish the name, which contradicts the gold answer.",
+      "key_point_coverage": null,
+      "claims": [],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The candidate answer is incorrect as it contradicts the gold answer by denying the existence of the name in the context."
+    },
+    "usage": {
+      "prompt_tokens": 1692,
+      "completion_tokens": 109,
+      "seconds": 2.269898109
+    },
+    "error": null
+  },
+  "F26": {
+    "raw": "{\n  \"correctness\": 0,\n  \"correctness_reason\": \"The answer is wrong because it contradicts the poem, which explicitly states that the shape sits at the prow of the boat.\",\n  \"key_point_coverage\": null,\n  \"claims\": [{\"text\": \"The shape sits at the prow of the boat.\", \"supported\": true, \"evidence\": [\"P29\"]}],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The answer is factually incorrect and contradicts the poem.\"\n}",
+    "parsed": {
+      "correctness": 0,
+      "correctness_reason": "The answer is wrong because it contradicts the poem, which explicitly states that the shape sits at the prow of the boat.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The shape sits at the prow of the boat.",
+          "supported": true,
+          "evidence": [
+            "P29"
+          ]
+        }
+      ],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The answer is factually incorrect and contradicts the poem."
+    },
+    "usage": {
+      "prompt_tokens": 1707,
+      "completion_tokens": 128,
+      "seconds": 2.592794351
+    },
+    "error": null
+  },
+  "F27": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The answer correctly identifies the river as the Nile and provides the correct context (hours of sleep) from the poem. The citations [P55, P56, P57, P58] are accurate.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"The Witch glides down the Nile during the hours of sleep.\", \"supported\": true, \"evidence\": [\"P57\"]}\n  ],\n  \"citation_precision\": 1,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The answer correctly identifies the river as the Nile and provides the correct context (hours of sleep) from the poem. The citations [P55, P56, P57, P58] are accurate.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The Witch glides down the Nile during the hours of sleep.",
+          "supported": true,
+          "evidence": [
+            "P57"
+          ]
+        }
+      ],
+      "citation_precision": 1,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 2076,
+      "completion_tokens": 143,
+      "seconds": 3.008354931
+    },
+    "error": null
+  },
+  "F28": {
+    "raw": "{\n  \"correctness\": 0,\n  \"correctness_reason\": \"The answer is wrong because it states that the provided context does not establish the information, which contradicts the gold answer.\",\n  \"key_point_coverage\": null,\n  \"claims\": [],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The candidate answer is incorrect as it does not provide the correct information from the poem, and instead states that the context does not establish the information.\"\n}",
+    "parsed": {
+      "correctness": 0,
+      "correctness_reason": "The answer is wrong because it states that the provided context does not establish the information, which contradicts the gold answer.",
+      "key_point_coverage": null,
+      "claims": [],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The candidate answer is incorrect as it does not provide the correct information from the poem, and instead states that the context does not establish the information."
+    },
+    "usage": {
+      "prompt_tokens": 1703,
+      "completion_tokens": 116,
+      "seconds": 2.411049006
+    },
+    "error": null
+  },
+  "F29": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The answer is correct and complete. It accurately states that the Witch takes the coffin from its niche and throws it into a ditch, which matches the gold answer.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\n      \"text\": \"The Witch unwraps the coffin and throws it into a ditch\",\n      \"supported\": true,\n      \"evidence\": [\"P70\"]\n    }\n  ],\n  \"citation_precision\": 1,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The answer is precise and directly supports the gold answer. The additional detail about unwrapping the coffin is not necessary but does not detract from the correctness.\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The answer is correct and complete. It accurately states that the Witch takes the coffin from its niche and throws it into a ditch, which matches the gold answer.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The Witch unwraps the coffin and throws it into a ditch",
+          "supported": true,
+          "evidence": [
+            "P70"
+          ]
+        }
+      ],
+      "citation_precision": 1,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The answer is precise and directly supports the gold answer. The additional detail about unwrapping the coffin is not necessary but does not detract from the correctness."
+    },
+    "usage": {
+      "prompt_tokens": 2084,
+      "completion_tokens": 169,
+      "seconds": 3.389119931
+    },
+    "error": null
+  },
+  "F30": {
+    "raw": "{\n  \"correctness\": 0,\n  \"correctness_reason\": \"The answer is wrong because it states that the provided context does not establish the answer, but the gold answer is correct and supported by the poem.\",\n  \"key_point_coverage\": null,\n  \"claims\": [],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The candidate answer is incorrect as it contradicts the gold answer, which states that the Witch reunites with friends who had been torn apart by envious skill. The provided context does not support the candidate's claim.\"\n}",
+    "parsed": {
+      "correctness": 0,
+      "correctness_reason": "The answer is wrong because it states that the provided context does not establish the answer, but the gold answer is correct and supported by the poem.",
+      "key_point_coverage": null,
+      "claims": [],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The candidate answer is incorrect as it contradicts the gold answer, which states that the Witch reunites with friends who had been torn apart by envious skill. The provided context does not support the candidate's claim."
+    },
+    "usage": {
+      "prompt_tokens": 1707,
+      "completion_tokens": 135,
+      "seconds": 2.708536615
+    },
+    "error": null
+  },
+  "M01": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The answer accurately captures the key points from the poem: Vulcan made a boat for Venus, it was too feeble, Apollo bought it, and gave it to the Witch of Atlas. The answer is complete and correct.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"Vulcan made a boat for Venus.\", \"supported\": true, \"evidence\": [\"P31\"]},\n    {\"text\": \"The boat was too feeble.\", \"supported\": true, \"evidence\": [\"P31\"]},\n    {\"text\": \"Apollo bought the boat from Venus.\", \"supported\": true, \"evidence\": [\"P31\"]},\n    {\"text\": \"Apollo gave the boat to the Witch of Atlas as her daughter.\", \"supported\": false, \"evidence\": []}\n  ],\n  \"citation_precision\": 1,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The claim about the Witch being Apollo's daughter is not supported by the poem and is an unsupported addition.\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The answer accurately captures the key points from the poem: Vulcan made a boat for Venus, it was too feeble, Apollo bought it, and gave it to the Witch of Atlas. The answer is complete and correct.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "Vulcan made a boat for Venus.",
+          "supported": true,
+          "evidence": [
+            "P31"
+          ]
+        },
+        {
+          "text": "The boat was too feeble.",
+          "supported": true,
+          "evidence": [
+            "P31"
+          ]
+        },
+        {
+          "text": "Apollo bought the boat from Venus.",
+          "supported": true,
+          "evidence": [
+            "P31"
+          ]
+        },
+        {
+          "text": "Apollo gave the boat to the Witch of Atlas as her daughter.",
+          "supported": false,
+          "evidence": []
+        }
+      ],
+      "citation_precision": 1,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The claim about the Witch being Apollo's daughter is not supported by the poem and is an unsupported addition."
+    },
+    "usage": {
+      "prompt_tokens": 2145,
+      "completion_tokens": 243,
+      "seconds": 4.728304534
+    },
+    "error": null
+  },
+  "M02": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The answer correctly identifies the magical nature of the boat and provides supporting evidence from the poem. It does not contradict the gold answer.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\n      \"text\": \"The Witch's boat can float on shallow rapids where a mortal boat could not because it is imbued with magical abilities.\",\n      \"supported\": true,\n      \"evidence\": [\"P31\"]\n    }\n  ],\n  \"citation_precision\": 1,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The answer is concise and directly addresses the question without unnecessary details.\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The answer correctly identifies the magical nature of the boat and provides supporting evidence from the poem. It does not contradict the gold answer.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The Witch's boat can float on shallow rapids where a mortal boat could not because it is imbued with magical abilities.",
+          "supported": true,
+          "evidence": [
+            "P31"
+          ]
+        }
+      ],
+      "citation_precision": 1,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The answer is concise and directly addresses the question without unnecessary details."
+    },
+    "usage": {
+      "prompt_tokens": 2181,
+      "completion_tokens": 155,
+      "seconds": 3.274914059
+    },
+    "error": null
+  },
+  "M03": {
+    "raw": "{\n  \"correctness\": 1,\n  \"correctness_reason\": \"The answer correctly identifies that the Witch uses a boat to travel through the streams and that Hermaphroditus assists her. However, it incorrectly states that Hermaphroditus is mentioned in stanzas [P40, P41, P42, P43], which are not provided.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"The Witch travels up the mountain vales using a boat.\", \"supported\": true, \"evidence\": [\"P37\"]},\n    {\"text\": \"Hermaphroditus assists her in navigating the mountain.\", \"supported\": false, \"evidence\": [\"P40\", \"P41\"]}\n  ],\n  \"citation_precision\": 1,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The answer is partially correct but includes unsupported claims.\"\n}",
+    "parsed": {
+      "correctness": 1,
+      "correctness_reason": "The answer correctly identifies that the Witch uses a boat to travel through the streams and that Hermaphroditus assists her. However, it incorrectly states that Hermaphroditus is mentioned in stanzas [P40, P41, P42, P43], which are not provided.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The Witch travels up the mountain vales using a boat.",
+          "supported": true,
+          "evidence": [
+            "P37"
+          ]
+        },
+        {
+          "text": "Hermaphroditus assists her in navigating the mountain.",
+          "supported": false,
+          "evidence": [
+            "P40",
+            "P41"
+          ]
+        }
+      ],
+      "citation_precision": 1,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The answer is partially correct but includes unsupported claims."
+    },
+    "usage": {
+      "prompt_tokens": 2149,
+      "completion_tokens": 209,
+      "seconds": 4.108146273
+    },
+    "error": null
+  },
+  "M04": {
+    "raw": "{\n  \"correctness\": 0,\n  \"correctness_reason\": \"The answer is wrong because it states that the context does not establish the events, but the gold answer provides specific details about what happens to the Witch's tears and her subsequent actions.\",\n  \"key_point_coverage\": null,\n  \"claims\": [],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"notes\": \"The answer is incorrect as it does not address the question at hand, which asks about the Witch's tears and her actions after the nymphs depart.\"\n}",
+    "parsed": {
+      "correctness": 0,
+      "correctness_reason": "The answer is wrong because it states that the context does not establish the events, but the gold answer provides specific details about what happens to the Witch's tears and her subsequent actions.",
+      "key_point_coverage": null,
+      "claims": [],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "notes": "The answer is incorrect as it does not address the question at hand, which asks about the Witch's tears and her actions after the nymphs depart."
+    },
+    "usage": {
+      "prompt_tokens": 1751,
+      "completion_tokens": 122,
+      "seconds": 2.549319467
+    },
+    "error": null
+  },
+  "M05": {
+    "raw": "{\n  \"correctness\": 0,\n  \"correctness_reason\": \"The answer is wrong because it states that the context does not establish the reason for the Witch's weeping, which contradicts the poem. The poem explicitly states that the Witch weeps because she knows the nymphs and all mortal things must perish, while she cannot die.\",\n  \"key_point_coverage\": null,\n  \"claims\": [],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The answer is incorrect as it does not address the provided gold answer and instead states that the context does not establish the reason, which is false.\"\n}",
+    "parsed": {
+      "correctness": 0,
+      "correctness_reason": "The answer is wrong because it states that the context does not establish the reason for the Witch's weeping, which contradicts the poem. The poem explicitly states that the Witch weeps because she knows the nymphs and all mortal things must perish, while she cannot die.",
+      "key_point_coverage": null,
+      "claims": [],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The answer is incorrect as it does not address the provided gold answer and instead states that the context does not establish the reason, which is false."
+    },
+    "usage": {
+      "prompt_tokens": 1746,
+      "completion_tokens": 147,
+      "seconds": 2.914660001
+    },
+    "error": null
+  },
+  "M06": {
+    "raw": "{\n  \"correctness\": 1,\n  \"correctness_reason\": \"The answer correctly states that Hermaphroditus is called by the Witch to help navigate and accompanies the Witch and her creature. However, it does not provide the creation details of Hermaphroditus as specified in the gold answer.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"Hermaphroditus is called by the Witch to help her navigate the labyrinths of the mountain.\", \"supported\": true, \"evidence\": [\"P46\", \"P47\", \"P48\", \"P49\"]},\n    {\"text\": \"He accompanies the Witch and her creature on their journey.\", \"supported\": true, \"evidence\": [\"P10\", \"P11\", \"P12\", \"P13\"]}\n  ],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The answer is partially correct as it does not include the creation details of Hermaphroditus, which are required by the question.\"\n}",
+    "parsed": {
+      "correctness": 1,
+      "correctness_reason": "The answer correctly states that Hermaphroditus is called by the Witch to help navigate and accompanies the Witch and her creature. However, it does not provide the creation details of Hermaphroditus as specified in the gold answer.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "Hermaphroditus is called by the Witch to help her navigate the labyrinths of the mountain.",
+          "supported": true,
+          "evidence": [
+            "P46",
+            "P47",
+            "P48",
+            "P49"
+          ]
+        },
+        {
+          "text": "He accompanies the Witch and her creature on their journey.",
+          "supported": true,
+          "evidence": [
+            "P10",
+            "P11",
+            "P12",
+            "P13"
+          ]
+        }
+      ],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The answer is partially correct as it does not include the creation details of Hermaphroditus, which are required by the question."
+    },
+    "usage": {
+      "prompt_tokens": 2188,
+      "completion_tokens": 243,
+      "seconds": 4.778708615
+    },
+    "error": null
+  },
+  "M07": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The answer accurately states that Love scooped the boat from a plant he grew in his mother's star and piloted it around the ocean. It correctly cites the relevant stanzas.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"Love scooped the boat from a plant he grew in his mother's star.\", \"supported\": true, \"evidence\": [\"P32\", \"P33\"]},\n    {\"text\": \"The plant grew in Love's mother's star.\", \"supported\": true, \"evidence\": [\"P32\"]},\n    {\"text\": \"Love piloted the boat around the ocean.\", \"supported\": true, \"evidence\": [\"P33\"]}\n  ],\n  \"citation_precision\": 1,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The answer accurately states that Love scooped the boat from a plant he grew in his mother's star and piloted it around the ocean. It correctly cites the relevant stanzas.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "Love scooped the boat from a plant he grew in his mother's star.",
+          "supported": true,
+          "evidence": [
+            "P32",
+            "P33"
+          ]
+        },
+        {
+          "text": "The plant grew in Love's mother's star.",
+          "supported": true,
+          "evidence": [
+            "P32"
+          ]
+        },
+        {
+          "text": "Love piloted the boat around the ocean.",
+          "supported": true,
+          "evidence": [
+            "P33"
+          ]
+        }
+      ],
+      "citation_precision": 1,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 2052,
+      "completion_tokens": 202,
+      "seconds": 3.957611991
+    },
+    "error": null
+  },
+  "M08": {
+    "raw": "{\n  \"correctness\": 0,\n  \"correctness_reason\": \"The answer incorrectly states that the Witch climbs up to the clouds where the whirlwinds and clouds descend. According to the poem, she goes to the asphodel lawn and lies in the well of crimson fire when whirlwinds and clouds descend.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\n      \"text\": \"The Witch climbs up to the high and colorful clouds where the whirlwinds and clouds descend\",\n      \"supported\": false,\n      \"evidence\": [\"P28\", \"P29\", \"P30\", \"P31\", \"P52\", \"P53\"]\n    }\n  ],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The answer contradicts the poem and does not address the correct location where the Witch goes when whirlwinds and clouds descend.\"\n}",
+    "parsed": {
+      "correctness": 0,
+      "correctness_reason": "The answer incorrectly states that the Witch climbs up to the clouds where the whirlwinds and clouds descend. According to the poem, she goes to the asphodel lawn and lies in the well of crimson fire when whirlwinds and clouds descend.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The Witch climbs up to the high and colorful clouds where the whirlwinds and clouds descend",
+          "supported": false,
+          "evidence": [
+            "P28",
+            "P29",
+            "P30",
+            "P31",
+            "P52",
+            "P53"
+          ]
+        }
+      ],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The answer contradicts the poem and does not address the correct location where the Witch goes when whirlwinds and clouds descend."
+    },
+    "usage": {
+      "prompt_tokens": 2138,
+      "completion_tokens": 209,
+      "seconds": 4.112703205
+    },
+    "error": null
+  },
+  "M09": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The answer correctly identifies the magical power of the cave through its ability to transform objects and sustain light and beauty. It accurately cites relevant stanzas [P25, P26, P27, P28, P29, P30].\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"The Witch's cave reflects her magical power through its ability to transform ordinary objects and sustain a perpetual source of light and beauty.\", \"supported\": true, \"evidence\": [\"P25\", \"P26\", \"P27\", \"P28\", \"P29\", \"P30\"]},\n    {\"text\": \"The cave contains a fountain where the Witch lay in trance, emitting emerald crags and water deep enough to see constellations.\", \"supported\": true, \"evidence\": [\"P25\", \"P26\", \"P27\", \"P28\", \"P29\", \"P30\"]}\n  ],\n  \"citation_precision\": 1,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The answer correctly identifies the magical power of the cave through its ability to transform objects and sustain light and beauty. It accurately cites relevant stanzas [P25, P26, P27, P28, P29, P30].",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The Witch's cave reflects her magical power through its ability to transform ordinary objects and sustain a perpetual source of light and beauty.",
+          "supported": true,
+          "evidence": [
+            "P25",
+            "P26",
+            "P27",
+            "P28",
+            "P29",
+            "P30"
+          ]
+        },
+        {
+          "text": "The cave contains a fountain where the Witch lay in trance, emitting emerald crags and water deep enough to see constellations.",
+          "supported": true,
+          "evidence": [
+            "P25",
+            "P26",
+            "P27",
+            "P28",
+            "P29",
+            "P30"
+          ]
+        }
+      ],
+      "citation_precision": 1,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 2212,
+      "completion_tokens": 262,
+      "seconds": 4.974740973
+    },
+    "error": null
+  },
+  "M10": {
+    "raw": "{\n  \"correctness\": 0,\n  \"correctness_reason\": \"The answer is wrong because it states that the context does not establish the relationship between the Witch's scrolls and her father's power, which contradicts the gold answer.\",\n  \"key_point_coverage\": null,\n  \"claims\": [],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The answer is incorrect as it does not address the relationship between the Witch's scrolls and her father's power, which is explicitly stated in the gold answer.\"\n}",
+    "parsed": {
+      "correctness": 0,
+      "correctness_reason": "The answer is wrong because it states that the context does not establish the relationship between the Witch's scrolls and her father's power, which contradicts the gold answer.",
+      "key_point_coverage": null,
+      "claims": [],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The answer is incorrect as it does not address the relationship between the Witch's scrolls and her father's power, which is explicitly stated in the gold answer."
+    },
+    "usage": {
+      "prompt_tokens": 1724,
+      "completion_tokens": 127,
+      "seconds": 2.5991287
+    },
+    "error": null
+  },
+  "M11": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The answer accurately describes the Witch's observations of sleeping mortals and provides relevant citations. However, it does not explicitly state how she responds to these observations, which is a key part of the question.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"The Witch observes various sleeping mortals, including peasants, priests, princes, and two sister twins.\", \"supported\": true, \"evidence\": [\"P61\", \"P62\", \"P63\", \"P64\"]},\n    {\"text\": \"She watches over two lovers sleeping innocently with intertwined hair.\", \"supported\": true, \"evidence\": [\"P61\", \"P62\", \"P63\", \"P64\"]},\n    {\"text\": \"The provided context does not explicitly state how she responds to these observations.\", \"supported\": null, \"evidence\": []},\n    {\"text\": \"She can interfere with the work of embalmers and throw coffins into ditches.\", \"supported\": false, \"evidence\": [\"P70\", \"P71\", \"P72\", \"P73\"]}\n  ],\n  \"citation_precision\": 0.5,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The answer correctly identifies the Witch's observations but does not fully address her response to these observations, which is a key part of the question.\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The answer accurately describes the Witch's observations of sleeping mortals and provides relevant citations. However, it does not explicitly state how she responds to these observations, which is a key part of the question.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The Witch observes various sleeping mortals, including peasants, priests, princes, and two sister twins.",
+          "supported": true,
+          "evidence": [
+            "P61",
+            "P62",
+            "P63",
+            "P64"
+          ]
+        },
+        {
+          "text": "She watches over two lovers sleeping innocently with intertwined hair.",
+          "supported": true,
+          "evidence": [
+            "P61",
+            "P62",
+            "P63",
+            "P64"
+          ]
+        },
+        {
+          "text": "The provided context does not explicitly state how she responds to these observations.",
+          "supported": null,
+          "evidence": []
+        },
+        {
+          "text": "She can interfere with the work of embalmers and throw coffins into ditches.",
+          "supported": false,
+          "evidence": [
+            "P70",
+            "P71",
+            "P72",
+            "P73"
+          ]
+        }
+      ],
+      "citation_precision": 0.5,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The answer correctly identifies the Witch's observations but does not fully address her response to these observations, which is a key part of the question."
+    },
+    "usage": {
+      "prompt_tokens": 2219,
+      "completion_tokens": 320,
+      "seconds": 5.958486098
+    },
+    "error": null
+  },
+  "M12": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The answer accurately describes what the Witch does with the dead and how she treats their graves, as stated in the poem. It also correctly mentions that she observes the dead in their graves.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"The Witch observes the dead lulled to sleep within their dreamless graves.\", \"supported\": true, \"evidence\": [\"P61\", \"P62\", \"P63\", \"P64\"]},\n    {\"text\": \"She sees the peasants sleeping in their huts and the princes under the glow of sunlike gems.\", \"supported\": true, \"evidence\": [\"P64\", \"P65\", \"P66\", \"P67\"]},\n    {\"text\": \"The Witch interferes with the work of the embalmers, extinguishing funeral lamps, and throwing coffins into ditches.\", \"supported\": false, \"evidence\": [\"P70\", \"P71\", \"P72\", \"P73\"]}\n  ],\n  \"citation_precision\": 0.5,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The candidate answer correctly identifies the Witch's actions towards the dead, but incorrectly cites stanzas that do not support the claim about interfering with embalmers.\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The answer accurately describes what the Witch does with the dead and how she treats their graves, as stated in the poem. It also correctly mentions that she observes the dead in their graves.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The Witch observes the dead lulled to sleep within their dreamless graves.",
+          "supported": true,
+          "evidence": [
+            "P61",
+            "P62",
+            "P63",
+            "P64"
+          ]
+        },
+        {
+          "text": "She sees the peasants sleeping in their huts and the princes under the glow of sunlike gems.",
+          "supported": true,
+          "evidence": [
+            "P64",
+            "P65",
+            "P66",
+            "P67"
+          ]
+        },
+        {
+          "text": "The Witch interferes with the work of the embalmers, extinguishing funeral lamps, and throwing coffins into ditches.",
+          "supported": false,
+          "evidence": [
+            "P70",
+            "P71",
+            "P72",
+            "P73"
+          ]
+        }
+      ],
+      "citation_precision": 0.5,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The candidate answer correctly identifies the Witch's actions towards the dead, but incorrectly cites stanzas that do not support the claim about interfering with embalmers."
+    },
+    "usage": {
+      "prompt_tokens": 2228,
+      "completion_tokens": 302,
+      "seconds": 5.617683892
+    },
+    "error": null
+  },
+  "M13": {
+    "raw": "{\n  \"correctness\": 0,\n  \"correctness_reason\": \"The answer is wrong because it states that the provided context does not establish the response, which contradicts the gold answer.\",\n  \"key_point_coverage\": null,\n  \"claims\": [],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The candidate answer is incorrect as it does not provide the correct response and instead states that the context does not support the answer, which is false.\"\n}",
+    "parsed": {
+      "correctness": 0,
+      "correctness_reason": "The answer is wrong because it states that the provided context does not establish the response, which contradicts the gold answer.",
+      "key_point_coverage": null,
+      "claims": [],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The candidate answer is incorrect as it does not provide the correct response and instead states that the context does not support the answer, which is false."
+    },
+    "usage": {
+      "prompt_tokens": 1723,
+      "completion_tokens": 116,
+      "seconds": 2.438306296
+    },
+    "error": null
+  },
+  "M14": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The answer accurately describes the sequence of transactions involving the boat and connects it to Venus's chariot. It is supported by the provided context.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"Vulcan made a boat for Venus as the chariot of her star.\", \"supported\": true, \"evidence\": [\"P30\"]},\n    {\"text\": \"Venus sold the boat because it was too feeble.\", \"supported\": true, \"evidence\": [\"P30\"]},\n    {\"text\": \"Apollo bought the boat from Venus and gave it to the Witch of Atlas.\", \"supported\": true, \"evidence\": [\"P30\"]},\n    {\"text\": \"The boat was originally made for Venus's chariot.\", \"supported\": null, \"evidence\": []}\n  ],\n  \"citation_precision\": 1,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The answer correctly identifies the sequence of events involving the boat and its connection to Venus's chariot. It is well-supported by the provided context.\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The answer accurately describes the sequence of transactions involving the boat and connects it to Venus's chariot. It is supported by the provided context.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "Vulcan made a boat for Venus as the chariot of her star.",
+          "supported": true,
+          "evidence": [
+            "P30"
+          ]
+        },
+        {
+          "text": "Venus sold the boat because it was too feeble.",
+          "supported": true,
+          "evidence": [
+            "P30"
+          ]
+        },
+        {
+          "text": "Apollo bought the boat from Venus and gave it to the Witch of Atlas.",
+          "supported": true,
+          "evidence": [
+            "P30"
+          ]
+        },
+        {
+          "text": "The boat was originally made for Venus's chariot.",
+          "supported": null,
+          "evidence": []
+        }
+      ],
+      "citation_precision": 1,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The answer correctly identifies the sequence of events involving the boat and its connection to Venus's chariot. It is well-supported by the provided context."
+    },
+    "usage": {
+      "prompt_tokens": 2158,
+      "completion_tokens": 253,
+      "seconds": 4.792937449
+    },
+    "error": null
+  },
+  "M15": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The answer correctly identifies the role of the three threads in creating a subtle veil for the Witch's splendour and love. It is supported by the cited stanza [P13].\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\n      \"text\": \"The three threads of fleecy mist and light are used by the Witch to create a subtle veil for her splendour and love.\",\n      \"supported\": true,\n      \"evidence\": [\"P13\"]\n    }\n  ],\n  \"citation_precision\": 1,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The answer correctly identifies the role of the three threads in creating a subtle veil for the Witch's splendour and love. It is supported by the cited stanza [P13].",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The three threads of fleecy mist and light are used by the Witch to create a subtle veil for her splendour and love.",
+          "supported": true,
+          "evidence": [
+            "P13"
+          ]
+        }
+      ],
+      "citation_precision": 1,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 2136,
+      "completion_tokens": 157,
+      "seconds": 3.299089068
+    },
+    "error": null
+  },
+  "M16": {
+    "raw": "{\n  \"correctness\": 0,\n  \"correctness_reason\": \"The answer is wrong because it states that the context does not establish the reason, but the poem clearly provides an explanation.\",\n  \"key_point_coverage\": null,\n  \"claims\": [],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The candidate answer is incorrect as it does not address the question and instead states that the context does not provide an explanation, which contradicts the poem's content.\"\n}",
+    "parsed": {
+      "correctness": 0,
+      "correctness_reason": "The answer is wrong because it states that the context does not establish the reason, but the poem clearly provides an explanation.",
+      "key_point_coverage": null,
+      "claims": [],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The candidate answer is incorrect as it does not address the question and instead states that the context does not provide an explanation, which contradicts the poem's content."
+    },
+    "usage": {
+      "prompt_tokens": 1730,
+      "completion_tokens": 119,
+      "seconds": 2.496261728
+    },
+    "error": null
+  },
+  "M17": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The answer correctly identifies the presence of divine beings (Pan) and the Witch's magical abilities as connecting her cave to the world of gods. It also mentions specific stanzas that support this connection.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"The poem connects the Witch's cave to the world of the gods through the presence of divine beings and the magical abilities of the Witch herself.\", \"supported\": true, \"evidence\": [\"P7\", \"P8\", \"P9\", \"P10\", \"P37\", \"P38\", \"P39\", \"P40\"]},\n    {\"text\": \"Pan is mentioned as feeling his presence in the cave where the Witch lives.\", \"supported\": true, \"evidence\": [\"P7\", \"P8\", \"P9\", \"P10\"]}\n  ],\n  \"citation_precision\": 1,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The answer is well-supported by the cited stanzas and accurately captures the thematic connection between the Witch's cave and the divine world.\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The answer correctly identifies the presence of divine beings (Pan) and the Witch's magical abilities as connecting her cave to the world of gods. It also mentions specific stanzas that support this connection.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The poem connects the Witch's cave to the world of the gods through the presence of divine beings and the magical abilities of the Witch herself.",
+          "supported": true,
+          "evidence": [
+            "P7",
+            "P8",
+            "P9",
+            "P10",
+            "P37",
+            "P38",
+            "P39",
+            "P40"
+          ]
+        },
+        {
+          "text": "Pan is mentioned as feeling his presence in the cave where the Witch lives.",
+          "supported": true,
+          "evidence": [
+            "P7",
+            "P8",
+            "P9",
+            "P10"
+          ]
+        }
+      ],
+      "citation_precision": 1,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The answer is well-supported by the cited stanzas and accurately captures the thematic connection between the Witch's cave and the divine world."
+    },
+    "usage": {
+      "prompt_tokens": 2236,
+      "completion_tokens": 259,
+      "seconds": 4.964438604
+    },
+    "error": null
+  },
+  "M18": {
+    "raw": "{\n  \"correctness\": 1,\n  \"correctness_reason\": \"The answer correctly identifies that the Witch sees the human figures as living spirits and reveals the naked beauty of their souls. However, it does not explicitly state what actions she takes with these spirits, which is a fair interpretation given the lack of explicit information in the context.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"The Witch sees the human figures as living spirits.\", \"supported\": true, \"evidence\": [\"P64\", \"P65\", \"P66\", \"P67\"]},\n    {\"text\": \"She reveals the naked beauty of their souls.\", \"supported\": true, \"evidence\": [\"P66\", \"P67\"]}\n  ],\n  \"citation_precision\": 1,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The answer is partially correct as it accurately describes the Witch's perception of the spirits but does not provide information on what she does with them, which aligns with the lack of explicit details in the context.\"\n}",
+    "parsed": {
+      "correctness": 1,
+      "correctness_reason": "The answer correctly identifies that the Witch sees the human figures as living spirits and reveals the naked beauty of their souls. However, it does not explicitly state what actions she takes with these spirits, which is a fair interpretation given the lack of explicit information in the context.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The Witch sees the human figures as living spirits.",
+          "supported": true,
+          "evidence": [
+            "P64",
+            "P65",
+            "P66",
+            "P67"
+          ]
+        },
+        {
+          "text": "She reveals the naked beauty of their souls.",
+          "supported": true,
+          "evidence": [
+            "P66",
+            "P67"
+          ]
+        }
+      ],
+      "citation_precision": 1,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The answer is partially correct as it accurately describes the Witch's perception of the spirits but does not provide information on what she does with them, which aligns with the lack of explicit details in the context."
+    },
+    "usage": {
+      "prompt_tokens": 2157,
+      "completion_tokens": 238,
+      "seconds": 4.597624606
+    },
+    "error": null
+  },
+  "M19": {
+    "raw": "{\n  \"correctness\": 1,\n  \"correctness_reason\": \"The answer correctly states that the Witch taught charms or potions to both Aurora and Venus, implying the value of her charm. However, it does not directly quote the specific lines from the poem as required.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"The Witch taught both Aurora and Venus charms or potions.\", \"supported\": true, \"evidence\": [\"P67\"]},\n    {\"text\": \"This indicates that the Witch's charm is of such value that it was sought after by other deities.\", \"supported\": false, \"evidence\": []}\n  ],\n  \"citation_precision\": 1,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The answer correctly identifies the Witch teaching charms or potions to Aurora and Venus but does not directly quote the specific lines as required. The second claim is not supported by the provided citations.\"\n}",
+    "parsed": {
+      "correctness": 1,
+      "correctness_reason": "The answer correctly states that the Witch taught charms or potions to both Aurora and Venus, implying the value of her charm. However, it does not directly quote the specific lines from the poem as required.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The Witch taught both Aurora and Venus charms or potions.",
+          "supported": true,
+          "evidence": [
+            "P67"
+          ]
+        },
+        {
+          "text": "This indicates that the Witch's charm is of such value that it was sought after by other deities.",
+          "supported": false,
+          "evidence": []
+        }
+      ],
+      "citation_precision": 1,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The answer correctly identifies the Witch teaching charms or potions to Aurora and Venus but does not directly quote the specific lines as required. The second claim is not supported by the provided citations."
+    },
+    "usage": {
+      "prompt_tokens": 2183,
+      "completion_tokens": 210,
+      "seconds": 4.152985388
+    },
+    "error": null
+  },
+  "M20": {
+    "raw": "{\n  \"correctness\": 0,\n  \"correctness_reason\": \"The answer is wrong because it states that the provided context does not establish the event, but the gold answer clearly describes what happens when the Witch wants to ascend a winding vale.\",\n  \"key_point_coverage\": null,\n  \"claims\": [],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The candidate answer is incorrect and does not address the question at hand. It should have provided the correct sequence of events as described in the gold answer.\"\n}",
+    "parsed": {
+      "correctness": 0,
+      "correctness_reason": "The answer is wrong because it states that the provided context does not establish the event, but the gold answer clearly describes what happens when the Witch wants to ascend a winding vale.",
+      "key_point_coverage": null,
+      "claims": [],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The candidate answer is incorrect and does not address the question at hand. It should have provided the correct sequence of events as described in the gold answer."
+    },
+    "usage": {
+      "prompt_tokens": 1709,
+      "completion_tokens": 128,
+      "seconds": 2.620430396
+    },
+    "error": null
+  },
+  "M21": {
+    "raw": "{\n  \"correctness\": 0,\n  \"correctness_reason\": \"The answer is wrong because it states that the context does not establish the information, but the gold answer clearly provides the correct details from the poem.\",\n  \"key_point_coverage\": null,\n  \"claims\": [],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The candidate answer is incorrect as it does not provide the correct information from the poem, which states that the Witch's haven is made of clouds on the Austral lake, beyond the fabulous Thamondocana.\"\n}",
+    "parsed": {
+      "correctness": 0,
+      "correctness_reason": "The answer is wrong because it states that the context does not establish the information, but the gold answer clearly provides the correct details from the poem.",
+      "key_point_coverage": null,
+      "claims": [],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The candidate answer is incorrect as it does not provide the correct information from the poem, which states that the Witch's haven is made of clouds on the Austral lake, beyond the fabulous Thamondocana."
+    },
+    "usage": {
+      "prompt_tokens": 1712,
+      "completion_tokens": 134,
+      "seconds": 2.675081518
+    },
+    "error": null
+  },
+  "M22": {
+    "raw": "{\n  \"correctness\": 0,\n  \"correctness_reason\": \"The answer directly states that the provided context does not support the claim, which is correct. However, it does not provide any alternative information to answer the question.\",\n  \"key_point_coverage\": null,\n  \"claims\": [{\"text\": \"The provided context does not establish this.\", \"supported\": null, \"evidence\": []}],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The answer is correct in stating that the provided context does not support the claim. However, it could have been more informative by providing an alternative answer based on the poem.\"\n}",
+    "parsed": {
+      "correctness": 0,
+      "correctness_reason": "The answer directly states that the provided context does not support the claim, which is correct. However, it does not provide any alternative information to answer the question.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The provided context does not establish this.",
+          "supported": null,
+          "evidence": []
+        }
+      ],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The answer is correct in stating that the provided context does not support the claim. However, it could have been more informative by providing an alternative answer based on the poem."
+    },
+    "usage": {
+      "prompt_tokens": 1725,
+      "completion_tokens": 151,
+      "seconds": 2.956661423
+    },
+    "error": null
+  },
+  "M23": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The answer correctly identifies the Witch's action of gliding down the Nile and mentions the countries it passes through. However, it does not explicitly state what she sees, which is a key part of the gold answer.\",\n  \"key_point_coverage\": 0.5,\n  \"claims\": [\n    {\"text\": \"The Witch glides down the Nile\", \"supported\": true, \"evidence\": [\"P57\"]},\n    {\"text\": \"The Nile threads Egypt and Aethiopia\", \"supported\": true, \"evidence\": [\"P57\"]}\n  ],\n  \"citation_precision\": 1,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The answer is correct but incomplete as it does not mention what the Witch sees during her journey.\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The answer correctly identifies the Witch's action of gliding down the Nile and mentions the countries it passes through. However, it does not explicitly state what she sees, which is a key part of the gold answer.",
+      "key_point_coverage": 0.5,
+      "claims": [
+        {
+          "text": "The Witch glides down the Nile",
+          "supported": true,
+          "evidence": [
+            "P57"
+          ]
+        },
+        {
+          "text": "The Nile threads Egypt and Aethiopia",
+          "supported": true,
+          "evidence": [
+            "P57"
+          ]
+        }
+      ],
+      "citation_precision": 1,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The answer is correct but incomplete as it does not mention what the Witch sees during her journey."
+    },
+    "usage": {
+      "prompt_tokens": 2180,
+      "completion_tokens": 188,
+      "seconds": 3.826719533
+    },
+    "error": null
+  },
+  "M24": {
+    "raw": "{\n  \"correctness\": 0,\n  \"correctness_reason\": \"The answer is wrong because it states that the context does not establish the significance of the poem's dedication to Mary, which contradicts the gold answer.\",\n  \"key_point_coverage\": null,\n  \"claims\": [],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The answer should have acknowledged the significance of the dedication as stated in the gold answer, without requiring context that was not provided.\"\n}",
+    "parsed": {
+      "correctness": 0,
+      "correctness_reason": "The answer is wrong because it states that the context does not establish the significance of the poem's dedication to Mary, which contradicts the gold answer.",
+      "key_point_coverage": null,
+      "claims": [],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The answer should have acknowledged the significance of the dedication as stated in the gold answer, without requiring context that was not provided."
+    },
+    "usage": {
+      "prompt_tokens": 1779,
+      "completion_tokens": 118,
+      "seconds": 2.498676735
+    },
+    "error": null
+  },
+  "M25": {
+    "raw": "{\n  \"correctness\": 1,\n  \"correctness_reason\": \"The answer correctly identifies the reason for deferring further tales, but it does not directly quote the specific lines from the poem as stated in the gold answer.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"The poem ends by deferring further tales of the Witch.\", \"supported\": null, \"evidence\": []},\n    {\"text\": \"She is described as an aging and waning figure who is losing her power.\", \"supported\": true, \"evidence\": [\"P39\"]}\n  ],\n  \"citation_precision\": 1,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The answer correctly identifies the reason for deferring further tales of the Witch but does not directly quote the specific lines from the poem as stated in the gold answer.\"\n}",
+    "parsed": {
+      "correctness": 1,
+      "correctness_reason": "The answer correctly identifies the reason for deferring further tales, but it does not directly quote the specific lines from the poem as stated in the gold answer.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The poem ends by deferring further tales of the Witch.",
+          "supported": null,
+          "evidence": []
+        },
+        {
+          "text": "She is described as an aging and waning figure who is losing her power.",
+          "supported": true,
+          "evidence": [
+            "P39"
+          ]
+        }
+      ],
+      "citation_precision": 1,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The answer correctly identifies the reason for deferring further tales of the Witch but does not directly quote the specific lines from the poem as stated in the gold answer."
+    },
+    "usage": {
+      "prompt_tokens": 1871,
+      "completion_tokens": 192,
+      "seconds": 3.671115397
+    },
+    "error": null
+  },
+  "T01": {
+    "raw": "{\n  \"correctness\": 0,\n  \"correctness_reason\": \"The answer is wrong because it states that the provided context does not establish the relationship between the Witch and mortality/immortality, which contradicts the poem's content.\",\n  \"key_point_coverage\": null,\n  \"claims\": [],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The answer is incorrect as it does not address the relationship between the Witch and mortality/immortality, which is a key aspect of the question.\"\n}",
+    "parsed": {
+      "correctness": 0,
+      "correctness_reason": "The answer is wrong because it states that the provided context does not establish the relationship between the Witch and mortality/immortality, which contradicts the poem's content.",
+      "key_point_coverage": null,
+      "claims": [],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The answer is incorrect as it does not address the relationship between the Witch and mortality/immortality, which is a key aspect of the question."
+    },
+    "usage": {
+      "prompt_tokens": 1817,
+      "completion_tokens": 125,
+      "seconds": 2.599134637
+    },
+    "error": null
+  },
+  "T02": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The answer accurately captures the key points about the Witch's power over nature, including her control over time, earth, fire, the ocean, wind, and the ability to transform stone into magical objects. The answer is well-supported by the cited stanzas.\",\n  \"key_point_coverage\": 1,\n  \"claims\": [\n    {\"text\": \"The Witch has power over time, earth, and fire.\", \"supported\": true, \"evidence\": [\"P19\"]},\n    {\"text\": \"The ocean and wind obey her spells.\", \"supported\": true, \"evidence\": [\"P19\"]},\n    {\"text\": \"She can change savage stone into magical objects.\", \"supported\": true, \"evidence\": [\"P20\", \"P21\"]}\n  ],\n  \"citation_precision\": 1,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The answer accurately captures the key points about the Witch's power over nature, including her control over time, earth, fire, the ocean, wind, and the ability to transform stone into magical objects. The answer is well-supported by the cited stanzas.",
+      "key_point_coverage": 1,
+      "claims": [
+        {
+          "text": "The Witch has power over time, earth, and fire.",
+          "supported": true,
+          "evidence": [
+            "P19"
+          ]
+        },
+        {
+          "text": "The ocean and wind obey her spells.",
+          "supported": true,
+          "evidence": [
+            "P19"
+          ]
+        },
+        {
+          "text": "She can change savage stone into magical objects.",
+          "supported": true,
+          "evidence": [
+            "P20",
+            "P21"
+          ]
+        }
+      ],
+      "citation_precision": 1,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 2248,
+      "completion_tokens": 212,
+      "seconds": 4.168808793
+    },
+    "error": null
+  },
+  "T03": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The answer accurately captures the role of love in the Witch's creation and actions, citing relevant stanzas. It correctly identifies the use of threads for the veil and Love as the creator of the boat.\",\n  \"key_point_coverage\": 0.75,\n  \"claims\": [\n    {\"text\": \"Love plays a significant role in the Witch's creation and actions.\", \"supported\": null, \"evidence\": []},\n    {\"text\": \"The three threads made of fleecy mist and light are used to create a subtle veil for her splendour and love.\", \"supported\": true, \"evidence\": [\"P13\", \"P14\", \"P15\", \"P16\"]},\n    {\"text\": \"Love is the first-born child of Venus who created the boat that the Witch uses.\", \"supported\": true, \"evidence\": [\"P16\", \"P17\", \"P18\", \"P19\", \"P20\", \"P21\"]}\n  ],\n  \"citation_precision\": 1,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The answer is correct and complete enough for the question. It does not provide an order or duration, which are not required by the question.\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The answer accurately captures the role of love in the Witch's creation and actions, citing relevant stanzas. It correctly identifies the use of threads for the veil and Love as the creator of the boat.",
+      "key_point_coverage": 0.75,
+      "claims": [
+        {
+          "text": "Love plays a significant role in the Witch's creation and actions.",
+          "supported": null,
+          "evidence": []
+        },
+        {
+          "text": "The three threads made of fleecy mist and light are used to create a subtle veil for her splendour and love.",
+          "supported": true,
+          "evidence": [
+            "P13",
+            "P14",
+            "P15",
+            "P16"
+          ]
+        },
+        {
+          "text": "Love is the first-born child of Venus who created the boat that the Witch uses.",
+          "supported": true,
+          "evidence": [
+            "P16",
+            "P17",
+            "P18",
+            "P19",
+            "P20",
+            "P21"
+          ]
+        }
+      ],
+      "citation_precision": 1,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The answer is correct and complete enough for the question. It does not provide an order or duration, which are not required by the question."
+    },
+    "usage": {
+      "prompt_tokens": 2313,
+      "completion_tokens": 290,
+      "seconds": 5.51735897
+    },
+    "error": null
+  },
+  "T04": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The answer correctly identifies the use of light and darkness imagery in the poem, providing examples from the text. However, it does not directly quote or reference the specific stanzas provided in the gold answer.\",\n  \"key_point_coverage\": 0.5,\n  \"claims\": [\n    {\"text\": \"The Witch of Atlas is associated with the moon, which illuminates her throne and affects her emotions.\", \"supported\": false, \"evidence\": [\"P52\", \"P53\"]},\n    {\"text\": \"She creates a subtle veil for her splendour and love, comparing it to the moon's light.\", \"supported\": null, \"evidence\": []},\n    {\"text\": \"The cavern where she resides is a place of beauty and contemplation, with emerald crags and water deep enough to see constellations.\", \"supported\": false, \"evidence\": [\"P25\", \"P26\", \"P27\"]},\n    {\"text\": \"In contrast, the dead are described as being in dreamless graves, experiencing a dreamless rest.\", \"supported\": null, \"evidence\": []}\n  ],\n  \"citation_precision\": 0,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"notes\": \"The answer provides relevant examples but does not directly cite the specific stanzas provided in the gold answer. It also includes unsupported claims.\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The answer correctly identifies the use of light and darkness imagery in the poem, providing examples from the text. However, it does not directly quote or reference the specific stanzas provided in the gold answer.",
+      "key_point_coverage": 0.5,
+      "claims": [
+        {
+          "text": "The Witch of Atlas is associated with the moon, which illuminates her throne and affects her emotions.",
+          "supported": false,
+          "evidence": [
+            "P52",
+            "P53"
+          ]
+        },
+        {
+          "text": "She creates a subtle veil for her splendour and love, comparing it to the moon's light.",
+          "supported": null,
+          "evidence": []
+        },
+        {
+          "text": "The cavern where she resides is a place of beauty and contemplation, with emerald crags and water deep enough to see constellations.",
+          "supported": false,
+          "evidence": [
+            "P25",
+            "P26",
+            "P27"
+          ]
+        },
+        {
+          "text": "In contrast, the dead are described as being in dreamless graves, experiencing a dreamless rest.",
+          "supported": null,
+          "evidence": []
+        }
+      ],
+      "citation_precision": 0,
+      "order_results": [],
+      "sequence_correct": null,
+      "notes": "The answer provides relevant examples but does not directly cite the specific stanzas provided in the gold answer. It also includes unsupported claims."
+    },
+    "usage": {
+      "prompt_tokens": 2385,
+      "completion_tokens": 307,
+      "seconds": 5.83690816
+    },
+    "error": null
+  },
+  "T05": {
+    "raw": "{\n  \"correctness\": 1,\n  \"correctness_reason\": \"The answer correctly identifies Hermaphroditus as significant and his role in accompanying the Witch, but it does not fully capture the poem's description of him.\",\n  \"key_point_coverage\": 0.25,\n  \"claims\": [\n    {\"text\": \"Hermaphroditus accompanies the Witch of Atlas.\", \"supported\": true, \"evidence\": [\"P10\", \"P11\", \"P12\", \"P13\"]},\n    {\"text\": \"His presence symbolizes the androgynous nature that complements the Witch's powerful and mysterious figure.\", \"supported\": false, \"evidence\": []}\n  ],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The answer correctly identifies Hermaphroditus' role but does not mention his creation by the Witch or his significance as a sexless living image with the grace of both sexes, which are key points in the gold answer.\"\n}",
+    "parsed": {
+      "correctness": 1,
+      "correctness_reason": "The answer correctly identifies Hermaphroditus as significant and his role in accompanying the Witch, but it does not fully capture the poem's description of him.",
+      "key_point_coverage": 0.25,
+      "claims": [
+        {
+          "text": "Hermaphroditus accompanies the Witch of Atlas.",
+          "supported": true,
+          "evidence": [
+            "P10",
+            "P11",
+            "P12",
+            "P13"
+          ]
+        },
+        {
+          "text": "His presence symbolizes the androgynous nature that complements the Witch's powerful and mysterious figure.",
+          "supported": false,
+          "evidence": []
+        }
+      ],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The answer correctly identifies Hermaphroditus' role but does not mention his creation by the Witch or his significance as a sexless living image with the grace of both sexes, which are key points in the gold answer."
+    },
+    "usage": {
+      "prompt_tokens": 2303,
+      "completion_tokens": 230,
+      "seconds": 4.47710457
+    },
+    "error": null
+  },
+  "T06": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The answer accurately captures the key theme of the Witch observing mortals in their dreams and sleep. It correctly references specific stanzas (P61-P64) that support this observation.\",\n  \"key_point_coverage\": 0.8333333333333334,\n  \"claims\": [\n    {\"text\": \"The Witch of Atlas observes various dreamers, including the dead, peasants, two lovers, princes, and two sister twins.\", \"supported\": true, \"evidence\": [\"P61\", \"P62\", \"P63\", \"P64\"]},\n    {\"text\": \"She sees troubled dreams and the 'strife' of human life.\", \"supported\": false, \"evidence\": []}\n  ],\n  \"citation_precision\": 1,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The answer correctly identifies the Witch's role in observing dreams and sleep but does not explicitly mention the transformation of dreams as stated in the gold answer. However, this is not a critical omission for the thematic question.\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The answer accurately captures the key theme of the Witch observing mortals in their dreams and sleep. It correctly references specific stanzas (P61-P64) that support this observation.",
+      "key_point_coverage": 0.8333333333333334,
+      "claims": [
+        {
+          "text": "The Witch of Atlas observes various dreamers, including the dead, peasants, two lovers, princes, and two sister twins.",
+          "supported": true,
+          "evidence": [
+            "P61",
+            "P62",
+            "P63",
+            "P64"
+          ]
+        },
+        {
+          "text": "She sees troubled dreams and the 'strife' of human life.",
+          "supported": false,
+          "evidence": []
+        }
+      ],
+      "citation_precision": 1,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The answer correctly identifies the Witch's role in observing dreams and sleep but does not explicitly mention the transformation of dreams as stated in the gold answer. However, this is not a critical omission for the thematic question."
+    },
+    "usage": {
+      "prompt_tokens": 2202,
+      "completion_tokens": 255,
+      "seconds": 4.896546497
+    },
+    "error": null
+  },
+  "T07": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The answer correctly identifies the critical attitude toward priests and religion, and provides relevant citations. However, it does not explicitly mention the specific details about priests dreaming of translating hieroglyphics and issuing pastoral letters, which are key points in the gold answer.\",\n  \"key_point_coverage\": 0.6,\n  \"claims\": [\n    {\"text\": \"The poem has a critical attitude toward priests and religion.\", \"supported\": true, \"evidence\": [\"P61\", \"P62\", \"P63\", \"P64\", \"P70\", \"P71\", \"P72\", \"P73\"]},\n    {\"text\": \"The Witch observes the priests sleeping in dormitories around temple-courts.\", \"supported\": true, \"evidence\": [\"P64\"]},\n    {\"text\": \"She instructs the priests to write explanations and translate hieroglyphics into Greek.\", \"supported\": null, \"evidence\": []},\n    {\"text\": \"She also licenses all to speak their thoughts.\", \"supported\": null, \"evidence\": []}\n  ],\n  \"citation_precision\": 0.75,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The answer is mostly correct but lacks the specific details about priests dreaming and issuing pastoral letters as mentioned in the gold answer.\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The answer correctly identifies the critical attitude toward priests and religion, and provides relevant citations. However, it does not explicitly mention the specific details about priests dreaming of translating hieroglyphics and issuing pastoral letters, which are key points in the gold answer.",
+      "key_point_coverage": 0.6,
+      "claims": [
+        {
+          "text": "The poem has a critical attitude toward priests and religion.",
+          "supported": true,
+          "evidence": [
+            "P61",
+            "P62",
+            "P63",
+            "P64",
+            "P70",
+            "P71",
+            "P72",
+            "P73"
+          ]
+        },
+        {
+          "text": "The Witch observes the priests sleeping in dormitories around temple-courts.",
+          "supported": true,
+          "evidence": [
+            "P64"
+          ]
+        },
+        {
+          "text": "She instructs the priests to write explanations and translate hieroglyphics into Greek.",
+          "supported": null,
+          "evidence": []
+        },
+        {
+          "text": "She also licenses all to speak their thoughts.",
+          "supported": null,
+          "evidence": []
+        }
+      ],
+      "citation_precision": 0.75,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The answer is mostly correct but lacks the specific details about priests dreaming and issuing pastoral letters as mentioned in the gold answer."
+    },
+    "usage": {
+      "prompt_tokens": 2307,
+      "completion_tokens": 305,
+      "seconds": 5.677743253
+    },
+    "error": null
+  },
+  "T08": {
+    "raw": "{\n  \"correctness\": 0,\n  \"correctness_reason\": \"The answer is wrong because it fails to address the thematic content of the poem, which satirizes royal power through the king's dream and the courtiers' behavior.\",\n  \"key_point_coverage\": null,\n  \"claims\": [],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The answer does not address the thematic content of the poem and instead focuses on the absence of explicit references in the provided context, which is not relevant to the question.\"\n}",
+    "parsed": {
+      "correctness": 0,
+      "correctness_reason": "The answer is wrong because it fails to address the thematic content of the poem, which satirizes royal power through the king's dream and the courtiers' behavior.",
+      "key_point_coverage": null,
+      "claims": [],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The answer does not address the thematic content of the poem and instead focuses on the absence of explicit references in the provided context, which is not relevant to the question."
+    },
+    "usage": {
+      "prompt_tokens": 1828,
+      "completion_tokens": 130,
+      "seconds": 2.647345739
+    },
+    "error": null
+  },
+  "T09": {
+    "raw": "{\n  \"correctness\": 0,\n  \"correctness_reason\": \"The answer is wrong because it states that the provided context does not establish the role of art and poetry in the poem, which contradicts the gold answer.\",\n  \"key_point_coverage\": null,\n  \"claims\": [],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The candidate answer is incorrect as it does not address the role of art and poetry in the poem, which is a key aspect of the question.\"\n}",
+    "parsed": {
+      "correctness": 0,
+      "correctness_reason": "The answer is wrong because it states that the provided context does not establish the role of art and poetry in the poem, which contradicts the gold answer.",
+      "key_point_coverage": null,
+      "claims": [],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The candidate answer is incorrect as it does not address the role of art and poetry in the poem, which is a key aspect of the question."
+    },
+    "usage": {
+      "prompt_tokens": 1809,
+      "completion_tokens": 123,
+      "seconds": 2.56226006
+    },
+    "error": null
+  },
+  "T10": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The answer correctly identifies the key points of the poem's contrast between the Witch and mortal women, including her supernatural powers, enduring nature, and ability to create a living boat and summon spirits. However, it does not directly quote the specific stanzas that support these claims.\",\n  \"key_point_coverage\": 0.6,\n  \"claims\": [\n    {\"text\": \"The Witch is described as a powerful and wise figure who possesses magical abilities and artifacts.\", \"supported\": true, \"evidence\": [\"P28\", \"P30\"]},\n    {\"text\": \"Aurora is associated with dawn.\", \"supported\": null, \"evidence\": []},\n    {\"text\": \"Venus is associated with love and beauty.\", \"supported\": true, \"evidence\": [\"P28\", \"P29\", \"P30\"]},\n    {\"text\": \"Diana is associated with chastity and the moon.\", \"supported\": true, \"evidence\": [\"P67\", \"P68\", \"P69\", \"P70\"]},\n    {\"text\": \"The Witch's ability to create a living boat and summon spirits sets her apart from these divine beings.\", \"supported\": true, \"evidence\": [\"P10\", \"P11\"]},\n    {\"text\": \"The Witch is portrayed as an eternal figure who never sleeps or ages.\", \"supported\": null, \"evidence\": []}\n  ],\n  \"citation_precision\": 0.6,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The answer provides a good thematic analysis but lacks direct citations from the poem and does not fully cover all key points.\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The answer correctly identifies the key points of the poem's contrast between the Witch and mortal women, including her supernatural powers, enduring nature, and ability to create a living boat and summon spirits. However, it does not directly quote the specific stanzas that support these claims.",
+      "key_point_coverage": 0.6,
+      "claims": [
+        {
+          "text": "The Witch is described as a powerful and wise figure who possesses magical abilities and artifacts.",
+          "supported": true,
+          "evidence": [
+            "P28",
+            "P30"
+          ]
+        },
+        {
+          "text": "Aurora is associated with dawn.",
+          "supported": null,
+          "evidence": []
+        },
+        {
+          "text": "Venus is associated with love and beauty.",
+          "supported": true,
+          "evidence": [
+            "P28",
+            "P29",
+            "P30"
+          ]
+        },
+        {
+          "text": "Diana is associated with chastity and the moon.",
+          "supported": true,
+          "evidence": [
+            "P67",
+            "P68",
+            "P69",
+            "P70"
+          ]
+        },
+        {
+          "text": "The Witch's ability to create a living boat and summon spirits sets her apart from these divine beings.",
+          "supported": true,
+          "evidence": [
+            "P10",
+            "P11"
+          ]
+        },
+        {
+          "text": "The Witch is portrayed as an eternal figure who never sleeps or ages.",
+          "supported": null,
+          "evidence": []
+        }
+      ],
+      "citation_precision": 0.6,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The answer provides a good thematic analysis but lacks direct citations from the poem and does not fully cover all key points."
+    },
+    "usage": {
+      "prompt_tokens": 2419,
+      "completion_tokens": 375,
+      "seconds": 6.968596836
+    },
+    "error": null
+  },
+  "T11": {
+    "raw": "{\n  \"correctness\": 0,\n  \"correctness_reason\": \"The answer is wrong because it states that the context does not establish the poem's view of human suffering, which contradicts the gold answer.\",\n  \"key_point_coverage\": null,\n  \"claims\": [],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The answer is incorrect as it does not address the thematic content of the poem regarding human suffering.\"\n}",
+    "parsed": {
+      "correctness": 0,
+      "correctness_reason": "The answer is wrong because it states that the context does not establish the poem's view of human suffering, which contradicts the gold answer.",
+      "key_point_coverage": null,
+      "claims": [],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The answer is incorrect as it does not address the thematic content of the poem regarding human suffering."
+    },
+    "usage": {
+      "prompt_tokens": 1884,
+      "completion_tokens": 110,
+      "seconds": 2.408293239
+    },
+    "error": null
+  },
+  "T12": {
+    "raw": "{\n  \"correctness\": 1,\n  \"correctness_reason\": \"The answer correctly identifies the use of classical mythology in the poem, including Venus, nymphs, and charms. However, it misses several key mythological figures and references mentioned in the gold answer.\",\n  \"key_point_coverage\": 0.4,\n  \"claims\": [\n    {\"text\": \"The poem uses classical mythology by incorporating figures such as Venus.\", \"supported\": true, \"evidence\": [\"P67\"]},\n    {\"text\": \"Venus is associated with a boat.\", \"supported\": false, \"evidence\": [\"P28\", \"P29\", \"P30\", \"P31\", \"P32\", \"P33\"]},\n    {\"text\": \"The poem mentions the God Apis, a deity from ancient Egyptian religion.\", \"supported\": true, \"evidence\": [\"P55\", \"P56\", \"P57\", \"P58\", \"P59\"]},\n    {\"text\": \"Allusions to the power of charms and potions are present.\", \"supported\": true, \"evidence\": [\"P64\", \"P65\", \"P66\", \"P67\"]}\n  ],\n  \"citation_precision\": 0.8,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The answer correctly identifies some key mythological figures and references, but misses several important ones from the gold answer. The claims about Venus are partially supported by the cited stanzas, which do not explicitly mention a boat.\"\n}",
+    "parsed": {
+      "correctness": 1,
+      "correctness_reason": "The answer correctly identifies the use of classical mythology in the poem, including Venus, nymphs, and charms. However, it misses several key mythological figures and references mentioned in the gold answer.",
+      "key_point_coverage": 0.4,
+      "claims": [
+        {
+          "text": "The poem uses classical mythology by incorporating figures such as Venus.",
+          "supported": true,
+          "evidence": [
+            "P67"
+          ]
+        },
+        {
+          "text": "Venus is associated with a boat.",
+          "supported": false,
+          "evidence": [
+            "P28",
+            "P29",
+            "P30",
+            "P31",
+            "P32",
+            "P33"
+          ]
+        },
+        {
+          "text": "The poem mentions the God Apis, a deity from ancient Egyptian religion.",
+          "supported": true,
+          "evidence": [
+            "P55",
+            "P56",
+            "P57",
+            "P58",
+            "P59"
+          ]
+        },
+        {
+          "text": "Allusions to the power of charms and potions are present.",
+          "supported": true,
+          "evidence": [
+            "P64",
+            "P65",
+            "P66",
+            "P67"
+          ]
+        }
+      ],
+      "citation_precision": 0.8,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The answer correctly identifies some key mythological figures and references, but misses several important ones from the gold answer. The claims about Venus are partially supported by the cited stanzas, which do not explicitly mention a boat."
+    },
+    "usage": {
+      "prompt_tokens": 2353,
+      "completion_tokens": 340,
+      "seconds": 6.229524981
+    },
+    "error": null
+  },
+  "T13": {
+    "raw": "{\n  \"correctness\": 0,\n  \"correctness_reason\": \"The answer is wrong because it states that the provided context does not establish the function of the poem's dedication to Mary, which contradicts the gold answer and key points.\",\n  \"key_point_coverage\": null,\n  \"claims\": [],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The answer is incorrect as it does not address the question at all, instead stating that the context does not provide information on the dedication's function.\"\n}",
+    "parsed": {
+      "correctness": 0,
+      "correctness_reason": "The answer is wrong because it states that the provided context does not establish the function of the poem's dedication to Mary, which contradicts the gold answer and key points.",
+      "key_point_coverage": null,
+      "claims": [],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The answer is incorrect as it does not address the question at all, instead stating that the context does not provide information on the dedication's function."
+    },
+    "usage": {
+      "prompt_tokens": 1855,
+      "completion_tokens": 126,
+      "seconds": 2.65789982
+    },
+    "error": null
+  },
+  "T14": {
+    "raw": "{\n  \"correctness\": 1,\n  \"correctness_reason\": \"The answer correctly identifies that the Witch's beauty is overwhelming and affects various entities, but it incorrectly states that the beauty is reflected in the glow of the fountain's emerald crags and that she creates a sexless, beautiful creature with wings and grace. These details are not directly related to the question about her beauty and its effects.\",\n  \"key_point_coverage\": 0.5,\n  \"claims\": [\n    {\"text\": \"The Witch's beauty is overwhelming and awe-inspiring.\", \"supported\": true, \"evidence\": [\"P10\", \"P11\", \"P12\", \"P13\"]},\n    {\"text\": \"Her beauty causes the nymphs, Polyphemes, Garamant, and Ocean to marvel at her.\", \"supported\": true, \"evidence\": [\"P10\", \"P11\", \"P12\", \"P13\"]}\n  ],\n  \"citation_precision\": 1,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The answer correctly identifies the overwhelming nature of the Witch's beauty and its effects on various entities, but it includes unsupported details about the fountain and a sexless creature that are not relevant to the question.\"\n}",
+    "parsed": {
+      "correctness": 1,
+      "correctness_reason": "The answer correctly identifies that the Witch's beauty is overwhelming and affects various entities, but it incorrectly states that the beauty is reflected in the glow of the fountain's emerald crags and that she creates a sexless, beautiful creature with wings and grace. These details are not directly related to the question about her beauty and its effects.",
+      "key_point_coverage": 0.5,
+      "claims": [
+        {
+          "text": "The Witch's beauty is overwhelming and awe-inspiring.",
+          "supported": true,
+          "evidence": [
+            "P10",
+            "P11",
+            "P12",
+            "P13"
+          ]
+        },
+        {
+          "text": "Her beauty causes the nymphs, Polyphemes, Garamant, and Ocean to marvel at her.",
+          "supported": true,
+          "evidence": [
+            "P10",
+            "P11",
+            "P12",
+            "P13"
+          ]
+        }
+      ],
+      "citation_precision": 1,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The answer correctly identifies the overwhelming nature of the Witch's beauty and its effects on various entities, but it includes unsupported details about the fountain and a sexless creature that are not relevant to the question."
+    },
+    "usage": {
+      "prompt_tokens": 2347,
+      "completion_tokens": 278,
+      "seconds": 5.302696384
+    },
+    "error": null
+  },
+  "T15": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The answer accurately captures the transformative and mystical nature of the boat journey, aligning with the thematic significance described in the gold answer. It correctly mentions the boat's creation by Love, its travel through various landscapes, and the Witch's interactions with different beings and places.\",\n  \"key_point_coverage\": 0.8,\n  \"claims\": [\n    {\"text\": \"The boat journey symbolizes a transformative and mystical voyage.\", \"supported\": true, \"evidence\": [\"P34\", \"P37\", \"P55\", \"P61\", \"P76\"]},\n    {\"text\": \"The boat is created by Love from a plant.\", \"supported\": true, \"evidence\": [\"P34\"]},\n    {\"text\": \"The Witch uses the boat to travel through streams, forests, and rivers like the Nile.\", \"supported\": true, \"evidence\": [\"P37\", \"P55\", \"P61\"]},\n    {\"text\": \"The journey allows her to observe and interact with various beings and landscapes.\", \"supported\": true, \"evidence\": [\"P55\", \"P61\"]},\n    {\"text\": \"The boat serves as a means for the Witch to unite friends and navigate through her visions.\", \"supported\": null, \"evidence\": []}\n  ],\n  \"citation_precision\": 0.8,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The answer is well-supported by the cited stanzas and covers the key points of the journey's significance, though it does not explicitly mention the connection to the divine, natural, and human worlds as stated in the gold answer.\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The answer accurately captures the transformative and mystical nature of the boat journey, aligning with the thematic significance described in the gold answer. It correctly mentions the boat's creation by Love, its travel through various landscapes, and the Witch's interactions with different beings and places.",
+      "key_point_coverage": 0.8,
+      "claims": [
+        {
+          "text": "The boat journey symbolizes a transformative and mystical voyage.",
+          "supported": true,
+          "evidence": [
+            "P34",
+            "P37",
+            "P55",
+            "P61",
+            "P76"
+          ]
+        },
+        {
+          "text": "The boat is created by Love from a plant.",
+          "supported": true,
+          "evidence": [
+            "P34"
+          ]
+        },
+        {
+          "text": "The Witch uses the boat to travel through streams, forests, and rivers like the Nile.",
+          "supported": true,
+          "evidence": [
+            "P37",
+            "P55",
+            "P61"
+          ]
+        },
+        {
+          "text": "The journey allows her to observe and interact with various beings and landscapes.",
+          "supported": true,
+          "evidence": [
+            "P55",
+            "P61"
+          ]
+        },
+        {
+          "text": "The boat serves as a means for the Witch to unite friends and navigate through her visions.",
+          "supported": null,
+          "evidence": []
+        }
+      ],
+      "citation_precision": 0.8,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The answer is well-supported by the cited stanzas and covers the key points of the journey's significance, though it does not explicitly mention the connection to the divine, natural, and human worlds as stated in the gold answer."
+    },
+    "usage": {
+      "prompt_tokens": 2365,
+      "completion_tokens": 372,
+      "seconds": 6.761793116
+    },
+    "error": null
+  },
+  "T16": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The answer accurately captures that the natural world is subject to the Witch's power and influence, and correctly cites stanzas that support this. It also mentions specific elements of the natural world like asphodel flowers, cedar and pine trees, and a wood where the Witch passes at dewfall, which are present in the poem.\",\n  \"key_point_coverage\": 0.6,\n  \"claims\": [\n    {\"text\": \"Natural forces like the Ocean and wind obey her spells.\", \"supported\": true, \"evidence\": [\"P19\", \"P20\", \"P21\", \"P22\"]},\n    {\"text\": \"The Witch can control elements such as time, earth, fire, ocean, and wind.\", \"supported\": true, \"evidence\": [\"P16\", \"P17\", \"P18\", \"P19\"]},\n    {\"text\": \"She tames the spotted cameleopard with her gentle looks.\", \"supported\": false, \"evidence\": [\"P7\", \"P8\", \"P9\", \"P10\"]},\n    {\"text\": \"The natural landscape includes asphodel flowers, cedar and pine trees, and a wood where the Witch passes at dewfall.\", \"supported\": true, \"evidence\": [\"P28\", \"P29\", \"P30\", \"P31\"]}\n  ],\n  \"citation_precision\": 0.75,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The answer is mostly correct and well-supported by the poem, but it incorrectly includes the detail about taming the spotted cameleopard, which is not mentioned in the poem.\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The answer accurately captures that the natural world is subject to the Witch's power and influence, and correctly cites stanzas that support this. It also mentions specific elements of the natural world like asphodel flowers, cedar and pine trees, and a wood where the Witch passes at dewfall, which are present in the poem.",
+      "key_point_coverage": 0.6,
+      "claims": [
+        {
+          "text": "Natural forces like the Ocean and wind obey her spells.",
+          "supported": true,
+          "evidence": [
+            "P19",
+            "P20",
+            "P21",
+            "P22"
+          ]
+        },
+        {
+          "text": "The Witch can control elements such as time, earth, fire, ocean, and wind.",
+          "supported": true,
+          "evidence": [
+            "P16",
+            "P17",
+            "P18",
+            "P19"
+          ]
+        },
+        {
+          "text": "She tames the spotted cameleopard with her gentle looks.",
+          "supported": false,
+          "evidence": [
+            "P7",
+            "P8",
+            "P9",
+            "P10"
+          ]
+        },
+        {
+          "text": "The natural landscape includes asphodel flowers, cedar and pine trees, and a wood where the Witch passes at dewfall.",
+          "supported": true,
+          "evidence": [
+            "P28",
+            "P29",
+            "P30",
+            "P31"
+          ]
+        }
+      ],
+      "citation_precision": 0.75,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The answer is mostly correct and well-supported by the poem, but it incorrectly includes the detail about taming the spotted cameleopard, which is not mentioned in the poem."
+    },
+    "usage": {
+      "prompt_tokens": 2419,
+      "completion_tokens": 376,
+      "seconds": 6.963829749
+    },
+    "error": null
+  },
+  "T17": {
+    "raw": "{\n  \"correctness\": 0,\n  \"correctness_reason\": \"The answer directly states that the provided context does not establish the Witch's moral stance or ethic, which is incorrect since the gold answer provides a clear stance.\",\n  \"key_point_coverage\": null,\n  \"claims\": [],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"notes\": \"The answer is wrong because it denies the existence of information that is present in the poem and the gold answer.\"\n}",
+    "parsed": {
+      "correctness": 0,
+      "correctness_reason": "The answer directly states that the provided context does not establish the Witch's moral stance or ethic, which is incorrect since the gold answer provides a clear stance.",
+      "key_point_coverage": null,
+      "claims": [],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "notes": "The answer is wrong because it denies the existence of information that is present in the poem and the gold answer."
+    },
+    "usage": {
+      "prompt_tokens": 1834,
+      "completion_tokens": 109,
+      "seconds": 2.376011212
+    },
+    "error": null
+  },
+  "T18": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The answer accurately captures the key themes of death and the afterlife as depicted in the poem, including the Witch observing the dead in their dreamless graves and her interference with funerals. However, it does not explicitly mention the beautiful dead remaining warm and undecaying, which is a key point from the gold answer.\",\n  \"key_point_coverage\": 0.75,\n  \"claims\": [\n    {\"text\": \"The Witch of Atlas observes the dead in their dreamless graves.\", \"supported\": true, \"evidence\": [\"P61\", \"P62\", \"P63\", \"P64\"]},\n    {\"text\": \"The body is described as living in its dreams beyond the rage of death or life.\", \"supported\": true, \"evidence\": [\"P70\", \"P71\", \"P72\", \"P73\"]},\n    {\"text\": \"The Witch interferes with funerals by extinguishing funeral lamps and throwing coffins into ditches.\", \"supported\": true, \"evidence\": [\"P70\", \"P71\", \"P72\", \"P73\"]}\n  ],\n  \"citation_precision\": 1,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The answer is correct and complete enough for the question, but it misses one key point from the gold answer.\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The answer accurately captures the key themes of death and the afterlife as depicted in the poem, including the Witch observing the dead in their dreamless graves and her interference with funerals. However, it does not explicitly mention the beautiful dead remaining warm and undecaying, which is a key point from the gold answer.",
+      "key_point_coverage": 0.75,
+      "claims": [
+        {
+          "text": "The Witch of Atlas observes the dead in their dreamless graves.",
+          "supported": true,
+          "evidence": [
+            "P61",
+            "P62",
+            "P63",
+            "P64"
+          ]
+        },
+        {
+          "text": "The body is described as living in its dreams beyond the rage of death or life.",
+          "supported": true,
+          "evidence": [
+            "P70",
+            "P71",
+            "P72",
+            "P73"
+          ]
+        },
+        {
+          "text": "The Witch interferes with funerals by extinguishing funeral lamps and throwing coffins into ditches.",
+          "supported": true,
+          "evidence": [
+            "P70",
+            "P71",
+            "P72",
+            "P73"
+          ]
+        }
+      ],
+      "citation_precision": 1,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The answer is correct and complete enough for the question, but it misses one key point from the gold answer."
+    },
+    "usage": {
+      "prompt_tokens": 2385,
+      "completion_tokens": 310,
+      "seconds": 5.86955588
+    },
+    "error": null
+  },
+  "T19": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The answer accurately describes the role of the veil in concealing and revealing beauty, and correctly cites relevant stanzas. However, it does not explicitly mention that the veil is a 'shadow for the splendour of her love' as stated in the gold answer.\",\n  \"key_point_coverage\": 0.75,\n  \"claims\": [\n    {\"text\": \"The subtle veil created by the Witch of Atlas serves as a means of concealment and beauty.\", \"supported\": true, \"evidence\": [\"P13\", \"P14\", \"P15\", \"P16\"]},\n    {\"text\": \"The Witch uses three threads of fleecy mist and light, along with star-beams, to weave this veil.\", \"supported\": true, \"evidence\": [\"P13\"]},\n    {\"text\": \"This veil is associated with her splendour and love, and it conceals the beauty of the spirits she creates.\", \"supported\": true, \"evidence\": [\"P64\", \"P65\", \"P66\", \"P67\"]},\n    {\"text\": \"The spirits are compared to ladies wearing veils to conceal their beauty.\", \"supported\": true, \"evidence\": [\"P64\", \"P65\", \"P66\", \"P67\"]}\n  ],\n  \"citation_precision\": 1,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The answer is correct and complete enough for the question, but it misses one key point from the gold answer.\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The answer accurately describes the role of the veil in concealing and revealing beauty, and correctly cites relevant stanzas. However, it does not explicitly mention that the veil is a 'shadow for the splendour of her love' as stated in the gold answer.",
+      "key_point_coverage": 0.75,
+      "claims": [
+        {
+          "text": "The subtle veil created by the Witch of Atlas serves as a means of concealment and beauty.",
+          "supported": true,
+          "evidence": [
+            "P13",
+            "P14",
+            "P15",
+            "P16"
+          ]
+        },
+        {
+          "text": "The Witch uses three threads of fleecy mist and light, along with star-beams, to weave this veil.",
+          "supported": true,
+          "evidence": [
+            "P13"
+          ]
+        },
+        {
+          "text": "This veil is associated with her splendour and love, and it conceals the beauty of the spirits she creates.",
+          "supported": true,
+          "evidence": [
+            "P64",
+            "P65",
+            "P66",
+            "P67"
+          ]
+        },
+        {
+          "text": "The spirits are compared to ladies wearing veils to conceal their beauty.",
+          "supported": true,
+          "evidence": [
+            "P64",
+            "P65",
+            "P66",
+            "P67"
+          ]
+        }
+      ],
+      "citation_precision": 1,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The answer is correct and complete enough for the question, but it misses one key point from the gold answer."
+    },
+    "usage": {
+      "prompt_tokens": 2425,
+      "completion_tokens": 351,
+      "seconds": 6.523880442
+    },
+    "error": null
+  },
+  "T20": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The answer correctly identifies the Nile's role in the poem as a journey through history and geography, and it accurately mentions the Witch of Atlas gliding down the Nile. However, it does not explicitly mention the specific locations (Egypt and Aethiopia) or the landmarks (temples, pyramids, Mareotid lakes, Moeris) as stated in the gold answer.\",\n  \"key_point_coverage\": 0.5,\n  \"claims\": [\n    {\"text\": \"The poem uses the Nile as a journey through history and geography, symbolizing civilization and culture.\", \"supported\": true, \"evidence\": [\"P55\", \"P56\", \"P57\", \"P58\"]},\n    {\"text\": \"The Witch of Atlas glides down the Nile, which threads Egypt and Aethiopia.\", \"supported\": true, \"evidence\": [\"P55\", \"P56\", \"P57\", \"P58\"]},\n    {\"text\": \"The Nile is also mentioned as a route the Witch passes through, indicating its significance in her adventures.\", \"supported\": null, \"evidence\": []}\n  ],\n  \"citation_precision\": 1,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The answer is correct and complete enough for the question. It could be more precise by including the specific locations and landmarks mentioned in the gold answer.\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The answer correctly identifies the Nile's role in the poem as a journey through history and geography, and it accurately mentions the Witch of Atlas gliding down the Nile. However, it does not explicitly mention the specific locations (Egypt and Aethiopia) or the landmarks (temples, pyramids, Mareotid lakes, Moeris) as stated in the gold answer.",
+      "key_point_coverage": 0.5,
+      "claims": [
+        {
+          "text": "The poem uses the Nile as a journey through history and geography, symbolizing civilization and culture.",
+          "supported": true,
+          "evidence": [
+            "P55",
+            "P56",
+            "P57",
+            "P58"
+          ]
+        },
+        {
+          "text": "The Witch of Atlas glides down the Nile, which threads Egypt and Aethiopia.",
+          "supported": true,
+          "evidence": [
+            "P55",
+            "P56",
+            "P57",
+            "P58"
+          ]
+        },
+        {
+          "text": "The Nile is also mentioned as a route the Witch passes through, indicating its significance in her adventures.",
+          "supported": null,
+          "evidence": []
+        }
+      ],
+      "citation_precision": 1,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The answer is correct and complete enough for the question. It could be more precise by including the specific locations and landmarks mentioned in the gold answer."
+    },
+    "usage": {
+      "prompt_tokens": 2345,
+      "completion_tokens": 319,
+      "seconds": 5.918509056
+    },
+    "error": null
+  },
+  "T21": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The answer correctly identifies the significance of the Witch's solitude, explaining how it allows her to maintain power and wisdom, observe the world, and perform magical acts. It accurately references key stanzas (P25, P26, P27, P28) and includes relevant details from other parts of the poem.\",\n  \"key_point_coverage\": 0.8,\n  \"claims\": [\n    {\"text\": \"The Witch's solitude allows her to maintain power and wisdom.\", \"supported\": true, \"evidence\": [\"P25\", \"P26\", \"P27\", \"P28\"]},\n    {\"text\": \"She observes the world around her, including living spirits, human figures, and even the dead.\", \"supported\": true, \"evidence\": [\"P64\", \"P65\", \"P66\", \"P67\", \"P61\", \"P62\", \"P63\", \"P64\"]},\n    {\"text\": \"Her isolation enables her to perform magical acts, such as creating a subtle veil for her splendour and love.\", \"supported\": null, \"evidence\": []}\n  ],\n  \"citation_precision\": 0.75,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The answer is well-supported by the poem and covers most of the key points, but it could be more precise in its claims.\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The answer correctly identifies the significance of the Witch's solitude, explaining how it allows her to maintain power and wisdom, observe the world, and perform magical acts. It accurately references key stanzas (P25, P26, P27, P28) and includes relevant details from other parts of the poem.",
+      "key_point_coverage": 0.8,
+      "claims": [
+        {
+          "text": "The Witch's solitude allows her to maintain power and wisdom.",
+          "supported": true,
+          "evidence": [
+            "P25",
+            "P26",
+            "P27",
+            "P28"
+          ]
+        },
+        {
+          "text": "She observes the world around her, including living spirits, human figures, and even the dead.",
+          "supported": true,
+          "evidence": [
+            "P64",
+            "P65",
+            "P66",
+            "P67",
+            "P61",
+            "P62",
+            "P63",
+            "P64"
+          ]
+        },
+        {
+          "text": "Her isolation enables her to perform magical acts, such as creating a subtle veil for her splendour and love.",
+          "supported": null,
+          "evidence": []
+        }
+      ],
+      "citation_precision": 0.75,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The answer is well-supported by the poem and covers most of the key points, but it could be more precise in its claims."
+    },
+    "usage": {
+      "prompt_tokens": 2327,
+      "completion_tokens": 325,
+      "seconds": 6.078893339
+    },
+    "error": null
+  },
+  "T22": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The answer correctly identifies that the poem contrasts vision, dreams, and waking reality through the Witch's observations. It accurately cites relevant stanzas (P61-P64) to support this claim.\",\n  \"key_point_coverage\": 0.8,\n  \"claims\": [\n    {\"text\": \"The poem contrasts vision, dreams, and waking reality.\", \"supported\": true, \"evidence\": [\"P61-P64\"]},\n    {\"text\": \"She sees various figures and scenes in her dreams, such as princes, lovers, and priests.\", \"supported\": true, \"evidence\": [\"P61-P64\"]},\n    {\"text\": \"These visions are distinct from her waking reality.\", \"supported\": null, \"evidence\": []},\n    {\"text\": \"The Witch's ability to traverse between these states is highlighted.\", \"supported\": null, \"evidence\": []}\n  ],\n  \"citation_precision\": 1,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The answer does not explicitly mention the specific key points about dreams changing waking behavior or the ending's doubt of what we can see, but it correctly identifies the contrast between vision, dreams, and waking reality.\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The answer correctly identifies that the poem contrasts vision, dreams, and waking reality through the Witch's observations. It accurately cites relevant stanzas (P61-P64) to support this claim.",
+      "key_point_coverage": 0.8,
+      "claims": [
+        {
+          "text": "The poem contrasts vision, dreams, and waking reality.",
+          "supported": true,
+          "evidence": [
+            "P61-P64"
+          ]
+        },
+        {
+          "text": "She sees various figures and scenes in her dreams, such as princes, lovers, and priests.",
+          "supported": true,
+          "evidence": [
+            "P61-P64"
+          ]
+        },
+        {
+          "text": "These visions are distinct from her waking reality.",
+          "supported": null,
+          "evidence": []
+        },
+        {
+          "text": "The Witch's ability to traverse between these states is highlighted.",
+          "supported": null,
+          "evidence": []
+        }
+      ],
+      "citation_precision": 1,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The answer does not explicitly mention the specific key points about dreams changing waking behavior or the ending's doubt of what we can see, but it correctly identifies the contrast between vision, dreams, and waking reality."
+    },
+    "usage": {
+      "prompt_tokens": 2304,
+      "completion_tokens": 280,
+      "seconds": 5.273409965
+    },
+    "error": null
+  },
+  "T23": {
+    "raw": "{\n  \"correctness\": 0,\n  \"correctness_reason\": \"The answer is wrong because it states that the provided context does not establish the tone, which contradicts the gold answer that describes the blend of lyricism and irony in the poem.\",\n  \"key_point_coverage\": null,\n  \"claims\": [],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"notes\": \"The answer is incorrect as it does not align with the provided gold answer which describes the tone of the poem.\"\n}",
+    "parsed": {
+      "correctness": 0,
+      "correctness_reason": "The answer is wrong because it states that the provided context does not establish the tone, which contradicts the gold answer that describes the blend of lyricism and irony in the poem.",
+      "key_point_coverage": null,
+      "claims": [],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "notes": "The answer is incorrect as it does not align with the provided gold answer which describes the tone of the poem."
+    },
+    "usage": {
+      "prompt_tokens": 1832,
+      "completion_tokens": 114,
+      "seconds": 2.436762781
+    },
+    "error": null
+  },
+  "T24": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The answer correctly identifies the use of Hermaphroditus and the 'sexless bee' image in the poem to explore themes of androgyny. It accurately mentions that the Witch calls upon Hermaphroditus and uses the 'sexless bee' metaphor, though it does not explicitly state the specific stanzas as required.\",\n  \"key_point_coverage\": 0.5,\n  \"claims\": [\n    {\"text\": \"The poem uses the sexless nature of Hermaphroditus\", \"supported\": true, \"evidence\": [\"P43\"]},\n    {\"text\": \"The 'sexless bee' image is used metaphorically to represent the creation of a sexless, beautiful creature by the Witch of Atlas\", \"supported\": true, \"evidence\": [\"P68\"]},\n    {\"text\": \"These images explore themes of androgyny and blending of genders\", \"supported\": null, \"evidence\": []}\n  ],\n  \"citation_precision\": 0.5,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The answer is correct in identifying the use of Hermaphroditus and the 'sexless bee' image, but it does not explicitly cite the specific stanzas as required. It also does not mention the key points about the self-sufficiency and non-attachment suggested by these images.\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The answer correctly identifies the use of Hermaphroditus and the 'sexless bee' image in the poem to explore themes of androgyny. It accurately mentions that the Witch calls upon Hermaphroditus and uses the 'sexless bee' metaphor, though it does not explicitly state the specific stanzas as required.",
+      "key_point_coverage": 0.5,
+      "claims": [
+        {
+          "text": "The poem uses the sexless nature of Hermaphroditus",
+          "supported": true,
+          "evidence": [
+            "P43"
+          ]
+        },
+        {
+          "text": "The 'sexless bee' image is used metaphorically to represent the creation of a sexless, beautiful creature by the Witch of Atlas",
+          "supported": true,
+          "evidence": [
+            "P68"
+          ]
+        },
+        {
+          "text": "These images explore themes of androgyny and blending of genders",
+          "supported": null,
+          "evidence": []
+        }
+      ],
+      "citation_precision": 0.5,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The answer is correct in identifying the use of Hermaphroditus and the 'sexless bee' image, but it does not explicitly cite the specific stanzas as required. It also does not mention the key points about the self-sufficiency and non-attachment suggested by these images."
+    },
+    "usage": {
+      "prompt_tokens": 2395,
+      "completion_tokens": 310,
+      "seconds": 5.81464236
+    },
+    "error": null
+  },
+  "T25": {
+    "raw": "{\n  \"correctness\": 0,\n  \"correctness_reason\": \"The answer does not address how the ending frames the poem's storytelling. It instead provides a general description of the Witch's role in the poem without focusing on the ending.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"The ending frames the poem's own storytelling\", \"supported\": false, \"evidence\": []},\n    {\"text\": \"depicting the Witch of Atlas as a powerful and mysterious figure\", \"supported\": false, \"evidence\": []},\n    {\"text\": \"can influence and observe various aspects of the world\", \"supported\": false, \"evidence\": []},\n    {\"text\": \"including the dead, princes, and even deities like Apollo\", \"supported\": false, \"evidence\": []},\n    {\"text\": \"This portrayal suggests that the Witch's narrative is itself a story within a larger narrative\", \"supported\": false, \"evidence\": []},\n    {\"text\": \"highlighting her role as a central character who weaves together different realms and beings\", \"supported\": false, \"evidence\": []}\n  ],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The answer does not address the specific framing of the poem's storytelling in the ending as requested by the question.\"\n}",
+    "parsed": {
+      "correctness": 0,
+      "correctness_reason": "The answer does not address how the ending frames the poem's storytelling. It instead provides a general description of the Witch's role in the poem without focusing on the ending.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The ending frames the poem's own storytelling",
+          "supported": false,
+          "evidence": []
+        },
+        {
+          "text": "depicting the Witch of Atlas as a powerful and mysterious figure",
+          "supported": false,
+          "evidence": []
+        },
+        {
+          "text": "can influence and observe various aspects of the world",
+          "supported": false,
+          "evidence": []
+        },
+        {
+          "text": "including the dead, princes, and even deities like Apollo",
+          "supported": false,
+          "evidence": []
+        },
+        {
+          "text": "This portrayal suggests that the Witch's narrative is itself a story within a larger narrative",
+          "supported": false,
+          "evidence": []
+        },
+        {
+          "text": "highlighting her role as a central character who weaves together different realms and beings",
+          "supported": false,
+          "evidence": []
+        }
+      ],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The answer does not address the specific framing of the poem's storytelling in the ending as requested by the question."
+    },
+    "usage": {
+      "prompt_tokens": 2370,
+      "completion_tokens": 297,
+      "seconds": 5.570796652
+    },
+    "error": null
+  },
+  "Q01": {
+    "raw": "{\n  \"correctness\": 0,\n  \"correctness_reason\": \"The answer is wrong because it states that the provided context does not establish the order of the Witch's mother's form changes, which contradicts the gold answer.\",\n  \"key_point_coverage\": null,\n  \"claims\": [],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The candidate answer is incorrect as it does not address the question and instead states that the context does not provide the information, which is false.\"\n}",
+    "parsed": {
+      "correctness": 0,
+      "correctness_reason": "The answer is wrong because it states that the provided context does not establish the order of the Witch's mother's form changes, which contradicts the gold answer.",
+      "key_point_coverage": null,
+      "claims": [],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The candidate answer is incorrect as it does not address the question and instead states that the context does not provide the information, which is false."
+    },
+    "usage": {
+      "prompt_tokens": 1711,
+      "completion_tokens": 123,
+      "seconds": 2.535784027
+    },
+    "error": null
+  },
+  "Q02": {
+    "raw": "{\n  \"correctness\": 0,\n  \"correctness_reason\": \"The answer is wrong because it states that the context does not establish the order, but the poem clearly indicates that the Witch took shape first before the beasts came to her.\",\n  \"key_point_coverage\": null,\n  \"claims\": [],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The answer should acknowledge the temporal sequence established in the poem, which is that the Witch took shape first.\"\n}",
+    "parsed": {
+      "correctness": 0,
+      "correctness_reason": "The answer is wrong because it states that the context does not establish the order, but the poem clearly indicates that the Witch took shape first before the beasts came to her.",
+      "key_point_coverage": null,
+      "claims": [],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The answer should acknowledge the temporal sequence established in the poem, which is that the Witch took shape first."
+    },
+    "usage": {
+      "prompt_tokens": 1719,
+      "completion_tokens": 118,
+      "seconds": 2.438200624
+    },
+    "error": null
+  },
+  "Q03": {
+    "raw": "{\n  \"correctness\": 0,\n  \"correctness_reason\": \"The answer is wrong because it states that the context does not establish the order, but the poem clearly indicates that Silenus visited the Witch's cave before she wove her veil.\",\n  \"key_point_coverage\": null,\n  \"claims\": [],\n  \"citation_precision\": null,\n  \"order_results\": [\n    {\"pair\": [\"Silenus visits\", \"Witch weaves veil\"], \"result\": \"wrong\"}\n  ],\n  \"sequence_correct\": false,\n  \"duration_correct\": null,\n  \"notes\": \"The answer should have recognized that the poem provides a clear sequence of events, with Silenus visiting first and the Witch weaving her veil later.\"\n}",
+    "parsed": {
+      "correctness": 0,
+      "correctness_reason": "The answer is wrong because it states that the context does not establish the order, but the poem clearly indicates that Silenus visited the Witch's cave before she wove her veil.",
+      "key_point_coverage": null,
+      "claims": [],
+      "citation_precision": null,
+      "order_results": [
+        {
+          "pair": [
+            "Silenus visits",
+            "Witch weaves veil"
+          ],
+          "result": "wrong"
+        }
+      ],
+      "sequence_correct": false,
+      "duration_correct": null,
+      "notes": "The answer should have recognized that the poem provides a clear sequence of events, with Silenus visiting first and the Witch weaving her veil later."
+    },
+    "usage": {
+      "prompt_tokens": 1736,
+      "completion_tokens": 152,
+      "seconds": 2.973735074
+    },
+    "error": null
+  },
+  "Q04": {
+    "raw": "{\n  \"correctness\": 0,\n  \"correctness_reason\": \"The answer is wrong because it contradicts the poem. According to the poem, the Witch first refused the nymphs and then wept.\",\n  \"key_point_coverage\": null,\n  \"claims\": [],\n  \"citation_precision\": null,\n  \"order_results\": [{\"pair\": [\"Witch refuses nymphs\", \"Witch weeps\"], \"result\": \"wrong\"}],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The answer is incorrect and does not provide any supporting evidence from the poem.\"\n}",
+    "parsed": {
+      "correctness": 0,
+      "correctness_reason": "The answer is wrong because it contradicts the poem. According to the poem, the Witch first refused the nymphs and then wept.",
+      "key_point_coverage": null,
+      "claims": [],
+      "citation_precision": null,
+      "order_results": [
+        {
+          "pair": [
+            "Witch refuses nymphs",
+            "Witch weeps"
+          ],
+          "result": "wrong"
+        }
+      ],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The answer is incorrect and does not provide any supporting evidence from the poem."
+    },
+    "usage": {
+      "prompt_tokens": 1745,
+      "completion_tokens": 128,
+      "seconds": 2.631791855
+    },
+    "error": null
+  },
+  "Q05": {
+    "raw": "{\n  \"correctness\": 0,\n  \"correctness_reason\": \"The answer does not provide a clear order of events and contradicts the gold answer.\",\n  \"key_point_coverage\": null,\n  \"claims\": [],\n  \"citation_precision\": null,\n  \"order_results\": [\n    {\"pair\": [\"boat is made\", \"Hermaphroditus is created\"], \"result\": \"wrong\"}\n  ],\n  \"sequence_correct\": false,\n  \"duration_correct\": null,\n  \"notes\": \"The answer does not provide a clear order of events and contradicts the gold answer.\"\n}",
+    "parsed": {
+      "correctness": 0,
+      "correctness_reason": "The answer does not provide a clear order of events and contradicts the gold answer.",
+      "key_point_coverage": null,
+      "claims": [],
+      "citation_precision": null,
+      "order_results": [
+        {
+          "pair": [
+            "boat is made",
+            "Hermaphroditus is created"
+          ],
+          "result": "wrong"
+        }
+      ],
+      "sequence_correct": false,
+      "duration_correct": null,
+      "notes": "The answer does not provide a clear order of events and contradicts the gold answer."
+    },
+    "usage": {
+      "prompt_tokens": 1752,
+      "completion_tokens": 124,
+      "seconds": 2.548820793
+    },
+    "error": null
+  },
+  "Q06": {
+    "raw": "{\n  \"correctness\": 1,\n  \"correctness_reason\": \"The answer correctly identifies that the provided context does not establish a chronological order of events, which is accurate given the stanzas cited.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\n      \"text\": \"The provided context does not establish this.\",\n      \"supported\": null,\n      \"evidence\": [\"P37\", \"P40\"]\n    }\n  ],\n  \"citation_precision\": 1,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The answer is correct in stating that the provided context does not establish a chronological order of events, which aligns with the gold answer.\"\n}",
+    "parsed": {
+      "correctness": 1,
+      "correctness_reason": "The answer correctly identifies that the provided context does not establish a chronological order of events, which is accurate given the stanzas cited.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The provided context does not establish this.",
+          "supported": null,
+          "evidence": [
+            "P37",
+            "P40"
+          ]
+        }
+      ],
+      "citation_precision": 1,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The answer is correct in stating that the provided context does not establish a chronological order of events, which aligns with the gold answer."
+    },
+    "usage": {
+      "prompt_tokens": 1963,
+      "completion_tokens": 158,
+      "seconds": 3.164197718
+    },
+    "error": null
+  },
+  "Q07": {
+    "raw": "{\n  \"correctness\": 0,\n  \"correctness_reason\": \"The answer is wrong because it states that the context does not establish the order, but the poem clearly indicates that the Witch sailed to the Austral waters first before building her haven.\",\n  \"key_point_coverage\": null,\n  \"claims\": [],\n  \"citation_precision\": null,\n  \"order_results\": [\n    {\"pair\": [\"Witch sails to Austral waters\", \"Witch builds haven\"], \"result\": \"wrong\"}\n  ],\n  \"sequence_correct\": false,\n  \"duration_correct\": null,\n  \"notes\": \"The answer should have recognized the temporal sequence described in the poem.\"\n}",
+    "parsed": {
+      "correctness": 0,
+      "correctness_reason": "The answer is wrong because it states that the context does not establish the order, but the poem clearly indicates that the Witch sailed to the Austral waters first before building her haven.",
+      "key_point_coverage": null,
+      "claims": [],
+      "citation_precision": null,
+      "order_results": [
+        {
+          "pair": [
+            "Witch sails to Austral waters",
+            "Witch builds haven"
+          ],
+          "result": "wrong"
+        }
+      ],
+      "sequence_correct": false,
+      "duration_correct": null,
+      "notes": "The answer should have recognized the temporal sequence described in the poem."
+    },
+    "usage": {
+      "prompt_tokens": 1721,
+      "completion_tokens": 137,
+      "seconds": 2.73577847
+    },
+    "error": null
+  },
+  "Q08": {
+    "raw": "{\n  \"correctness\": 0,\n  \"correctness_reason\": \"The answer is wrong because it contradicts the poem. The Witch played pranks on the water first, as stated in the gold answer.\",\n  \"key_point_coverage\": null,\n  \"claims\": [],\n  \"citation_precision\": null,\n  \"order_results\": [\n    {\"pair\": [\"Witch plays pranks on water\", \"Witch calls spirit armies\"], \"result\": \"wrong\"}\n  ],\n  \"sequence_correct\": false,\n  \"duration_correct\": null,\n  \"notes\": \"The answer is incorrect and does not provide any claims or evidence to support its stance.\"\n}",
+    "parsed": {
+      "correctness": 0,
+      "correctness_reason": "The answer is wrong because it contradicts the poem. The Witch played pranks on the water first, as stated in the gold answer.",
+      "key_point_coverage": null,
+      "claims": [],
+      "citation_precision": null,
+      "order_results": [
+        {
+          "pair": [
+            "Witch plays pranks on water",
+            "Witch calls spirit armies"
+          ],
+          "result": "wrong"
+        }
+      ],
+      "sequence_correct": false,
+      "duration_correct": null,
+      "notes": "The answer is incorrect and does not provide any claims or evidence to support its stance."
+    },
+    "usage": {
+      "prompt_tokens": 1744,
+      "completion_tokens": 136,
+      "seconds": 2.71636105
+    },
+    "error": null
+  },
+  "Q09": {
+    "raw": "{\n  \"correctness\": 0,\n  \"correctness_reason\": \"The answer is wrong because it contradicts the poem by stating that the context does not establish the order, when the poem clearly indicates the priests' dream came first.\",\n  \"key_point_coverage\": null,\n  \"claims\": [],\n  \"citation_precision\": null,\n  \"order_results\": [{\"pair\": [\"priests dream\", \"king dreams\"], \"result\": \"wrong\"}],\n  \"sequence_correct\": false,\n  \"duration_correct\": null,\n  \"notes\": \"The answer is incorrect and does not address the temporal sequence as asked.\"\n}",
+    "parsed": {
+      "correctness": 0,
+      "correctness_reason": "The answer is wrong because it contradicts the poem by stating that the context does not establish the order, when the poem clearly indicates the priests' dream came first.",
+      "key_point_coverage": null,
+      "claims": [],
+      "citation_precision": null,
+      "order_results": [
+        {
+          "pair": [
+            "priests dream",
+            "king dreams"
+          ],
+          "result": "wrong"
+        }
+      ],
+      "sequence_correct": false,
+      "duration_correct": null,
+      "notes": "The answer is incorrect and does not address the temporal sequence as asked."
+    },
+    "usage": {
+      "prompt_tokens": 1758,
+      "completion_tokens": 128,
+      "seconds": 2.610580395
+    },
+    "error": null
+  },
+  "Q10": {
+    "raw": "{\n  \"correctness\": 0,\n  \"correctness_reason\": \"The answer is wrong because it contradicts the poem, which clearly states that the lovers met the next day first and the tenth moon came later.\",\n  \"key_point_coverage\": null,\n  \"claims\": [],\n  \"citation_precision\": null,\n  \"order_results\": [\n    {\"pair\": [\"lovers meet next day\", \"tenth moon shines\"], \"result\": \"wrong\"}\n  ],\n  \"sequence_correct\": false,\n  \"duration_correct\": null,\n  \"notes\": \"The answer does not provide any temporal sequence and contradicts the gold answer.\"\n}",
+    "parsed": {
+      "correctness": 0,
+      "correctness_reason": "The answer is wrong because it contradicts the poem, which clearly states that the lovers met the next day first and the tenth moon came later.",
+      "key_point_coverage": null,
+      "claims": [],
+      "citation_precision": null,
+      "order_results": [
+        {
+          "pair": [
+            "lovers meet next day",
+            "tenth moon shines"
+          ],
+          "result": "wrong"
+        }
+      ],
+      "sequence_correct": false,
+      "duration_correct": null,
+      "notes": "The answer does not provide any temporal sequence and contradicts the gold answer."
+    },
+    "usage": {
+      "prompt_tokens": 1749,
+      "completion_tokens": 132,
+      "seconds": 2.670250315
+    },
+    "error": null
+  },
+  "Q11": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The answer correctly states the order of events as described in the poem.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"The Witch restored the body first.\", \"supported\": true, \"evidence\": [\"P71\"]},\n    {\"text\": \"Then she threw the coffin into the ditch.\", \"supported\": true, \"evidence\": [\"P70\"]}\n  ],\n  \"citation_precision\": 1,\n  \"order_results\": [\n    {\"pair\": [\"Witch restores body\", \"Witch throws coffin into ditch\"], \"result\": \"correct\"}\n  ],\n  \"sequence_correct\": true,\n  \"duration_correct\": null,\n  \"notes\": \"The answer accurately reflects the sequence of events as described in the poem, and the citations are precise.\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The answer correctly states the order of events as described in the poem.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The Witch restored the body first.",
+          "supported": true,
+          "evidence": [
+            "P71"
+          ]
+        },
+        {
+          "text": "Then she threw the coffin into the ditch.",
+          "supported": true,
+          "evidence": [
+            "P70"
+          ]
+        }
+      ],
+      "citation_precision": 1,
+      "order_results": [
+        {
+          "pair": [
+            "Witch restores body",
+            "Witch throws coffin into ditch"
+          ],
+          "result": "correct"
+        }
+      ],
+      "sequence_correct": true,
+      "duration_correct": null,
+      "notes": "The answer accurately reflects the sequence of events as described in the poem, and the citations are precise."
+    },
+    "usage": {
+      "prompt_tokens": 2111,
+      "completion_tokens": 181,
+      "seconds": 3.600306047
+    },
+    "error": null
+  },
+  "Q12": {
+    "raw": "{\n  \"correctness\": 0,\n  \"correctness_reason\": \"The answer is wrong because it states that the context does not establish the order, but the poem clearly indicates that the boat was moored first before Hermaphroditus sat at the prow.\",\n  \"key_point_coverage\": null,\n  \"claims\": [],\n  \"citation_precision\": null,\n  \"order_results\": [\n    {\"pair\": [\"boat is moored on fountain\", \"Hermaphroditus sits at prow\"], \"result\": \"wrong\"}\n  ],\n  \"sequence_correct\": false,\n  \"duration_correct\": null,\n  \"notes\": \"The answer should have recognized the temporal sequence described in the poem.\"\n}",
+    "parsed": {
+      "correctness": 0,
+      "correctness_reason": "The answer is wrong because it states that the context does not establish the order, but the poem clearly indicates that the boat was moored first before Hermaphroditus sat at the prow.",
+      "key_point_coverage": null,
+      "claims": [],
+      "citation_precision": null,
+      "order_results": [
+        {
+          "pair": [
+            "boat is moored on fountain",
+            "Hermaphroditus sits at prow"
+          ],
+          "result": "wrong"
+        }
+      ],
+      "sequence_correct": false,
+      "duration_correct": null,
+      "notes": "The answer should have recognized the temporal sequence described in the poem."
+    },
+    "usage": {
+      "prompt_tokens": 1751,
+      "completion_tokens": 146,
+      "seconds": 2.881898298
+    },
+    "error": null
+  },
+  "Q13": {
+    "raw": "{\n  \"correctness\": 1,\n  \"correctness_reason\": \"The answer correctly identifies the main actions of the burial night in the correct order, but omits some details from the gold answer.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"The Witch unwraps the coffin\", \"supported\": false, \"evidence\": [\"P70\", \"P71\", \"P72\", \"P73\"]},\n    {\"text\": \"She throws the coffin into a ditch\", \"supported\": true, \"evidence\": [\"P70\"]}\n  ],\n  \"citation_precision\": 0.5,\n  \"order_results\": [\n    {\"pair\": [\"restore embalmers' ruin\", \"shake light from funeral lamps\"], \"result\": \"unclear\"},\n    {\"pair\": [\"shake light from funeral lamps\", \"unwind swaddling bands\"], \"result\": \"unclear\"},\n    {\"pair\": [\"unwind swaddling bands\", \"take coffin from niche\"], \"result\": \"unclear\"},\n    {\"pair\": [\"take coffin from niche\", \"throw coffin into ditch\"], \"result\": \"correct\"}\n  ],\n  \"sequence_correct\": false,\n  \"duration_correct\": null,\n  \"notes\": \"The answer omits the key steps of restoring the embalmers' ruin and shaking light from the funeral lamps, which are important parts of the burial night sequence. It also does not mention the coffin being taken from its niche before being thrown into the ditch.\"\n}",
+    "parsed": {
+      "correctness": 1,
+      "correctness_reason": "The answer correctly identifies the main actions of the burial night in the correct order, but omits some details from the gold answer.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The Witch unwraps the coffin",
+          "supported": false,
+          "evidence": [
+            "P70",
+            "P71",
+            "P72",
+            "P73"
+          ]
+        },
+        {
+          "text": "She throws the coffin into a ditch",
+          "supported": true,
+          "evidence": [
+            "P70"
+          ]
+        }
+      ],
+      "citation_precision": 0.5,
+      "order_results": [
+        {
+          "pair": [
+            "restore embalmers' ruin",
+            "shake light from funeral lamps"
+          ],
+          "result": "unclear"
+        },
+        {
+          "pair": [
+            "shake light from funeral lamps",
+            "unwind swaddling bands"
+          ],
+          "result": "unclear"
+        },
+        {
+          "pair": [
+            "unwind swaddling bands",
+            "take coffin from niche"
+          ],
+          "result": "unclear"
+        },
+        {
+          "pair": [
+            "take coffin from niche",
+            "throw coffin into ditch"
+          ],
+          "result": "correct"
+        }
+      ],
+      "sequence_correct": false,
+      "duration_correct": null,
+      "notes": "The answer omits the key steps of restoring the embalmers' ruin and shaking light from the funeral lamps, which are important parts of the burial night sequence. It also does not mention the coffin being taken from its niche before being thrown into the ditch."
+    },
+    "usage": {
+      "prompt_tokens": 2268,
+      "completion_tokens": 317,
+      "seconds": 5.840166164
+    },
+    "error": null
+  },
+  "Q14": {
+    "raw": "{\n  \"correctness\": 0,\n  \"correctness_reason\": \"The answer is wrong because it states that the provided context does not establish the routine, which contradicts the gold answer.\",\n  \"key_point_coverage\": null,\n  \"claims\": [],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The answer should have provided the correct order of activities as stated in the gold answer.\"\n}",
+    "parsed": {
+      "correctness": 0,
+      "correctness_reason": "The answer is wrong because it states that the provided context does not establish the routine, which contradicts the gold answer.",
+      "key_point_coverage": null,
+      "claims": [],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The answer should have provided the correct order of activities as stated in the gold answer."
+    },
+    "usage": {
+      "prompt_tokens": 1734,
+      "completion_tokens": 104,
+      "seconds": 2.223637773
+    },
+    "error": null
+  },
+  "Q15": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The answer correctly orders the events of the arrival of the spirit armies as described in the poem. It accurately states that the Witch summons her spirits, which then emblazon their flags and pitch pavilions.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\n      \"text\": \"The Witch summons her legions of spirits\",\n      \"supported\": true,\n      \"evidence\": [\"P52\"]\n    },\n    {\n      \"text\": \"Each troop emblazoning its merits on meteor flags\",\n      \"supported\": true,\n      \"evidence\": [\"P52\"]\n    },\n    {\n      \"text\": \"Pavilions are pitched on the calm mere\",\n      \"supported\": true,\n      \"evidence\": [\"P52\"]\n    }\n  ],\n  \"citation_precision\": 1,\n  \"order_results\": [\n    {\"pair\": [\"spirit armies come\", \"pavilions pitched\"], \"result\": \"correct\"}\n  ],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The answer correctly orders the events and is supported by the cited stanzas. However, it does not explicitly state the order of 'Witch sits on throne', 'hears news', 'weeps and laughs' as in the gold answer.\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The answer correctly orders the events of the arrival of the spirit armies as described in the poem. It accurately states that the Witch summons her spirits, which then emblazon their flags and pitch pavilions.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The Witch summons her legions of spirits",
+          "supported": true,
+          "evidence": [
+            "P52"
+          ]
+        },
+        {
+          "text": "Each troop emblazoning its merits on meteor flags",
+          "supported": true,
+          "evidence": [
+            "P52"
+          ]
+        },
+        {
+          "text": "Pavilions are pitched on the calm mere",
+          "supported": true,
+          "evidence": [
+            "P52"
+          ]
+        }
+      ],
+      "citation_precision": 1,
+      "order_results": [
+        {
+          "pair": [
+            "spirit armies come",
+            "pavilions pitched"
+          ],
+          "result": "correct"
+        }
+      ],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The answer correctly orders the events and is supported by the cited stanzas. However, it does not explicitly state the order of 'Witch sits on throne', 'hears news', 'weeps and laughs' as in the gold answer."
+    },
+    "usage": {
+      "prompt_tokens": 2288,
+      "completion_tokens": 289,
+      "seconds": 5.438179019
+    },
+    "error": null
+  },
+  "Q16": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The answer correctly orders the events of the Witch's journey down the Nile, including passing through the Mareotid lakes and the great Labyrinth. However, it omits the passage of Moeris, which is a key part of the ordered sequence.\",\n  \"key_point_coverage\": 0.6666666666666666,\n  \"claims\": [\n    {\"text\": \"The Witch glides down the Nile, which threads Egypt and Aethiopia.\", \"supported\": true, \"evidence\": [\"P55\", \"P56\", \"P57\", \"P58\"]},\n    {\"text\": \"She passes through the Mareotid lakes.\", \"supported\": true, \"evidence\": [\"P58\", \"P59\", \"P60\", \"P61\"]},\n    {\"text\": \"She also roams through the great Labyrinth in Egypt.\", \"supported\": true, \"evidence\": [\"P58\", \"P59\", \"P60\", \"P61\"]},\n    {\"text\": \"These stanzas establish the sequence of her journey along the Nile.\", \"supported\": null, \"evidence\": []}\n  ],\n  \"citation_precision\": 0.75,\n  \"order_results\": [\n    {\"pair\": [\"glides down Nile\", \"passes Moeris and Mareotid\"], \"result\": \"wrong\"},\n    {\"pair\": [\"passes Moeris and Mareotid\", \"passes the Labyrinth\"], \"result\": \"correct\"},\n    {\"pair\": [\"passes the Labyrinth\", \"wanders in the night\"], \"result\": \"unclear\"},\n    {\"pair\": [\"wanders in the night\", \"observes sleepers\"], \"result\": \"unclear\"}\n  ],\n  \"sequence_correct\": false,\n  \"duration_correct\": null,\n  \"notes\": \"The answer correctly identifies the sequence of events but omits Moeris, which is a key part of the ordered sequence. The citation precision is slightly lower due to the inclusion of unnecessary claims.\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The answer correctly orders the events of the Witch's journey down the Nile, including passing through the Mareotid lakes and the great Labyrinth. However, it omits the passage of Moeris, which is a key part of the ordered sequence.",
+      "key_point_coverage": 0.6666666666666666,
+      "claims": [
+        {
+          "text": "The Witch glides down the Nile, which threads Egypt and Aethiopia.",
+          "supported": true,
+          "evidence": [
+            "P55",
+            "P56",
+            "P57",
+            "P58"
+          ]
+        },
+        {
+          "text": "She passes through the Mareotid lakes.",
+          "supported": true,
+          "evidence": [
+            "P58",
+            "P59",
+            "P60",
+            "P61"
+          ]
+        },
+        {
+          "text": "She also roams through the great Labyrinth in Egypt.",
+          "supported": true,
+          "evidence": [
+            "P58",
+            "P59",
+            "P60",
+            "P61"
+          ]
+        },
+        {
+          "text": "These stanzas establish the sequence of her journey along the Nile.",
+          "supported": null,
+          "evidence": []
+        }
+      ],
+      "citation_precision": 0.75,
+      "order_results": [
+        {
+          "pair": [
+            "glides down Nile",
+            "passes Moeris and Mareotid"
+          ],
+          "result": "wrong"
+        },
+        {
+          "pair": [
+            "passes Moeris and Mareotid",
+            "passes the Labyrinth"
+          ],
+          "result": "correct"
+        },
+        {
+          "pair": [
+            "passes the Labyrinth",
+            "wanders in the night"
+          ],
+          "result": "unclear"
+        },
+        {
+          "pair": [
+            "wanders in the night",
+            "observes sleepers"
+          ],
+          "result": "unclear"
+        }
+      ],
+      "sequence_correct": false,
+      "duration_correct": null,
+      "notes": "The answer correctly identifies the sequence of events but omits Moeris, which is a key part of the ordered sequence. The citation precision is slightly lower due to the inclusion of unnecessary claims."
+    },
+    "usage": {
+      "prompt_tokens": 2355,
+      "completion_tokens": 452,
+      "seconds": 8.084422924
+    },
+    "error": null
+  },
+  "Q17": {
+    "raw": "{\n  \"correctness\": 0,\n  \"correctness_reason\": \"The answer is wrong because it states that the provided context does not establish the order, which is incorrect given the gold answer.\",\n  \"key_point_coverage\": null,\n  \"claims\": [],\n  \"citation_precision\": null,\n  \"order_results\": [\n    {\"pair\": [\"panacea to the beautiful\", \"dreams to the less beautiful\"], \"result\": \"correct\"},\n    {\"pair\": [\"dreams to the less beautiful\", \"priests dream\"], \"result\": \"correct\"},\n    {\"pair\": [\"priests dream\", \"king dreams\"], \"result\": \"correct\"},\n    {\"pair\": [\"king dreams\", \"soldiers dream\"], \"result\": \"correct\"},\n    {\"pair\": [\"soldiers dream\", \"lovers dream\"], \"result\": \"correct\"}\n  ],\n  \"sequence_correct\": true,\n  \"duration_correct\": null,\n  \"notes\": \"The answer correctly identifies the sequence but fails to acknowledge that the provided context does not establish this order, which is a key part of the question.\"\n}",
+    "parsed": {
+      "correctness": 0,
+      "correctness_reason": "The answer is wrong because it states that the provided context does not establish the order, which is incorrect given the gold answer.",
+      "key_point_coverage": null,
+      "claims": [],
+      "citation_precision": null,
+      "order_results": [
+        {
+          "pair": [
+            "panacea to the beautiful",
+            "dreams to the less beautiful"
+          ],
+          "result": "correct"
+        },
+        {
+          "pair": [
+            "dreams to the less beautiful",
+            "priests dream"
+          ],
+          "result": "correct"
+        },
+        {
+          "pair": [
+            "priests dream",
+            "king dreams"
+          ],
+          "result": "correct"
+        },
+        {
+          "pair": [
+            "king dreams",
+            "soldiers dream"
+          ],
+          "result": "correct"
+        },
+        {
+          "pair": [
+            "soldiers dream",
+            "lovers dream"
+          ],
+          "result": "correct"
+        }
+      ],
+      "sequence_correct": true,
+      "duration_correct": null,
+      "notes": "The answer correctly identifies the sequence but fails to acknowledge that the provided context does not establish this order, which is a key part of the question."
+    },
+    "usage": {
+      "prompt_tokens": 1804,
+      "completion_tokens": 225,
+      "seconds": 4.1651471
+    },
+    "error": null
+  },
+  "Q18": {
+    "raw": "{\n  \"correctness\": 0,\n  \"correctness_reason\": \"The answer is wrong because it states that the context does not establish the number of times the Mother of the Months bent her bow before the Witch took shape, but the poem explicitly states 'Ten times' in the text.\",\n  \"key_point_coverage\": null,\n  \"claims\": [],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"notes\": \"The answer is incorrect as it does not provide the correct information from the poem.\"\n}",
+    "parsed": {
+      "correctness": 0,
+      "correctness_reason": "The answer is wrong because it states that the context does not establish the number of times the Mother of the Months bent her bow before the Witch took shape, but the poem explicitly states 'Ten times' in the text.",
+      "key_point_coverage": null,
+      "claims": [],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "notes": "The answer is incorrect as it does not provide the correct information from the poem."
+    },
+    "usage": {
+      "prompt_tokens": 1703,
+      "completion_tokens": 116,
+      "seconds": 2.401406785
+    },
+    "error": null
+  },
+  "Q19": {
+    "raw": "{\n  \"correctness\": 0,\n  \"correctness_reason\": \"The answer is wrong because it states that the information is not provided in the context, but the gold answer is available and correct.\",\n  \"key_point_coverage\": null,\n  \"claims\": [],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The candidate answer incorrectly states that the information is not provided in the context, when it is actually available in the gold answer.\"\n}",
+    "parsed": {
+      "correctness": 0,
+      "correctness_reason": "The answer is wrong because it states that the information is not provided in the context, but the gold answer is available and correct.",
+      "key_point_coverage": null,
+      "claims": [],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The candidate answer incorrectly states that the information is not provided in the context, when it is actually available in the gold answer."
+    },
+    "usage": {
+      "prompt_tokens": 1720,
+      "completion_tokens": 114,
+      "seconds": 2.357695624
+    },
+    "error": null
+  },
+  "Q20": {
+    "raw": "{\n  \"correctness\": 0,\n  \"correctness_reason\": \"The answer is wrong and contradicts the gold answer. The candidate incorrectly states that Wordsworth took nineteen years to dress Peter Bell, which is not accurate. It also provides an incorrect duration for the Witch's dressing process.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\n      \"text\": \"Wordsworth took nineteen years to dress Peter Bell\",\n      \"supported\": false,\n      \"evidence\": [\"P1\"]\n    },\n    {\n      \"text\": \"The Witch took unspecified time to dress\",\n      \"supported\": false,\n      \"evidence\": [\"P1\"]\n    }\n  ],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The answer is entirely incorrect and contradicts the gold answer. It also misinterprets the context provided.\"\n}",
+    "parsed": {
+      "correctness": 0,
+      "correctness_reason": "The answer is wrong and contradicts the gold answer. The candidate incorrectly states that Wordsworth took nineteen years to dress Peter Bell, which is not accurate. It also provides an incorrect duration for the Witch's dressing process.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "Wordsworth took nineteen years to dress Peter Bell",
+          "supported": false,
+          "evidence": [
+            "P1"
+          ]
+        },
+        {
+          "text": "The Witch took unspecified time to dress",
+          "supported": false,
+          "evidence": [
+            "P1"
+          ]
+        }
+      ],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The answer is entirely incorrect and contradicts the gold answer. It also misinterprets the context provided."
+    },
+    "usage": {
+      "prompt_tokens": 1820,
+      "completion_tokens": 196,
+      "seconds": 3.722316169
+    },
+    "error": null
+  }
+}

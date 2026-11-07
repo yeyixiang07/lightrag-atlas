@@ -1,0 +1,16 @@
+diff,lo,hi,p,n,family,a,b,scope,p_holm
+0.025,-0.04,0.09,0.5154,100,H1,c2_full,c1_naive,all,1.0
+0.005,-0.04,0.05,0.9084,100,H1,c2_full,c6_empty,all,1.0
+0.015,-0.035,0.06512499999999818,0.6376,100,H1,c2_full,c7_shuffled,all,1.0
+0.4,0.31,0.49,0.0,100,H1,c2_full,c5_origin,all,0.0
+0.025,-0.005,0.06,0.1484,100,H1,c2_full,c3_low,all,0.8904000000000001
+0.0,-0.04,0.045,1.0,100,H1,c2_full,c4_high,all,1.0
+0.02,-0.05,0.09,0.6138,100,H1,c6_empty,c1_naive,all,1.0
+-0.595,-0.685,-0.5,0.0,100,H1,c0_closed,c1_naive,all,0.0
+-0.02,-0.085,0.045,0.5874,100,H2,c2_full,c8_extractive,correct_norm,1.0
+-0.0020987654320987646,-0.03358024691358025,0.026296296296296293,0.9082,81,H2,c2_full,c8_extractive,citation_precision,1.0
+-0.015217391304347825,-0.07192028985507246,0.03913043478260869,0.5936,92,H2,c2_full,c8_extractive,unsupported_rate,1.0
+0.125,0.0,0.275,0.0768,20,H3,c9_temporal,c2_full,temporal,0.1536
+0.325,0.15,0.525,0.0,20,H3,c9_temporal,c10_naive_temporal,temporal,0.0
+0.0,-0.15,0.15,1.0,20,H3,c10_naive_temporal,c1_naive,temporal,1.0
+0.2,0.05,0.375,0.005,20,H3,c2_full,c1_naive,temporal,0.015

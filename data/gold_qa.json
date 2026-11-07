@@ -1,0 +1,2234 @@
+[
+  {
+    "id": "F01",
+    "type": "factual",
+    "question": "Who was the mother of the Witch?",
+    "gold_answer": "One of the Atlantides.",
+    "aliases": [
+      "an Atlantide",
+      "one of the Atlantides",
+      "an Atlantid",
+      "Atlantides"
+    ],
+    "evidence": [
+      "P2"
+    ],
+    "key_points": [],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "F02",
+    "type": "factual",
+    "question": "On whose mountain did the Witch live?",
+    "gold_answer": "Atlas' mountain.",
+    "aliases": [
+      "Atlas",
+      "Atlas' mountain",
+      "Mount Atlas",
+      "the mountain of Atlas"
+    ],
+    "evidence": [
+      "P1"
+    ],
+    "key_points": [],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "F03",
+    "type": "factual",
+    "question": "What ran beside the Witch's cavern?",
+    "gold_answer": "A secret fountain.",
+    "aliases": [
+      "a secret fountain",
+      "secret fountain",
+      "fountain"
+    ],
+    "evidence": [
+      "P1"
+    ],
+    "key_points": [],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "F04",
+    "type": "factual",
+    "question": "Into what did the Witch's mother first change?",
+    "gold_answer": "A vapour.",
+    "aliases": [
+      "vapour",
+      "vapor",
+      "a vapour",
+      "a cloud of vapour"
+    ],
+    "evidence": [
+      "P3"
+    ],
+    "key_points": [],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "F05",
+    "type": "factual",
+    "question": "After becoming a cloud, into what did the Witch's mother change?",
+    "gold_answer": "A meteor.",
+    "aliases": [
+      "meteor",
+      "a meteor"
+    ],
+    "evidence": [
+      "P3"
+    ],
+    "key_points": [],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "F06",
+    "type": "factual",
+    "question": "Into what did the Witch's mother finally change?",
+    "gold_answer": "One of the mysterious stars between Earth and Mars.",
+    "aliases": [
+      "a star",
+      "one of the mysterious stars",
+      "mysterious stars between the Earth and Mars",
+      "a star between Earth and Mars"
+    ],
+    "evidence": [
+      "P3"
+    ],
+    "key_points": [],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "F07",
+    "type": "factual",
+    "question": "How many times had the Mother of the Months bent her bow before the Witch took shape?",
+    "gold_answer": "Ten times.",
+    "aliases": [
+      "ten",
+      "ten times",
+      "10"
+    ],
+    "evidence": [
+      "P4"
+    ],
+    "key_points": [],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "F08",
+    "type": "factual",
+    "question": "Which animal came first to the Witch?",
+    "gold_answer": "The spotted cameleopard.",
+    "aliases": [
+      "the spotted cameleopard",
+      "cameleopard",
+      "spotted cameleopard",
+      "leopard"
+    ],
+    "evidence": [
+      "P6"
+    ],
+    "key_points": [],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "F09",
+    "type": "factual",
+    "question": "Which animal came after the spotted cameleopard?",
+    "gold_answer": "The wise and fearless elephant.",
+    "aliases": [
+      "the elephant",
+      "elephant",
+      "the wise and fearless elephant"
+    ],
+    "evidence": [
+      "P6"
+    ],
+    "key_points": [],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "F10",
+    "type": "factual",
+    "question": "Which god is said to have come unseen through the mountains to the Witch?",
+    "gold_answer": "Pan.",
+    "aliases": [
+      "Pan",
+      "universal Pan"
+    ],
+    "evidence": [
+      "P9"
+    ],
+    "key_points": [],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "F11",
+    "type": "factual",
+    "question": "Which old figure shook a green stick of lilies?",
+    "gold_answer": "Silenus.",
+    "aliases": [
+      "Silenus",
+      "old Silenus"
+    ],
+    "evidence": [
+      "P8"
+    ],
+    "key_points": [],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "F12",
+    "type": "factual",
+    "question": "What did the Witch weave from three threads of mist, three lines of light, and star-beams?",
+    "gold_answer": "A subtle veil.",
+    "aliases": [
+      "a veil",
+      "veil",
+      "a subtle veil",
+      "a shadow for the splendour of her love"
+    ],
+    "evidence": [
+      "P13"
+    ],
+    "key_points": [],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "F13",
+    "type": "factual",
+    "question": "What did the Witch keep in crystal vials in her cave?",
+    "gold_answer": "Liquors that could medicine the sick soul to happy sleep.",
+    "aliases": [
+      "liquors",
+      "clear and sweet liquors",
+      "liquors in crystal vials",
+      "healing liquors"
+    ],
+    "evidence": [
+      "P17"
+    ],
+    "key_points": [],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "F14",
+    "type": "factual",
+    "question": "What did the Ocean-nymphs and Hamadryades offer to do for the Witch?",
+    "gold_answer": "To do her bidding through the seas, under the earth, and in the rocks and trees.",
+    "aliases": [
+      "do her bidding",
+      "serve her",
+      "be her satellites",
+      "obey her"
+    ],
+    "evidence": [
+      "P22"
+    ],
+    "key_points": [],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "F15",
+    "type": "factual",
+    "question": "What does the Witch do all day in her cave?",
+    "gold_answer": "She spells out scrolls of dread antiquity or embroiders pictured poesy.",
+    "aliases": [
+      "spells out scrolls",
+      "reads scrolls",
+      "embroiders poesy",
+      "broidering the pictured poesy"
+    ],
+    "evidence": [
+      "P26"
+    ],
+    "key_points": [],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "F16",
+    "type": "factual",
+    "question": "What does the Witch do all night?",
+    "gold_answer": "She lies in a trance within the fountain.",
+    "aliases": [
+      "lies in a trance",
+      "lies in the fountain",
+      "sleeps in a trance in the fountain",
+      "trance in the fountain"
+    ],
+    "evidence": [
+      "P28"
+    ],
+    "key_points": [],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "F17",
+    "type": "factual",
+    "question": "Where does the Witch go when whirlwinds and clouds descend?",
+    "gold_answer": "To a lawn of flowering asphodel beside a well of crimson fire.",
+    "aliases": [
+      "a lawn of asphodel",
+      "asphodel lawn",
+      "a well of crimson fire",
+      "the crimson fire well"
+    ],
+    "evidence": [
+      "P29"
+    ],
+    "key_points": [],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "F18",
+    "type": "factual",
+    "question": "Who made the Witch's boat?",
+    "gold_answer": "Vulcan.",
+    "aliases": [
+      "Vulcan",
+      "Hephaestus"
+    ],
+    "evidence": [
+      "P31"
+    ],
+    "key_points": [],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "F19",
+    "type": "factual",
+    "question": "Who bought the boat from Vulcan and gave it to the Witch?",
+    "gold_answer": "Apollo.",
+    "aliases": [
+      "Apollo"
+    ],
+    "evidence": [
+      "P31"
+    ],
+    "key_points": [],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "F20",
+    "type": "factual",
+    "question": "How old was the first-born Love when he leaped from his cradle?",
+    "gold_answer": "Three hours old.",
+    "aliases": [
+      "three hours old",
+      "three hours",
+      "3 hours"
+    ],
+    "evidence": [
+      "P32"
+    ],
+    "key_points": [],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "F21",
+    "type": "factual",
+    "question": "What did Love sow in his mother's star?",
+    "gold_answer": "A strange seed.",
+    "aliases": [
+      "a strange seed",
+      "a seed",
+      "strange seed"
+    ],
+    "evidence": [
+      "P32"
+    ],
+    "key_points": [],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "F22",
+    "type": "factual",
+    "question": "What is the Witch's boat made from?",
+    "gold_answer": "The gourd-like fruit of the plant grown from Love's seed.",
+    "aliases": [
+      "the gourd-like fruit",
+      "a gourd-like fruit",
+      "Love's plant",
+      "the fruit of Love's plant"
+    ],
+    "evidence": [
+      "P33"
+    ],
+    "key_points": [],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "F23",
+    "type": "factual",
+    "question": "What did the Witch breathe into the boat?",
+    "gold_answer": "A living spirit, the soul of swiftness.",
+    "aliases": [
+      "a living spirit",
+      "the soul of swiftness",
+      "a living spirit of swiftness"
+    ],
+    "evidence": [
+      "P34"
+    ],
+    "key_points": [],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "F24",
+    "type": "factual",
+    "question": "Which two substances did the Witch knead together to make the Shape?",
+    "gold_answer": "Fire and snow.",
+    "aliases": [
+      "fire and snow",
+      "snow and fire"
+    ],
+    "evidence": [
+      "P35"
+    ],
+    "key_points": [],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "F25",
+    "type": "factual",
+    "question": "What is the name the Witch calls the winged Shape?",
+    "gold_answer": "Hermaphroditus.",
+    "aliases": [
+      "Hermaphroditus",
+      "the Hermaphrodite"
+    ],
+    "evidence": [
+      "P43"
+    ],
+    "key_points": [],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "F26",
+    "type": "factual",
+    "question": "Where does the Shape sit in the boat?",
+    "gold_answer": "At the prow.",
+    "aliases": [
+      "the prow",
+      "prow",
+      "the front of the boat"
+    ],
+    "evidence": [
+      "P37"
+    ],
+    "key_points": [],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "F27",
+    "type": "factual",
+    "question": "Which river does the Witch glide down during the hours of sleep?",
+    "gold_answer": "The Nile (old Nilus).",
+    "aliases": [
+      "the Nile",
+      "Nile",
+      "old Nilus",
+      "Nilus"
+    ],
+    "evidence": [
+      "P57"
+    ],
+    "key_points": [],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "F28",
+    "type": "factual",
+    "question": "What does the Witch give to the most beautiful mortals she sees?",
+    "gold_answer": "A strange panacea in a crystal bowl.",
+    "aliases": [
+      "a strange panacea",
+      "panacea",
+      "a panacea in a crystal bowl"
+    ],
+    "evidence": [
+      "P69"
+    ],
+    "key_points": [],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "F29",
+    "type": "factual",
+    "question": "What does the Witch do with the coffin of the beautiful dead?",
+    "gold_answer": "She takes it from its niche and throws it into a ditch.",
+    "aliases": [
+      "throws it into a ditch",
+      "throws the coffin into a ditch",
+      "casts it into a ditch"
+    ],
+    "evidence": [
+      "P70"
+    ],
+    "key_points": [],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "F30",
+    "type": "factual",
+    "question": "Whom does the Witch reunite with visions of deep affection?",
+    "gold_answer": "Friends who had been torn apart by envious skill.",
+    "aliases": [
+      "friends",
+      "friends torn apart",
+      "separated friends",
+      "friends who were torn apart"
+    ],
+    "evidence": [
+      "P77"
+    ],
+    "key_points": [],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "M01",
+    "type": "multihop",
+    "question": "How are Vulcan, Apollo, and the Witch connected through the boat?",
+    "gold_answer": "Vulcan made the boat for Venus; it was too feeble, so it was sold, and Apollo bought it and gave it to the Witch.",
+    "aliases": [
+      "Vulcan made it, Apollo bought it and gave it to the Witch",
+      "Vulcan made it for Venus, Apollo bought it and gave it to the Witch",
+      "Vulcan built it for Venus; Apollo gave it to the Witch"
+    ],
+    "evidence": [
+      "P31"
+    ],
+    "key_points": [],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "M02",
+    "type": "multihop",
+    "question": "Why can the Witch's boat float on shallow rapids where a mortal boat could not?",
+    "gold_answer": "It is made from the fruit of Love's plant and animated by a living spirit, so it is not an ordinary mortal boat.",
+    "aliases": [
+      "it is made from Love's plant and has a living spirit",
+      "it is enchanted / made from Love's fruit",
+      "because it is a living, enchanted boat"
+    ],
+    "evidence": [
+      "P33",
+      "P34",
+      "P41"
+    ],
+    "key_points": [],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "M03",
+    "type": "multihop",
+    "question": "How does the Witch travel up the mountain vales, and who helps her?",
+    "gold_answer": "She calls Hermaphroditus; its wings unfurl and oar the boat upward through the streams.",
+    "aliases": [
+      "she calls Hermaphroditus, whose wings propel the boat",
+      "Hermaphroditus flies and oars the boat upward",
+      "the winged Hermaphroditus pulls the boat up"
+    ],
+    "evidence": [
+      "P43",
+      "P44",
+      "P45"
+    ],
+    "key_points": [],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "M04",
+    "type": "multihop",
+    "question": "What happens to the Witch's tears when the nymphs depart, and what does she do next?",
+    "gold_answer": "Her tears fall into the well and sparkle into spheres and lines of light; she then remains alone, reading and embroidering.",
+    "aliases": [
+      "the tears sparkle into light; she stays alone and reads/embroiders",
+      "her tears become sparks of light; then she sits alone with her scrolls",
+      "tears make circles of light, then she lives alone"
+    ],
+    "evidence": [
+      "P25",
+      "P26"
+    ],
+    "key_points": [],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "M05",
+    "type": "multihop",
+    "question": "Why does the Witch weep when the nymphs offer to serve her?",
+    "gold_answer": "Because she knows the nymphs and all mortal things must perish, while she cannot die as they must.",
+    "aliases": [
+      "because the nymphs must perish and she cannot die",
+      "she mourns their mortality",
+      "she knows they will pass away"
+    ],
+    "evidence": [
+      "P23",
+      "P24"
+    ],
+    "key_points": [],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "M06",
+    "type": "multihop",
+    "question": "How is Hermaphroditus created, and what is its role on the boat?",
+    "gold_answer": "The Witch kneads fire and snow with liquid love into a living Shape; it sits at the prow and its wings oar the boat.",
+    "aliases": [
+      "made from fire, snow and love; it sits at the prow and its wings row the boat",
+      "kneaded from fire and snow; its wings propel the boat",
+      "a living image of fire and snow, with wings at the prow"
+    ],
+    "evidence": [
+      "P35",
+      "P36",
+      "P37",
+      "P43",
+      "P44",
+      "P45"
+    ],
+    "key_points": [],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "M07",
+    "type": "multihop",
+    "question": "What is the connection between the first-born Love and the Witch's boat?",
+    "gold_answer": "Love sowed a strange seed in his mother's star; the plant grew, and its gourd-like fruit became the boat.",
+    "aliases": [
+      "Love sowed a seed whose fruit became the boat",
+      "the boat is made from the fruit of the plant Love sowed",
+      "Love's plant produced the boat's material"
+    ],
+    "evidence": [
+      "P32",
+      "P33"
+    ],
+    "key_points": [],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "M08",
+    "type": "multihop",
+    "question": "What does the Witch do when whirlwinds and clouds descend, and what does she watch there?",
+    "gold_answer": "She goes to the asphodel lawn and lies in the well of crimson fire, watching snow melt on the flame.",
+    "aliases": [
+      "she lies in the crimson fire and watches snow melt",
+      "she goes to the asphodel lawn / crimson well and watches snow melt",
+      "she lies in the fire well watching the snow"
+    ],
+    "evidence": [
+      "P29",
+      "P30"
+    ],
+    "key_points": [],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "M09",
+    "type": "multihop",
+    "question": "How does the Witch's cave reflect her magical power?",
+    "gold_answer": "It stores visions, odours, healing liquors, scrolls of strange lore, and stone works transformed by her father's power; all obey her.",
+    "aliases": [
+      "it holds visions, odours, liquors, scrolls and transformed stone works",
+      "the cave is filled with magical treasures that obey her",
+      "her cave stores many enchanted objects and books"
+    ],
+    "evidence": [
+      "P14",
+      "P15",
+      "P16",
+      "P17",
+      "P18",
+      "P19",
+      "P20"
+    ],
+    "key_points": [],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "M10",
+    "type": "multihop",
+    "question": "What is the relationship between the Witch's scrolls and her father's power?",
+    "gold_answer": "The scrolls teach expiations, wisdom's spells, and the lore of love; her father's power changed ragged stone into wondrous works.",
+    "aliases": [
+      "the scrolls teach hidden wisdom; her father's power transforms stone",
+      "the scrolls contain magic lore; Atlas' power made the stone works",
+      "scrolls of wisdom and her father's transforming power"
+    ],
+    "evidence": [
+      "P18",
+      "P19",
+      "P20"
+    ],
+    "key_points": [],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "M11",
+    "type": "multihop",
+    "question": "What does the Witch observe in sleeping mortals, and how does she respond?",
+    "gold_answer": "She sees beautiful and troubled sleepers; she is little disturbed, gives panacea to the most beautiful, and sends dreams to others.",
+    "aliases": [
+      "she gives panacea to the beautiful and dreams to others",
+      "she observes sleepers and intervenes with panacea and dreams",
+      "she sees human sleep, gives panacea to the beautiful, dreams to the rest"
+    ],
+    "evidence": [
+      "P61",
+      "P62",
+      "P63",
+      "P69",
+      "P72"
+    ],
+    "key_points": [],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "M12",
+    "type": "multihop",
+    "question": "What happens to the beautiful mortals after death, and how does the Witch treat their graves?",
+    "gold_answer": "Their bodies remain undecaying; she restores the embalmers' ruin, lights the tomb with a mimic day, and throws the coffin into a ditch.",
+    "aliases": [
+      "their bodies do not decay; she restores the tomb and throws away the coffin",
+      "they lie undecaying; she lights the tomb and discards the coffin",
+      "undecaying bodies; she reverses embalming and throws out the coffin"
+    ],
+    "evidence": [
+      "P69",
+      "P70",
+      "P71"
+    ],
+    "key_points": [],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "M13",
+    "type": "multihop",
+    "question": "How do the priests, king, soldiers, and lovers respond to the Witch's dreams?",
+    "gold_answer": "The priests explain Apis as a bull; the king crowns an ape; the soldiers beat swords into ploughshares; the lovers meet and marry.",
+    "aliases": [
+      "priests explain Apis, the king crowns an ape, soldiers become blacksmiths, lovers marry",
+      "each dream transforms their role: priests, king, soldiers, lovers",
+      "priests preach, king humiliates himself, soldiers make ploughshares, lovers unite"
+    ],
+    "evidence": [
+      "P73",
+      "P74",
+      "P75",
+      "P76",
+      "P77"
+    ],
+    "key_points": [],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "M14",
+    "type": "multihop",
+    "question": "How is the Witch's boat connected to Venus's chariot?",
+    "gold_answer": "Vulcan made it for Venus as the chariot of her star, but it was too feeble, so it was sold and Apollo gave it to the Witch.",
+    "aliases": [
+      "it was made for Venus as her star-chariot, then sold to Apollo and given to the Witch",
+      "Vulcan made it as Venus's chariot; Apollo gave it to the Witch",
+      "it began as Venus's chariot"
+    ],
+    "evidence": [
+      "P31"
+    ],
+    "key_points": [],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "M15",
+    "type": "multihop",
+    "question": "What is the role of the three threads of mist and three lines of light in the Witch's veil?",
+    "gold_answer": "She weaves them with star-beams into a subtle veil, a shadow for the splendour of her love.",
+    "aliases": [
+      "they are woven into a veil that shadows her love",
+      "they make a veil to conceal her splendour",
+      "the veil is made of mist, light and star-beams"
+    ],
+    "evidence": [
+      "P13"
+    ],
+    "key_points": [],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "M16",
+    "type": "multihop",
+    "question": "Why does the Witch say the fountains, oaks, and ocean will be consumed?",
+    "gold_answer": "Because all mortal things decay and pass; she cannot die as the nymphs must, so she refuses their service.",
+    "aliases": [
+      "all mortal things perish, but she is immortal",
+      "the nymphs and nature will die; she cannot",
+      "she knows the world passes and she is deathless"
+    ],
+    "evidence": [
+      "P23",
+      "P24"
+    ],
+    "key_points": [],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "M17",
+    "type": "multihop",
+    "question": "How does the poem connect the Witch's cave to the world of the gods?",
+    "gold_answer": "Silenus, the wood-gods, Dryope, Faunus, Pan, Ocean, nymphs and Priapus all come to her cave.",
+    "aliases": [
+      "many gods and nymphs visit her cave",
+      "Pan, Silenus, Dryope, Faunus and others come to her",
+      "the cave is visited by a crowd of gods and nature spirits"
+    ],
+    "evidence": [
+      "P8",
+      "P9",
+      "P10",
+      "P11"
+    ],
+    "key_points": [],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "M18",
+    "type": "multihop",
+    "question": "What does the Witch do with the living spirits she sees in sleeping humans?",
+    "gold_answer": "She sees the naked beauty of the soul and has a charm that can make that spirit mingle with her own.",
+    "aliases": [
+      "she sees the inner spirit and can make it mingle with hers",
+      "she has a charm to join the sleeper's spirit with her own",
+      "she perceives the soul and can merge with it"
+    ],
+    "evidence": [
+      "P66"
+    ],
+    "key_points": [],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "M19",
+    "type": "multihop",
+    "question": "How does the Witch's charm compare with what Aurora and Venus would give?",
+    "gold_answer": "Aurora would give much for it when Tithon grew gray; Venus would give much for it for Adonis; the Heliad does not know its value.",
+    "aliases": [
+      "Aurora would give it for Tithon, Venus for Adonis; the Heliad does not know its worth",
+      "Aurora and Venus would pay dearly for the charm; the Heliad is ignorant of it",
+      "the charm is priceless to Aurora and Venus"
+    ],
+    "evidence": [
+      "P67"
+    ],
+    "key_points": [],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "M20",
+    "type": "multihop",
+    "question": "What happens when the Witch wants to ascend a winding vale?",
+    "gold_answer": "She calls Hermaphroditus; it unfurls its wings and the boat is oared up the streams toward their springs.",
+    "aliases": [
+      "she calls Hermaphroditus and its wings oar the boat upward",
+      "the winged Shape lifts the boat up the vale",
+      "Hermaphroditus flies and rows the boat upstream"
+    ],
+    "evidence": [
+      "P43",
+      "P44",
+      "P45"
+    ],
+    "key_points": [],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "M21",
+    "type": "multihop",
+    "question": "What is the Witch's haven made of, and where is it?",
+    "gold_answer": "It is made of clouds on the Austral lake, beyond the fabulous Thamondocana.",
+    "aliases": [
+      "clouds on the Austral lake",
+      "a haven of clouds beyond Thamondocana",
+      "a cloud haven on the Austral lake"
+    ],
+    "evidence": [
+      "P47",
+      "P48",
+      "P49"
+    ],
+    "key_points": [],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "M22",
+    "type": "multihop",
+    "question": "How does the Witch's presence affect the sky and mortals when she joins the spirits of the upper air?",
+    "gold_answer": "The sky becomes calm and fair, mystic music wanders over the earth, and people feel happy thoughts of hope.",
+    "aliases": [
+      "the sky is calm, music is heard, and people feel hope",
+      "calm sky, mystic music, happy thoughts",
+      "her presence brings calm weather and hopeful music"
+    ],
+    "evidence": [
+      "P56"
+    ],
+    "key_points": [],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "M23",
+    "type": "multihop",
+    "question": "What does the Witch do on the Nile, and what does she see?",
+    "gold_answer": "She glides down the Nile at night, past Moeris and the Mareotid lakes, the Labyrinth, temples and pyramids, observing sleeping mortals.",
+    "aliases": [
+      "she sails the Nile at night and observes temples, pyramids and sleepers",
+      "she glides down the Nile seeing Egyptian monuments and sleeping people",
+      "she wanders the Nile at night among temples and sleepers"
+    ],
+    "evidence": [
+      "P57",
+      "P58",
+      "P59",
+      "P60"
+    ],
+    "key_points": [],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "M24",
+    "type": "multihop",
+    "question": "What is the significance of the poem's dedication to Mary?",
+    "gold_answer": "Mary objected that the poem had no human interest; the poet defends his visionary rhyme and compares the Witch with Wordsworth's Peter Bell.",
+    "aliases": [
+      "Mary objected to the lack of human interest; the poet defends visionary poetry",
+      "the dedication answers Mary's criticism by comparing the Witch to Peter Bell",
+      "it frames the poem as a defence of visionary rhyme against realism"
+    ],
+    "evidence": [
+      "D1",
+      "D2",
+      "D3",
+      "D4",
+      "D5",
+      "D6"
+    ],
+    "key_points": [],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "M25",
+    "type": "multihop",
+    "question": "Why does the poem end by deferring further tales of the Witch?",
+    "gold_answer": "The poet says he will declare another time; the tale is more fit for weird winter nights than garish summer days.",
+    "aliases": [
+      "the tale is fit for winter nights, so he will tell it another time",
+      "he defers it because it suits winter nights better than summer days",
+      "it is a winter-night tale, not for summer"
+    ],
+    "evidence": [
+      "P78"
+    ],
+    "key_points": [],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "T01",
+    "type": "thematic",
+    "question": "What is the Witch's relationship to mortality and immortality?",
+    "gold_answer": "She is deathless while nymphs and mortals perish; she watches generations pass, grants undecaying life to the beautiful, and remains serene and detached.",
+    "aliases": [],
+    "evidence": [
+      "P23",
+      "P24",
+      "P63",
+      "P68",
+      "P69",
+      "P71",
+      "P77"
+    ],
+    "key_points": [
+      "She cannot die while nymphs and mortal things perish (P23-P24).",
+      "She observes mortal generations and their sleep with detachment (P63, P68, P71).",
+      "She grants a kind of undecaying life or deathless sleep to the beautiful (P69-P71).",
+      "She reunites lovers and friends, intervening in mortal time (P77)."
+    ],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "T02",
+    "type": "thematic",
+    "question": "How does the poem portray the Witch's power over nature?",
+    "gold_answer": "She tames wild beasts, commands clouds and weather, rides storms, builds a haven of clouds, and travels the Nile and upper air.",
+    "aliases": [],
+    "evidence": [
+      "P6",
+      "P7",
+      "P29",
+      "P30",
+      "P48",
+      "P52",
+      "P55",
+      "P56",
+      "P57"
+    ],
+    "key_points": [
+      "Wild beasts become gentle at her look (P6-P7).",
+      "She moves with whirlwinds and lies in a well of crimson fire (P29-P30).",
+      "She rides the air, lightning and storms, and builds a cloud haven (P48-P49, P55).",
+      "Her presence can calm the sky and bring music (P56)."
+    ],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "T03",
+    "type": "thematic",
+    "question": "What role does love play in the Witch's creation and actions?",
+    "gold_answer": "Love is a creating and binding force: Love's seed makes her boat, she tempers the Shape with liquid love, her veil shadows her love, and she reunites lovers.",
+    "aliases": [],
+    "evidence": [
+      "P13",
+      "P32",
+      "P33",
+      "P35",
+      "P66",
+      "P77"
+    ],
+    "key_points": [
+      "Love's seed grows the plant whose fruit becomes her boat (P32-P33).",
+      "She kneads fire and snow with liquid love to create the Shape (P35).",
+      "Her veil is a shadow for the splendour of her love (P13).",
+      "She uses her charm on spirits and reunites separated lovers/friends (P66, P77)."
+    ],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "T04",
+    "type": "thematic",
+    "question": "How does the poem use light and darkness imagery?",
+    "gold_answer": "Light and darkness alternate and blend: the Witch is garmented in light, her eyes are like night, she weaves star-beams, lies in crimson fire, and moves among stars and moonlight.",
+    "aliases": [],
+    "evidence": [
+      "P5",
+      "P13",
+      "P20",
+      "P29",
+      "P47",
+      "P54",
+      "P69"
+    ],
+    "key_points": [
+      "The Witch is clothed in light, with eyes like deep night (P5).",
+      "She weaves mist, light and star-beams into a veil (P13).",
+      "Fire, moonlight and stars accompany her journeys (P29, P47, P54).",
+      "Her tomb-light is a 'mimic day' in the dark grave (P69-P70)."
+    ],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "T05",
+    "type": "thematic",
+    "question": "What is the significance of Hermaphroditus in the poem?",
+    "gold_answer": "Hermaphroditus is a sexless living image, combining both sexes' grace; created from fire, snow and love, it becomes the winged pilot of the Witch's boat.",
+    "aliases": [],
+    "evidence": [
+      "P35",
+      "P36",
+      "P37",
+      "P43",
+      "P44",
+      "P45"
+    ],
+    "key_points": [
+      "It is a living Shape made by the Witch from fire and snow (P35).",
+      "It is sexless yet has the grace of both sexes (P36).",
+      "It sits at the prow and its wings propel the boat (P37, P43-P45).",
+      "It is a companion/creation that mediates between the Witch and the elements."
+    ],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "T06",
+    "type": "thematic",
+    "question": "How does the poem treat dreams and sleep?",
+    "gold_answer": "Sleep is a threshold: the Witch lies in trance, observes sleeping mortals, enters their dreams, and uses dreams to reform priests, kings, soldiers and lovers.",
+    "aliases": [],
+    "evidence": [
+      "P28",
+      "P60",
+      "P61",
+      "P62",
+      "P72",
+      "P73",
+      "P74",
+      "P75",
+      "P76"
+    ],
+    "key_points": [
+      "The Witch herself lies in a nightly trance in the fountain (P28).",
+      "She watches mortals in all shapes of sleep (P60-P61).",
+      "She sees troubled dreams and the 'strife' of human life (P62).",
+      "She writes dreams that transform priests, kings, soldiers and lovers (P72-P77)."
+    ],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "T07",
+    "type": "thematic",
+    "question": "What is the poem's attitude toward priests and religion?",
+    "gold_answer": "The poem treats priests with irony: they sleep, dream of explaining Apis as a bull, and license people to speak of hawks, cats and geese.",
+    "aliases": [],
+    "evidence": [
+      "P64",
+      "P73"
+    ],
+    "key_points": [
+      "Priests are among the sleeping mortals (P64).",
+      "They dream of translating hieroglyphics and explaining Apis as a bull (P73).",
+      "They issue pastoral letters licensing opinions about sacred animals (P73).",
+      "The tone is satirical rather than reverent."
+    ],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "T08",
+    "type": "thematic",
+    "question": "How does the poem treat political power and kings?",
+    "gold_answer": "It satirizes royal power: the king dreams of dressing an ape in his crown and robes, while courtiers crawl to kiss the ape's feet.",
+    "aliases": [],
+    "evidence": [
+      "P74"
+    ],
+    "key_points": [
+      "The king dreams of enthroning an ape in his crown and robes (P74).",
+      "A mock-bird repeats the monkey's chatter beside the throne (P74).",
+      "Courtiers crawl to kiss the feet of the 'great Emperor' (P74).",
+      "The poem exposes the absurdity and performativity of power."
+    ],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "T09",
+    "type": "thematic",
+    "question": "What is the role of art and poetry in the poem?",
+    "gold_answer": "Art is everywhere: the Witch embroiders poesy, reads scrolls of lore, sings like Arion, and the poem frames itself as a visionary rhyme defended against Mary's demand for human interest.",
+    "aliases": [],
+    "evidence": [
+      "D1",
+      "D3",
+      "P18",
+      "P19",
+      "P26",
+      "P55"
+    ],
+    "key_points": [
+      "The dedication defends 'visionary rhyme' against Mary's criticism (D1-D3).",
+      "The Witch embroiders pictured poesy and reads scrolls of ancient lore (P18-P19, P26).",
+      "She rides singing like Arion on the dolphin (P55).",
+      "The poem presents itself as a self-conscious aesthetic object."
+    ],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "T10",
+    "type": "thematic",
+    "question": "How does the poem contrast the Witch with mortal women such as Aurora, Venus and Diana?",
+    "gold_answer": "Aurora and Venus would pay dearly for her charm, and Diana was not chaster before Endymion; the Witch is a serene, sexless bee, tasting but confined to none.",
+    "aliases": [],
+    "evidence": [
+      "P67",
+      "P68"
+    ],
+    "key_points": [
+      "Aurora would give much for the charm when Tithon grew old (P67).",
+      "Venus would give much for it on Adonis's behalf (P67).",
+      "Diana was not chaster before kissing Endymion (P68).",
+      "The Witch is 'like a sexless bee', tasting all blossoms but confined to none (P68)."
+    ],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "T11",
+    "type": "thematic",
+    "question": "What is the poem's view of human suffering?",
+    "gold_answer": "The Witch sees human suffering and 'the strife' of mortal life, but remains largely detached; she intervenes selectively for the beautiful and for lovers.",
+    "aliases": [],
+    "evidence": [
+      "P62",
+      "P63",
+      "P68",
+      "P69",
+      "P72",
+      "P77"
+    ],
+    "key_points": [
+      "She sees troubled sleep and the 'code of Custom's lawless law' (P62).",
+      "The sight little disturbs her soul (P63).",
+      "She acts serenely, giving panacea to the beautiful and dreams to others (P69, P72).",
+      "She repairs some suffering (lovers/friends) without becoming entangled (P77)."
+    ],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "T12",
+    "type": "thematic",
+    "question": "How does the poem use classical mythology?",
+    "gold_answer": "It layers Greek and Egyptian myth: Atlas and the Atlantides, Pan and Silenus, Vulcan/Apollo/Venus, Hermaphroditus, Aurora/Tithon, Venus/Adonis, Diana/Endymion, and the Nile.",
+    "aliases": [],
+    "evidence": [
+      "P1",
+      "P2",
+      "P8",
+      "P9",
+      "P10",
+      "P31",
+      "P43",
+      "P57",
+      "P67",
+      "P68"
+    ],
+    "key_points": [
+      "Atlas and the Atlantides frame the Witch's origin (P1-P2).",
+      "Pan, Silenus, Dryope, Faunus, Priapus and nymphs people her cave (P8-P11).",
+      "Vulcan, Apollo and Venus explain the boat (P31).",
+      "Aurora/Tithon, Venus/Adonis and Diana/Endymion measure her charm (P67-P68).",
+      "Egyptian material (Nile, Apis, Osiris) extends the mythic geography (P57-P59, P73)."
+    ],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "T13",
+    "type": "thematic",
+    "question": "What is the function of the poem's dedication to Mary?",
+    "gold_answer": "It frames the poem as a defence of visionary art: Mary complains there is no human interest, and the poet compares his Witch with Wordsworth's Peter Bell.",
+    "aliases": [],
+    "evidence": [
+      "D1",
+      "D2",
+      "D3",
+      "D4",
+      "D5",
+      "D6"
+    ],
+    "key_points": [
+      "The dedication addresses Mary and her objection that the poem has no human interest (D1).",
+      "The poet defends the 'visionary rhyme' as a winged vision (D1-D3).",
+      "He contrasts the Witch with Wordsworth's Peter Bell, who took nineteen years (D4-D5).",
+      "The frame invites us to read the poem as an argument about art."
+    ],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "T14",
+    "type": "thematic",
+    "question": "How does the poem describe the Witch's beauty and its effects?",
+    "gold_answer": "Her beauty dims the world, draws all living things, and subdues wonder and mirth; it is a power that tames beasts and gods alike.",
+    "aliases": [],
+    "evidence": [
+      "P5",
+      "P10",
+      "P12"
+    ],
+    "key_points": [
+      "She is 'garmented in light' from her own beauty (P5).",
+      "Her beauty makes the bright world dim (P12).",
+      "All living things are drawn to her (P5-P11).",
+      "Her love subdues the wonder and mirth of the gods (P10)."
+    ],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "T15",
+    "type": "thematic",
+    "question": "What is the significance of the boat journey?",
+    "gold_answer": "The journey moves from the mountain cavern through cataracts and vales, up into the clouds, to the Austral lake and the Nile; it links the divine, natural and human worlds.",
+    "aliases": [],
+    "evidence": [
+      "P38",
+      "P41",
+      "P42",
+      "P43",
+      "P45",
+      "P47",
+      "P48",
+      "P57"
+    ],
+    "key_points": [
+      "The boat descends through mountain streams and cataracts (P38-P42).",
+      "Hermaphroditus's wings lift it up the vales (P43-P45).",
+      "It reaches the Austral lake and a cloud haven (P47-P49).",
+      "The Nile journey brings the Witch among human cities and sleepers (P57-P60)."
+    ],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "T16",
+    "type": "thematic",
+    "question": "How does the poem portray the natural world?",
+    "gold_answer": "Nature is animate and sacred: beasts, mountains, forests, streams, clouds, lightning and stars all respond to the Witch's presence.",
+    "aliases": [],
+    "evidence": [
+      "P6",
+      "P7",
+      "P38",
+      "P42",
+      "P48",
+      "P49",
+      "P50",
+      "P55",
+      "P56"
+    ],
+    "key_points": [
+      "Wild beasts are gentled by her look (P6-P7).",
+      "Mountains, forests and streams form her route (P38-P42).",
+      "Clouds, hail, lightning and the Austral lake become her playground/haven (P48-P50).",
+      "She rides storms and calms the sky (P55-P56)."
+    ],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "T17",
+    "type": "thematic",
+    "question": "What is the Witch's moral stance or ethic?",
+    "gold_answer": "She is neither a moral judge nor a mere hedonist: she refuses worship, helps the beautiful and separated lovers, and reforms the powerful through dreams, all with serene detachment.",
+    "aliases": [],
+    "evidence": [
+      "P22",
+      "P23",
+      "P63",
+      "P68",
+      "P69",
+      "P72",
+      "P73",
+      "P74",
+      "P77"
+    ],
+    "key_points": [
+      "She refuses the nymphs' worship because she cannot share their mortal fate (P22-P24).",
+      "She observes human life with serenity and detachment (P63, P68).",
+      "She gives panacea to the beautiful and dreams to others (P69, P72).",
+      "Her dreams expose and reverse the roles of priests, kings and soldiers (P73-P75).",
+      "She reunites separated lovers/friends (P77)."
+    ],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "T18",
+    "type": "thematic",
+    "question": "How does the poem treat death and the afterlife?",
+    "gold_answer": "Death is represented as sleep and as a state the Witch can suspend: the beautiful dead lie undecaying, their tomb lit by a mimic day, while generations pass.",
+    "aliases": [],
+    "evidence": [
+      "P64",
+      "P69",
+      "P70",
+      "P71"
+    ],
+    "key_points": [
+      "The dead are described as 'lulled within their dreamless graves' (P64).",
+      "The beautiful dead remain warm, breathing and undecaying (P70-P71).",
+      "The Witch restores the embalmers' ruin and lights the tomb with a mimic day (P70).",
+      "She throws the coffin away, treating it with contempt (P70)."
+    ],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "T19",
+    "type": "thematic",
+    "question": "What is the role of the veil and concealment in the poem?",
+    "gold_answer": "The veil is a woven shadow that both conceals and reveals the Witch's love; the poem repeatedly uses diaphanous veils to figure the relation between body and spirit.",
+    "aliases": [],
+    "evidence": [
+      "P13",
+      "P65",
+      "P66"
+    ],
+    "key_points": [
+      "The veil is woven from mist, light and star-beams (P13).",
+      "It is a 'shadow for the splendour of her love' (P13).",
+      "Sleeping bodies are like diaphanous veils that conceal the soul (P65).",
+      "The Witch sees the 'naked beauty of the soul' through such veils (P66)."
+    ],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "T20",
+    "type": "thematic",
+    "question": "How does the poem use the Nile and Egypt?",
+    "gold_answer": "The Nile section expands the poem's geography into ancient Egypt: temples, pyramids, the Labyrinth, Moeris and the Mareotid, and sleeping mortals under the night.",
+    "aliases": [],
+    "evidence": [
+      "P57",
+      "P58",
+      "P59",
+      "P60"
+    ],
+    "key_points": [
+      "The Nile is described from Axume to the plain (P57).",
+      "The Mareotid lakes and the Labyrinth are named (P58).",
+      "Temples, tombs, towers and pyramids line the river (P59).",
+      "The Witch wanders at night among sleeping mortals (P59-P60)."
+    ],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "T21",
+    "type": "thematic",
+    "question": "What is the significance of the Witch's solitude?",
+    "gold_answer": "She begins alone, refuses the nymphs' service, travels alone with Hermaphroditus, and observes mortals unseen; solitude is the condition of her serene, sovereign vision.",
+    "aliases": [],
+    "evidence": [
+      "P21",
+      "P22",
+      "P23",
+      "P24",
+      "P37",
+      "P60",
+      "P65",
+      "P68"
+    ],
+    "key_points": [
+      "'At first she lived alone in this wild home' (P21).",
+      "She refuses the nymphs' offer to serve her (P22-P24).",
+      "She travels alone with the Shape, unseen by mortals (P37, P60, P65).",
+      "Her solitude supports her detached, sovereign vision (P68)."
+    ],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "T22",
+    "type": "thematic",
+    "question": "How does the poem contrast vision, dream and waking reality?",
+    "gold_answer": "The poem calls itself a visionary rhyme; dreams reshape waking life for the sleepers, lovers mistake dream for reality, and the ending doubts what we can see.",
+    "aliases": [],
+    "evidence": [
+      "D1",
+      "P47",
+      "P72",
+      "P76",
+      "P77",
+      "P78"
+    ],
+    "key_points": [
+      "The dedication defends 'visionary rhyme' (D1).",
+      "The Witch's visions carry her over the world (P47).",
+      "Her dreams change waking behavior: priests, king, soldiers, lovers (P72-P77).",
+      "The lovers believe their dream was done 'only in fancy' until the tenth moon (P76).",
+      "The ending says we 'scarcely believe much more than we can see' (P78)."
+    ],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "T23",
+    "type": "thematic",
+    "question": "What is the poem's tone?",
+    "gold_answer": "The tone blends lyricism and irony: lush mythological description, playful 'pranks', and satirical treatment of priests, kings and critics.",
+    "aliases": [],
+    "evidence": [
+      "D4",
+      "D5",
+      "D6",
+      "P51",
+      "P73",
+      "P74",
+      "P78"
+    ],
+    "key_points": [
+      "The dedication is playful and ironic about Wordsworth's Peter Bell (D4-D6).",
+      "The poem calls the Witch's deeds 'pranks' (P51, P78).",
+      "The descriptions of priests and kings are satirical (P73-P74).",
+      "The mythological imagery is lyrical and sensuous (P5-P20, P38-P50)."
+    ],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "T24",
+    "type": "thematic",
+    "question": "How does the poem use the sexless nature of Hermaphroditus and the 'sexless bee' image?",
+    "gold_answer": "Hermaphroditus is a sexless image combining both sexes' grace; the Witch is later 'like a sexless bee', tasting all blossoms but confined to none, figuring a self-sufficient, non-reproductive desire.",
+    "aliases": [],
+    "evidence": [
+      "P36",
+      "P68"
+    ],
+    "key_points": [
+      "Hermaphroditus is 'a sexless thing' with the grace of both sexes (P36).",
+      "The Witch is 'like a sexless bee' among mortal forms (P68).",
+      "The image suggests wholeness, non-attachment and self-sufficiency.",
+      "It contrasts with the mortal lovers she observes and unites."
+    ],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "T25",
+    "type": "thematic",
+    "question": "How does the ending frame the poem's own storytelling?",
+    "gold_answer": "The ending calls the preceding events 'pranks', promises another tale, and says such a tale suits winter nights rather than summer days, leaving the reader in a mood of playful skepticism.",
+    "aliases": [],
+    "evidence": [
+      "P78"
+    ],
+    "key_points": [
+      "'These were the pranks she played among the cities of mortal men' (P78).",
+      "The poet says he will declare the rest another time (P78).",
+      "The tale is 'more fit for the weird winter nights' than summer days (P78).",
+      "The final line says we 'scarcely believe much more than we can see' (P78)."
+    ],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "Q01",
+    "type": "temporal",
+    "question": "In what order did the Witch's mother change form?",
+    "gold_answer": "Vapour, then cloud, then meteor, then a mysterious star.",
+    "aliases": [
+      "vapour -> cloud -> meteor -> star",
+      "vapour, cloud, meteor, star"
+    ],
+    "evidence": [
+      "P3"
+    ],
+    "key_points": [],
+    "order_pairs": [
+      [
+        "vapour",
+        "cloud"
+      ],
+      [
+        "cloud",
+        "meteor"
+      ],
+      [
+        "meteor",
+        "star"
+      ]
+    ],
+    "events": [
+      "vapour",
+      "cloud",
+      "meteor",
+      "star"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "Q02",
+    "type": "temporal",
+    "question": "Which happened first: the Witch taking shape or the beasts coming to her?",
+    "gold_answer": "The Witch took shape first; the beasts came afterward.",
+    "aliases": [
+      "the Witch took shape first",
+      "taking shape",
+      "the Witch's creation"
+    ],
+    "evidence": [
+      "P4",
+      "P5",
+      "P6"
+    ],
+    "key_points": [],
+    "order_pairs": [
+      [
+        "Witch takes shape",
+        "beasts come"
+      ]
+    ],
+    "events": [
+      "Witch takes shape",
+      "beasts come"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "Q03",
+    "type": "temporal",
+    "question": "Which happened first: Silenus visiting the Witch's cave or the Witch weaving her veil?",
+    "gold_answer": "Silenus visited first; the veil was woven later.",
+    "aliases": [
+      "Silenus visited first",
+      "Silenus",
+      "the visit of Silenus"
+    ],
+    "evidence": [
+      "P8",
+      "P13"
+    ],
+    "key_points": [],
+    "order_pairs": [
+      [
+        "Silenus visits",
+        "Witch weaves veil"
+      ]
+    ],
+    "events": [
+      "Silenus visits",
+      "Witch weaves veil"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "Q04",
+    "type": "temporal",
+    "question": "Which happened first: the Witch refusing the nymphs or her weeping?",
+    "gold_answer": "She refused the nymphs first, then wept.",
+    "aliases": [
+      "the refusal came first",
+      "refusing the nymphs",
+      "refusal"
+    ],
+    "evidence": [
+      "P23",
+      "P24",
+      "P25"
+    ],
+    "key_points": [],
+    "order_pairs": [
+      [
+        "Witch refuses nymphs",
+        "Witch weeps"
+      ]
+    ],
+    "events": [
+      "Witch refuses nymphs",
+      "Witch weeps"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "Q05",
+    "type": "temporal",
+    "question": "Which happened first: the boat being made or Hermaphroditus being created?",
+    "gold_answer": "The boat was made first; Hermaphroditus was created afterward.",
+    "aliases": [
+      "the boat was made first",
+      "boat first",
+      "the boat"
+    ],
+    "evidence": [
+      "P31",
+      "P32",
+      "P33",
+      "P34",
+      "P35",
+      "P36",
+      "P37"
+    ],
+    "key_points": [],
+    "order_pairs": [
+      [
+        "boat is made",
+        "Hermaphroditus is created"
+      ]
+    ],
+    "events": [
+      "boat is made",
+      "Hermaphroditus is created"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "Q06",
+    "type": "temporal",
+    "question": "Which happened first: the boat descending the cataracts or the Witch calling Hermaphroditus to ascend?",
+    "gold_answer": "The boat descended the cataracts first; the calling and ascent came later.",
+    "aliases": [
+      "the cataracts came first",
+      "descending the cataracts",
+      "the cataract descent"
+    ],
+    "evidence": [
+      "P42",
+      "P43"
+    ],
+    "key_points": [],
+    "order_pairs": [
+      [
+        "boat descends cataracts",
+        "Witch calls Hermaphroditus"
+      ]
+    ],
+    "events": [
+      "boat descends cataracts",
+      "Witch calls Hermaphroditus"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "Q07",
+    "type": "temporal",
+    "question": "Which happened first: the Witch sailing to the Austral waters or building her haven?",
+    "gold_answer": "She sailed to the Austral waters first, then built the haven.",
+    "aliases": [
+      "sailing came first",
+      "sailing to the Austral waters",
+      "the Austral voyage"
+    ],
+    "evidence": [
+      "P47",
+      "P48"
+    ],
+    "key_points": [],
+    "order_pairs": [
+      [
+        "Witch sails to Austral waters",
+        "Witch builds haven"
+      ]
+    ],
+    "events": [
+      "Witch sails to Austral waters",
+      "Witch builds haven"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "Q08",
+    "type": "temporal",
+    "question": "Which happened first: the Witch playing pranks on the water or calling the armies of spirits?",
+    "gold_answer": "She played pranks on the water first; then she called the armies of spirits.",
+    "aliases": [
+      "the pranks came first",
+      "playing pranks",
+      "the water pranks"
+    ],
+    "evidence": [
+      "P51",
+      "P52"
+    ],
+    "key_points": [],
+    "order_pairs": [
+      [
+        "Witch plays pranks on water",
+        "Witch calls spirit armies"
+      ]
+    ],
+    "events": [
+      "Witch plays pranks on water",
+      "Witch calls spirit armies"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "Q09",
+    "type": "temporal",
+    "question": "Which happened first: the priests' dream or the king's dream?",
+    "gold_answer": "The priests' dream came first; the king's dream followed.",
+    "aliases": [
+      "the priests' dream came first",
+      "priests first",
+      "the priests"
+    ],
+    "evidence": [
+      "P73",
+      "P74"
+    ],
+    "key_points": [],
+    "order_pairs": [
+      [
+        "priests dream",
+        "king dreams"
+      ]
+    ],
+    "events": [
+      "priests dream",
+      "king dreams"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "Q10",
+    "type": "temporal",
+    "question": "Which happened first: the lovers meeting the next day or the tenth moon shining?",
+    "gold_answer": "They met the next day first; the tenth moon came later.",
+    "aliases": [
+      "the next day came first",
+      "the next day",
+      "next day"
+    ],
+    "evidence": [
+      "P76"
+    ],
+    "key_points": [],
+    "order_pairs": [
+      [
+        "lovers meet next day",
+        "tenth moon shines"
+      ]
+    ],
+    "events": [
+      "lovers meet next day",
+      "tenth moon shines"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "Q11",
+    "type": "temporal",
+    "question": "Which happened first: the Witch restoring the body or throwing the coffin into the ditch?",
+    "gold_answer": "She restored the body first, then threw the coffin into the ditch.",
+    "aliases": [
+      "restoring the body came first",
+      "restoring the body",
+      "restoration first"
+    ],
+    "evidence": [
+      "P70"
+    ],
+    "key_points": [],
+    "order_pairs": [
+      [
+        "Witch restores body",
+        "Witch throws coffin into ditch"
+      ]
+    ],
+    "events": [
+      "Witch restores body",
+      "Witch throws coffin into ditch"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "Q12",
+    "type": "temporal",
+    "question": "Which happened first: the boat being moored on the fountain or Hermaphroditus sitting at the prow?",
+    "gold_answer": "The boat was moored first; Hermaphroditus was placed at the prow afterward.",
+    "aliases": [
+      "the boat was moored first",
+      "mooring came first",
+      "the boat"
+    ],
+    "evidence": [
+      "P34",
+      "P37"
+    ],
+    "key_points": [],
+    "order_pairs": [
+      [
+        "boat is moored on fountain",
+        "Hermaphroditus sits at prow"
+      ]
+    ],
+    "events": [
+      "boat is moored on fountain",
+      "Hermaphroditus sits at prow"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "Q13",
+    "type": "temporal",
+    "question": "Put the actions of the burial night in order.",
+    "gold_answer": "She restores the embalmers' ruin, shakes light from the funeral lamps, unwinds the swaddling bands, takes the coffin from its niche, and throws it into the ditch.",
+    "aliases": [
+      "restore -> light -> unwrap -> take coffin -> throw into ditch",
+      "restores the ruin, lights the tomb, unwraps the bands, removes and discards the coffin"
+    ],
+    "evidence": [
+      "P70"
+    ],
+    "key_points": [],
+    "order_pairs": [
+      [
+        "restore embalmers' ruin",
+        "shake light from funeral lamps"
+      ],
+      [
+        "shake light from funeral lamps",
+        "unwind swaddling bands"
+      ],
+      [
+        "unwind swaddling bands",
+        "take coffin from niche"
+      ],
+      [
+        "take coffin from niche",
+        "throw coffin into ditch"
+      ]
+    ],
+    "events": [
+      "restore embalmers' ruin",
+      "shake light from funeral lamps",
+      "unwind swaddling bands",
+      "take coffin from niche",
+      "throw coffin into ditch"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "Q14",
+    "type": "temporal",
+    "question": "Put the Witch's daily routine in order: what does she do by day, and what by night?",
+    "gold_answer": "By day she reads scrolls and embroiders poesy; by night she lies in a trance in the fountain.",
+    "aliases": [
+      "day: scrolls/embroidery; night: trance in the fountain",
+      "day reading, night trance",
+      "by day she reads, by night she lies in the fountain"
+    ],
+    "evidence": [
+      "P26",
+      "P28"
+    ],
+    "key_points": [],
+    "order_pairs": [
+      [
+        "day: scrolls and embroidery",
+        "night: trance in fountain"
+      ]
+    ],
+    "events": [
+      "day: scrolls and embroidery",
+      "night: trance in fountain"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "Q15",
+    "type": "temporal",
+    "question": "Put the arrival of the spirit armies in order.",
+    "gold_answer": "The armies come, they pitch pavilions, the Witch sits on a throne, hears news, and then weeps and laughs.",
+    "aliases": [
+      "armies come -> pavilions -> throne -> news -> weep/laugh",
+      "armies, pavilions, throne, news, weeping and laughter"
+    ],
+    "evidence": [
+      "P52",
+      "P53",
+      "P54"
+    ],
+    "key_points": [],
+    "order_pairs": [
+      [
+        "spirit armies come",
+        "pavilions pitched"
+      ],
+      [
+        "pavilions pitched",
+        "Witch sits on throne"
+      ],
+      [
+        "Witch sits on throne",
+        "Witch hears news"
+      ],
+      [
+        "Witch hears news",
+        "Witch weeps and laughs"
+      ]
+    ],
+    "events": [
+      "spirit armies come",
+      "pavilions pitched",
+      "Witch sits on throne",
+      "Witch hears news",
+      "Witch weeps and laughs"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "Q16",
+    "type": "temporal",
+    "question": "Put the Nile journey in order.",
+    "gold_answer": "She glides down the Nile, passes Moeris and the Mareotid, passes the Labyrinth, wanders in the night, and observes the sleepers.",
+    "aliases": [
+      "Nile -> Moeris/Mareotid -> Labyrinth -> night wandering -> sleepers",
+      "down the Nile, past Moeris, past the Labyrinth, through the night, among sleepers"
+    ],
+    "evidence": [
+      "P57",
+      "P58",
+      "P59",
+      "P60"
+    ],
+    "key_points": [],
+    "order_pairs": [
+      [
+        "glides down Nile",
+        "passes Moeris and Mareotid"
+      ],
+      [
+        "passes Moeris and Mareotid",
+        "passes the Labyrinth"
+      ],
+      [
+        "passes the Labyrinth",
+        "wanders in the night"
+      ],
+      [
+        "wanders in the night",
+        "observes sleepers"
+      ]
+    ],
+    "events": [
+      "glides down Nile",
+      "passes Moeris and Mareotid",
+      "passes the Labyrinth",
+      "wanders in the night",
+      "observes sleepers"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "Q17",
+    "type": "temporal",
+    "question": "Put the Witch's interventions among mortals in order.",
+    "gold_answer": "First the beautiful receive the panacea; then the less beautiful receive dreams; then the priests, king, soldiers and lovers dream in turn.",
+    "aliases": [
+      "panacea -> dreams -> priests -> king -> soldiers -> lovers",
+      "beautiful/panacea, then dreams, then priests, king, soldiers, lovers"
+    ],
+    "evidence": [
+      "P69",
+      "P72",
+      "P73",
+      "P74",
+      "P75",
+      "P76"
+    ],
+    "key_points": [],
+    "order_pairs": [
+      [
+        "panacea to the beautiful",
+        "dreams to the less beautiful"
+      ],
+      [
+        "dreams to the less beautiful",
+        "priests dream"
+      ],
+      [
+        "priests dream",
+        "king dreams"
+      ],
+      [
+        "king dreams",
+        "soldiers dream"
+      ],
+      [
+        "soldiers dream",
+        "lovers dream"
+      ]
+    ],
+    "events": [
+      "panacea to the beautiful",
+      "dreams to the less beautiful",
+      "priests dream",
+      "king dreams",
+      "soldiers dream",
+      "lovers dream"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "Q18",
+    "type": "temporal",
+    "question": "How many times had the Mother of the Months bent her bow before the Witch took shape?",
+    "gold_answer": "Ten times.",
+    "aliases": [
+      "ten times",
+      "ten",
+      "10"
+    ],
+    "evidence": [
+      "P4"
+    ],
+    "key_points": [],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "Q19",
+    "type": "temporal",
+    "question": "How old was the first-born Love when he leaped from his cradle, and how long did the Witch take to dress?",
+    "gold_answer": "Love was three hours old; the Witch took three days to dress.",
+    "aliases": [
+      "three hours old; three days",
+      "three hours and three days",
+      "3 hours; 3 days"
+    ],
+    "evidence": [
+      "P32",
+      "D5"
+    ],
+    "key_points": [],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  },
+  {
+    "id": "Q20",
+    "type": "temporal",
+    "question": "How long did Wordsworth take with Peter Bell, and how long did the Witch take to dress?",
+    "gold_answer": "Wordsworth took nineteen years; the Witch took three days.",
+    "aliases": [
+      "nineteen years vs three days",
+      "19 years and 3 days",
+      "nineteen years; three days"
+    ],
+    "evidence": [
+      "D4",
+      "D5"
+    ],
+    "key_points": [],
+    "order_pairs": [],
+    "events": [],
+    "notes": ""
+  }
+]

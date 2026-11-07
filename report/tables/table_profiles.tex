@@ -1,0 +1,21 @@
+\begin{table}[H]
+\centering
+\caption{画像事实性审计，被源诗节支持的原子断言比例（每格 30 条）。}
+\label{tab:profiles}
+\small
+\begin{threeparttable}
+\begin{tabular}{@{}l l r c c@{}}
+\toprule
+Profile & Graph element & $n$ & Support rate & SD \\
+\midrule
+LLM & Entity & 30 & 0.95 & 0.13 \\
+LLM & Relation & 29 & 0.87 & 0.20 \\
+Extractive & Entity & 29 & 0.88 & 0.15 \\
+Extractive & Relation & 30 & 0.88 & 0.18 \\
+\bottomrule
+\end{tabular}
+\begin{tablenotes}\scriptsize
+\item 画像从 C2（LLM）与 C8（抽取式）随机抽样，评判模型将每条画像拆成至多 6 条原子断言，并逐条对照引用诗节。
+\end{tablenotes}
+\end{threeparttable}
+\end{table}

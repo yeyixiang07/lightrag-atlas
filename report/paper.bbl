@@ -1,0 +1,106 @@
+\begin{thebibliography}{14}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Cai et~al.(2022)Cai, Xiang, Gao, Zhang, Li, and Li]{cai2022temporal}
+Borui Cai, Yong Xiang, Longxiang Gao, Hongxu Zhang, Yuanfang Li, and Jianxin
+  Li.
+\newblock Temporal knowledge graph completion: A survey.
+\newblock \emph{arXiv preprint arXiv:2201.08236}, 2022.
+
+\bibitem[Chan et~al.(2024)Chan, Xu, Yuan, Luo, Xue, Guo, and Fu]{chan2024rqrag}
+Chi-Min Chan, Chunpu Xu, Ruibin Yuan, Hongyin Luo, Wei Xue, Yike Guo, and Jie
+  Fu.
+\newblock {RQ-RAG}: Learning to refine queries for retrieval augmented
+  generation.
+\newblock \emph{arXiv preprint arXiv:2404.00610}, 2024.
+
+\bibitem[Cohen(1960)]{cohen1960kappa}
+Jacob Cohen.
+\newblock A coefficient of agreement for nominal scales.
+\newblock \emph{Educational and Psychological Measurement}, 20\penalty0
+  (1):\penalty0 37--46, 1960.
+
+\bibitem[Edge et~al.(2024)Edge, Trinh, Cheng, Bradley, Chao, Mody, Truitt,
+  Metropolitansky, Ness, and Larson]{edge2024graphrag}
+Darren Edge, Ha~Trinh, Newman Cheng, Joshua Bradley, Alex Chao, Apurva Mody,
+  Steven Truitt, Dasha Metropolitansky, Robert~Osazuwa Ness, and Jonathan
+  Larson.
+\newblock From local to global: A graph {RAG} approach to query-focused
+  summarization.
+\newblock \emph{arXiv preprint arXiv:2404.16130}, 2024.
+
+\bibitem[Gao et~al.(2022)Gao, Ma, Lin, and Callan]{gao2022hyde}
+Luyu Gao, Xueguang Ma, Jimmy Lin, and Jamie Callan.
+\newblock Precise zero-shot dense retrieval without relevance labels.
+\newblock \emph{arXiv preprint arXiv:2212.10496}, 2022.
+
+\bibitem[Gao et~al.(2023)Gao, Xiong, Gao, Jia, Pan, Bi, Dai, Sun, Wang, and
+  Wang]{gao2023survey}
+Yunfan Gao, Yun Xiong, Xinyu Gao, Kangxiang Jia, Jinliu Pan, Yuxi Bi, Yi~Dai,
+  Jiawei Sun, Meng Wang, and Haofen Wang.
+\newblock Retrieval-augmented generation for large language models: A survey.
+\newblock \emph{arXiv preprint arXiv:2312.10997}, 2023.
+
+\bibitem[{GraphRAG-R1}(2025)]{yu2025graphragr1}
+{GraphRAG-R1}.
+\newblock {GraphRAG-R1}: Process-constrained reinforcement learning for graph
+  retrieval-augmented generation.
+\newblock \emph{arXiv preprint arXiv:2507.23581}, 2025.
+
+\bibitem[Guo et~al.(2024)Guo, Xia, Yu, Ao, and Huang]{guo2024lightrag}
+Zirui Guo, Lianghao Xia, Yanhua Yu, Tu~Ao, and Chao Huang.
+\newblock {LightRAG}: Simple and fast retrieval-augmented generation.
+\newblock \emph{arXiv preprint arXiv:2410.05779}, 2024.
+
+\bibitem[Lewis et~al.(2020)Lewis, Perez, Piktus, Petroni, Karpukhin, Goyal,
+  K{\"u}ttler, Lewis, Yih, Rockt{\"a}schel, Riedel, and Kiela]{lewis2020rag}
+Patrick Lewis, Ethan Perez, Aleksandra Piktus, Fabio Petroni, Vladimir
+  Karpukhin, Naman Goyal, Heinrich K{\"u}ttler, Mike Lewis, Wen-tau Yih, Tim
+  Rockt{\"a}schel, Sebastian Riedel, and Douwe Kiela.
+\newblock Retrieval-augmented generation for knowledge-intensive {NLP} tasks.
+\newblock \emph{Advances in Neural Information Processing Systems}, 33, 2020.
+
+\bibitem[Liu et~al.(2024)Liu, Lin, Hewitt, Paranjape, Bevilacqua, Petroni, and
+  Liang]{liu2023lost}
+Nelson~F. Liu, Kevin Lin, John Hewitt, Ashwin Paranjape, Michele Bevilacqua,
+  Fabio Petroni, and Percy Liang.
+\newblock Lost in the middle: How language models use long contexts.
+\newblock \emph{Transactions of the Association for Computational Linguistics},
+  12, 2024.
+
+\bibitem[Shelley(1824)]{shelley1824witch}
+Percy~Bysshe Shelley.
+\newblock \emph{The Witch of Atlas}.
+\newblock 1824.
+\newblock Project Gutenberg eBook 4696.
+  \url{https://www.gutenberg.org/ebooks/4696}.
+
+\bibitem[Sun et~al.(2023)Sun, Xu, Tang, Wang, Lin, Gong, Ni, Shum, and
+  Guo]{sun2023thinkongraph}
+Jiashuo Sun, Chengjin Xu, Luming Tang, Saiping Wang, Chen Lin, Yeyun Gong,
+  Lionel~M. Ni, Heung-Yeung Shum, and Jiafeng Guo.
+\newblock Think-on-graph: Deep and responsible reasoning of large language
+  model on knowledge graph.
+\newblock \emph{arXiv preprint arXiv:2307.07697}, 2023.
+
+\bibitem[Ye(2026)]{blog2026lightrag}
+Yixiang Ye.
+\newblock {LightRAG}'s dual-level retrieval: An overrated graph-structure
+  victory?
+\newblock Blog post, 6 November, 2026.
+\newblock
+  \url{https://yeyixiang07.github.io/blog/posts/2026-11-06-lightrag-dual-level-retrieval/}.
+
+\bibitem[Zheng et~al.(2023)Zheng, Chiang, Sheng, Zhuang, Wu, Zhuang, Lin, Li,
+  Li, Xing, Zhang, Gonzalez, and Stoica]{zheng2023judge}
+Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, Yonghao
+  Zhuang, Zi~Lin, Zhuohan Li, Dacheng Li, Eric~P. Xing, Hao Zhang, Joseph~E.
+  Gonzalez, and Ion Stoica.
+\newblock Judging {LLM}-as-a-judge with {MT-Bench} and {Chatbot Arena}.
+\newblock \emph{Advances in Neural Information Processing Systems}, 36, 2023.
+
+\end{thebibliography}

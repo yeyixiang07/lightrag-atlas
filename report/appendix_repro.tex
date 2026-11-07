@@ -1,0 +1,33 @@
+\subsection{环境}
+
+\begin{itemize}
+\item 操作系统为 Ubuntu / Linux 7.0，GPU 为 NVIDIA RTX 5060 Laptop GPU（8GB，实际可用约 7.2GB），驱动 595.99.02 / CUDA 13.2。
+\item 生成与第一评判模型为 Qwen2.5-7B-Instruct Q4\_K\_M，Ollama 0.40.15 本地推理。
+\item 第二评判模型为 Llama-3.1-8B-Instruct Q4\_K\_M。
+\item Embedding 为 nomic-embed-text v1.5 F16，768 维。
+\item 解码参数为 temperature 0、top\_p 1、repeat\_penalty 1.05、seed 42、num\_ctx 6144、num\_predict 300（答案）/ 1600（抽取）/ 620（judge）。
+\end{itemize}
+
+\subsection{主要命令}
+
+\begin{lstlisting}
+python scripts/prepare_corpus.py
+python scripts/build_gold.py
+
+python src/run_index.py --out graph_c2.json
+
+LLM_COOLDOWN=0.5 python src/run_queries.py
+
+python src/evaluate.py --mode judge1
+python src/evaluate.py --mode profiles
+python src/evaluate.py --mode drift
+
+python src/evaluate.py --mode judge2 \
+  --judge-model llama31:8b-instruct-q4_K_M \
+  --qids F01,F07,F14,F22,F28,M01,M07,M14,M21,M25,T01,T06,T12,T19,T25,Q01,Q06,Q12,Q17,Q20
+
+python src/analyze.py
+python src/make_latex_tables.py
+python src/make_figures_paper.py
+latexmk -xelatex -interaction=nonstopmode paper.tex
+\end{lstlisting}

@@ -1,0 +1,875 @@
+{
+  "F01": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The candidate answer accurately identifies the mother of the Witch as one of the Atlantides, and correctly cites stanza P2 to support this claim.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"The mother of the Witch was one of the Atlantides\", \"supported\": true, \"evidence\": [\"P2\"]}\n  ],\n  \"citation_precision\": 1.0,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The candidate answer accurately identifies the mother of the Witch as one of the Atlantides, and correctly cites stanza P2 to support this claim.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The mother of the Witch was one of the Atlantides",
+          "supported": true,
+          "evidence": [
+            "P2"
+          ]
+        }
+      ],
+      "citation_precision": 1.0,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 1793,
+      "completion_tokens": 128,
+      "seconds": 2.621654912
+    },
+    "error": null
+  },
+  "F07": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The candidate answer accurately states that the Mother of the Months had bent her bow ten times before the Witch took shape, and correctly cites stanza P4 as evidence.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"The Mother of the Months had bent her bow ten times\", \"supported\": true, \"evidence\": [\"P4\"]},\n    {\"text\": \"before the Witch took shape\", \"supported\": true, \"evidence\": [\"P4\"]}\n  ],\n  \"citation_precision\": 1.0,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The candidate answer accurately states that the Mother of the Months had bent her bow ten times before the Witch took shape, and correctly cites stanza P4 as evidence.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The Mother of the Months had bent her bow ten times",
+          "supported": true,
+          "evidence": [
+            "P4"
+          ]
+        },
+        {
+          "text": "before the Witch took shape",
+          "supported": true,
+          "evidence": [
+            "P4"
+          ]
+        }
+      ],
+      "citation_precision": 1.0,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 1801,
+      "completion_tokens": 155,
+      "seconds": 3.211908902
+    },
+    "error": null
+  },
+  "F14": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The candidate answer accurately reflects the content of the gold answer, including the specific details about where the Ocean-nymphs and Hamadryades offered to do the Witch's bidding.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"The Ocean-nymphs and Hamadryades offered to do the Witch's bidding\", \"supported\": true, \"evidence\": [\"P22\"]},\n    {\"text\": \"through the seas\", \"supported\": true, \"evidence\": [\"P22\"]},\n    {\"text\": \"under the earth\", \"supported\": true, \"evidence\": [\"P22\"]},\n    {\"text\": \"and in the hollow rocks\", \"supported\": true, \"evidence\": [\"P22\"]}\n  ],\n  \"citation_precision\": 1.0,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The candidate answer accurately reflects the content of the gold answer, including the specific details about where the Ocean-nymphs and Hamadryades offered to do the Witch's bidding.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The Ocean-nymphs and Hamadryades offered to do the Witch's bidding",
+          "supported": true,
+          "evidence": [
+            "P22"
+          ]
+        },
+        {
+          "text": "through the seas",
+          "supported": true,
+          "evidence": [
+            "P22"
+          ]
+        },
+        {
+          "text": "under the earth",
+          "supported": true,
+          "evidence": [
+            "P22"
+          ]
+        },
+        {
+          "text": "and in the hollow rocks",
+          "supported": true,
+          "evidence": [
+            "P22"
+          ]
+        }
+      ],
+      "citation_precision": 1.0,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 1842,
+      "completion_tokens": 211,
+      "seconds": 4.136930886
+    },
+    "error": null
+  },
+  "F22": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The candidate answer accurately describes the material of the Witch's boat as a plant grown from Love's seed, and provides supporting evidence from stanza P34.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"The Witch's boat is made from a plant that Love grew.\", \"supported\": true, \"evidence\": [\"P34\"]},\n    {\"text\": \"Love scooped this boat--and with soft motion / Piloted it round the circumfluous ocean.\", \"supported\": true, \"evidence\": [\"P34\"]}\n  ],\n  \"citation_precision\": 1.0,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The candidate answer accurately describes the material of the Witch's boat as a plant grown from Love's seed, and provides supporting evidence from stanza P34.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The Witch's boat is made from a plant that Love grew.",
+          "supported": true,
+          "evidence": [
+            "P34"
+          ]
+        },
+        {
+          "text": "Love scooped this boat--and with soft motion / Piloted it round the circumfluous ocean.",
+          "supported": true,
+          "evidence": [
+            "P34"
+          ]
+        }
+      ],
+      "citation_precision": 1.0,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 1856,
+      "completion_tokens": 169,
+      "seconds": 3.487415459
+    },
+    "error": null
+  },
+  "F28": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The candidate answer accurately states what the Witch gives to the most beautiful mortals she sees, as described in stanza P69.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"The Witch gives strange panacea in a crystal bowl\", \"supported\": true, \"evidence\": [\"P69\"]},\n    {\"text\": \"to the most beautiful mortals she sees\", \"supported\": true, \"evidence\": [\"P69\"]}\n  ],\n  \"citation_precision\": 1,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The candidate answer accurately states what the Witch gives to the most beautiful mortals she sees, as described in stanza P69.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The Witch gives strange panacea in a crystal bowl",
+          "supported": true,
+          "evidence": [
+            "P69"
+          ]
+        },
+        {
+          "text": "to the most beautiful mortals she sees",
+          "supported": true,
+          "evidence": [
+            "P69"
+          ]
+        }
+      ],
+      "citation_precision": 1,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 1813,
+      "completion_tokens": 148,
+      "seconds": 3.130574026
+    },
+    "error": null
+  },
+  "M01": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The candidate answer accurately describes the chain of ownership of the boat, from Vulcan to Venus to Apollo and finally to the Witch of Atlas.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"Vulcan made a boat for Venus\", \"supported\": true, \"evidence\": [\"P31\"]},\n    {\"text\": \"The boat was too feeble for Venus' needs\", \"supported\": true, \"evidence\": [\"P31\"]},\n    {\"text\": \"Venus sold the boat to Apollo\", \"supported\": true, \"evidence\": [\"P31\"]},\n    {\"text\": \"Apollo gave the boat to the Witch of Atlas as a gift\", \"supported\": true, \"evidence\": [\"P31\"]}\n  ],\n  \"citation_precision\": 1.0,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The candidate answer accurately describes the chain of ownership of the boat, from Vulcan to Venus to Apollo and finally to the Witch of Atlas.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "Vulcan made a boat for Venus",
+          "supported": true,
+          "evidence": [
+            "P31"
+          ]
+        },
+        {
+          "text": "The boat was too feeble for Venus' needs",
+          "supported": true,
+          "evidence": [
+            "P31"
+          ]
+        },
+        {
+          "text": "Venus sold the boat to Apollo",
+          "supported": true,
+          "evidence": [
+            "P31"
+          ]
+        },
+        {
+          "text": "Apollo gave the boat to the Witch of Atlas as a gift",
+          "supported": true,
+          "evidence": [
+            "P31"
+          ]
+        }
+      ],
+      "citation_precision": 1.0,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 1877,
+      "completion_tokens": 211,
+      "seconds": 4.149504588
+    },
+    "error": null
+  },
+  "M07": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The candidate answer accurately describes the connection between the first-born Love and the Witch's boat, including the creation of the plant and the boat's subsequent life.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"The first-born Love created a plant from which a boat was made\", \"supported\": true, \"evidence\": [\"P32\"]},\n    {\"text\": \"The Witch then imbued the boat with life\", \"supported\": true, \"evidence\": [\"P33\"]}\n  ],\n  \"citation_precision\": 1.0,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The candidate answer accurately describes the connection between the first-born Love and the Witch's boat, including the creation of the plant and the boat's subsequent life.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The first-born Love created a plant from which a boat was made",
+          "supported": true,
+          "evidence": [
+            "P32"
+          ]
+        },
+        {
+          "text": "The Witch then imbued the boat with life",
+          "supported": true,
+          "evidence": [
+            "P33"
+          ]
+        }
+      ],
+      "citation_precision": 1.0,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 2042,
+      "completion_tokens": 160,
+      "seconds": 3.42636592
+    },
+    "error": null
+  },
+  "M14": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The candidate answer accurately describes the origin and transfer of ownership of the Witch's boat, matching the gold answer.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"The Witch's boat was originally made by Vulcan for Venus as her chariot\", \"supported\": true, \"evidence\": [\"P31\"]},\n    {\"text\": \"but it was found too weak for Venus's needs\", \"supported\": true, \"evidence\": [\"P31\"]},\n    {\"text\": \"She sold it to Apollo\", \"supported\": true, \"evidence\": [\"P31\"]},\n    {\"text\": \"who then gave it to the Witch of Atlas\", \"supported\": true, \"evidence\": [\"P31\"]}\n  ],\n  \"citation_precision\": 1.0,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The candidate answer accurately describes the origin and transfer of ownership of the Witch's boat, matching the gold answer.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The Witch's boat was originally made by Vulcan for Venus as her chariot",
+          "supported": true,
+          "evidence": [
+            "P31"
+          ]
+        },
+        {
+          "text": "but it was found too weak for Venus's needs",
+          "supported": true,
+          "evidence": [
+            "P31"
+          ]
+        },
+        {
+          "text": "She sold it to Apollo",
+          "supported": true,
+          "evidence": [
+            "P31"
+          ]
+        },
+        {
+          "text": "who then gave it to the Witch of Atlas",
+          "supported": true,
+          "evidence": [
+            "P31"
+          ]
+        }
+      ],
+      "citation_precision": 1.0,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 1882,
+      "completion_tokens": 208,
+      "seconds": 3.616478161
+    },
+    "error": null
+  },
+  "M21": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The candidate answer accurately describes the Witch's haven as made of solid vapours hoar and stars, and its location around a calm mere.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"The Witch's haven is made of solid vapours hoar and stars.\", \"supported\": true, \"evidence\": [\"P49\"]},\n    {\"text\": \"It is located around a calm mere, surrounded by dreadful crags that hem in the water like wintry mountains.\", \"supported\": true, \"evidence\": [\"P49\"]}\n  ],\n  \"citation_precision\": 1,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The candidate answer accurately describes the Witch's haven as made of solid vapours hoar and stars, and its location around a calm mere.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The Witch's haven is made of solid vapours hoar and stars.",
+          "supported": true,
+          "evidence": [
+            "P49"
+          ]
+        },
+        {
+          "text": "It is located around a calm mere, surrounded by dreadful crags that hem in the water like wintry mountains.",
+          "supported": true,
+          "evidence": [
+            "P49"
+          ]
+        }
+      ],
+      "citation_precision": 1,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 1866,
+      "completion_tokens": 169,
+      "seconds": 3.55366664
+    },
+    "error": null
+  },
+  "M25": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The candidate answer accurately quotes the poem and explains why the poet defers further tales of the Witch.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"The poem ends by deferring further tales of the Witch.\", \"supported\": true, \"evidence\": [\"P78\"]},\n    {\"text\": \"Such stories are more fitting for 'weird winter nights' rather than 'garish summer days'.\", \"supported\": true, \"evidence\": [\"P78\"]}\n  ],\n  \"citation_precision\": 1.0,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The candidate answer accurately quotes the poem and explains why the poet defers further tales of the Witch.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The poem ends by deferring further tales of the Witch.",
+          "supported": true,
+          "evidence": [
+            "P78"
+          ]
+        },
+        {
+          "text": "Such stories are more fitting for 'weird winter nights' rather than 'garish summer days'.",
+          "supported": true,
+          "evidence": [
+            "P78"
+          ]
+        }
+      ],
+      "citation_precision": 1.0,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 1920,
+      "completion_tokens": 158,
+      "seconds": 3.265322796
+    },
+    "error": null
+  },
+  "T01": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The candidate answer accurately captures the Witch's relationship with mortality and immortality, highlighting her ability to influence both the living and the dead.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"She can influence the dead.\", \"supported\": true, \"evidence\": [\"P69\"]},\n    {\"text\": \"She ensures that the graves of those she helps are a form of immortality through her magic.\", \"supported\": true, \"evidence\": [\"P69\"]},\n    {\"text\": \"The Witch plays pranks on living beings, altering their perceptions and experiences to create lasting happiness or unity.\", \"supported\": true, \"evidence\": [\"P76\", \"P77\"]},\n    {\"text\": \"She has power over both the living and the dead, blurring the lines between life and death in her realm.\", \"supported\": false, \"evidence\": []}\n  ],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The candidate answer accurately captures the Witch's relationship with mortality and immortality, highlighting her ability to influence both the living and the dead.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "She can influence the dead.",
+          "supported": true,
+          "evidence": [
+            "P69"
+          ]
+        },
+        {
+          "text": "She ensures that the graves of those she helps are a form of immortality through her magic.",
+          "supported": true,
+          "evidence": [
+            "P69"
+          ]
+        },
+        {
+          "text": "The Witch plays pranks on living beings, altering their perceptions and experiences to create lasting happiness or unity.",
+          "supported": true,
+          "evidence": [
+            "P76",
+            "P77"
+          ]
+        },
+        {
+          "text": "She has power over both the living and the dead, blurring the lines between life and death in her realm.",
+          "supported": false,
+          "evidence": []
+        }
+      ],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 2323,
+      "completion_tokens": 238,
+      "seconds": 4.646976766
+    },
+    "error": null
+  },
+  "T06": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The candidate answer accurately captures the poem's treatment of dreams and sleep, highlighting the Witch's observations and reflections on various forms of dreams and states of sleep.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"The Witch of Atlas watches over mortals as they sleep, observing various forms of dreams and the states of sleep.\", \"supported\": true, \"evidence\": [\"P61\"]},\n    {\"text\": \"The Witch sees infants, young people, lovers, and elderly individuals in different stages of sleep.\", \"supported\": true, \"evidence\": [\"P61\"]},\n    {\"text\": \"The Witch's observations reveal the 'strife which stirs the liquid surface of man's life'.\", \"supported\": true, \"evidence\": [\"P62\"]},\n    {\"text\": \"The Witch possesses magical substances that can influence dreams.\", \"supported\": true, \"evidence\": [\"P16\", \"P17\"]},\n    {\"text\": \"The Witch's ability to observe and potentially alter human dreams underscores the theme of the poem's exploration of the subconscious and the supernatural influence over human existence.\", \"supported\": false, \"evidence\": []}\n  ],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The candidate answer accurately captures the poem's treatment of dreams and sleep, highlighting the Witch's observations and reflections on various forms of dreams and states of sleep.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The Witch of Atlas watches over mortals as they sleep, observing various forms of dreams and the states of sleep.",
+          "supported": true,
+          "evidence": [
+            "P61"
+          ]
+        },
+        {
+          "text": "The Witch sees infants, young people, lovers, and elderly individuals in different stages of sleep.",
+          "supported": true,
+          "evidence": [
+            "P61"
+          ]
+        },
+        {
+          "text": "The Witch's observations reveal the 'strife which stirs the liquid surface of man's life'.",
+          "supported": true,
+          "evidence": [
+            "P62"
+          ]
+        },
+        {
+          "text": "The Witch possesses magical substances that can influence dreams.",
+          "supported": true,
+          "evidence": [
+            "P16",
+            "P17"
+          ]
+        },
+        {
+          "text": "The Witch's ability to observe and potentially alter human dreams underscores the theme of the poem's exploration of the subconscious and the supernatural influence over human existence.",
+          "supported": false,
+          "evidence": []
+        }
+      ],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 2303,
+      "completion_tokens": 295,
+      "seconds": 5.310344637
+    },
+    "error": null
+  },
+  "T12": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The candidate answer correctly identifies and lists various classical mythological figures and elements used in the poem.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"The poem uses classical mythology through references to figures like Hermaphroditus\", \"supported\": true, \"evidence\": [\"P10\", \"P11\", \"P12\", \"P13\"]},\n    {\"text\": \"nymphs\", \"supported\": true, \"evidence\": [\"P7\", \"P8\", \"P9\", \"P10\"]},\n    {\"text\": \"Ocean-nymphs and Hamadryades\", \"supported\": false, \"evidence\": []}\n  ],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The candidate answer correctly identifies and lists various classical mythological figures and elements used in the poem.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The poem uses classical mythology through references to figures like Hermaphroditus",
+          "supported": true,
+          "evidence": [
+            "P10",
+            "P11",
+            "P12",
+            "P13"
+          ]
+        },
+        {
+          "text": "nymphs",
+          "supported": true,
+          "evidence": [
+            "P7",
+            "P8",
+            "P9",
+            "P10"
+          ]
+        },
+        {
+          "text": "Ocean-nymphs and Hamadryades",
+          "supported": false,
+          "evidence": []
+        }
+      ],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 2336,
+      "completion_tokens": 192,
+      "seconds": 3.603259744
+    },
+    "error": null
+  },
+  "T19": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The candidate answer accurately describes the role of the veil in the poem, including its creation, purpose, and symbolism.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"The Witch of Atlas creates a subtle veil using star-beams and three threads.\", \"supported\": true, \"evidence\": [\"P13\"]},\n    {\"text\": \"This veil serves as a means of concealing her true nature and beauty from others, allowing her to observe and influence them without being seen.\", \"supported\": true, \"evidence\": [\"P13\", \"P60\"]},\n    {\"text\": \"The veil is a powerful tool that she uses to create sweet visions and spirits, which can interact with the dreams and thoughts of mortals.\", \"supported\": true, \"evidence\": [\"P15\", \"P60\"]},\n    {\"text\": \"The act of weaving the veil also symbolizes the Witch's control over concealment and revelation, as it allows her to hide her true form while still exerting influence.\", \"supported\": true, \"evidence\": [\"P13\"]}\n  ],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The candidate answer accurately describes the role of the veil in the poem, including its creation, purpose, and symbolism.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The Witch of Atlas creates a subtle veil using star-beams and three threads.",
+          "supported": true,
+          "evidence": [
+            "P13"
+          ]
+        },
+        {
+          "text": "This veil serves as a means of concealing her true nature and beauty from others, allowing her to observe and influence them without being seen.",
+          "supported": true,
+          "evidence": [
+            "P13",
+            "P60"
+          ]
+        },
+        {
+          "text": "The veil is a powerful tool that she uses to create sweet visions and spirits, which can interact with the dreams and thoughts of mortals.",
+          "supported": true,
+          "evidence": [
+            "P15",
+            "P60"
+          ]
+        },
+        {
+          "text": "The act of weaving the veil also symbolizes the Witch's control over concealment and revelation, as it allows her to hide her true form while still exerting influence.",
+          "supported": true,
+          "evidence": [
+            "P13"
+          ]
+        }
+      ],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 2304,
+      "completion_tokens": 277,
+      "seconds": 4.922892947
+    },
+    "error": null
+  },
+  "T25": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The candidate answer accurately captures the idea that the ending frames the poem's own storytelling as a narrative within a narrative, and correctly identifies the Witch of Atlas as embodying the narrative itself.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"The ending frames the poem's own storytelling by metaphorically placing the narrative within a story told by Shelley to Mary.\", \"supported\": true, \"evidence\": [\"P37\"]},\n    {\"text\": \"The Witch of Atlas, who embodies the narrative itself, leads her 'creature' (the story) to a journey through the poem's landscape, symbolizing the act of storytelling\", \"supported\": true, \"evidence\": [\"P37\"]},\n    {\"text\": \"This framing suggests that the tale is being conveyed as a narrative within a narrative, enhancing the thematic exploration of creation and the power of imagination\", \"supported\": false, \"evidence\": []}\n  ],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The candidate answer accurately captures the idea that the ending frames the poem's own storytelling as a narrative within a narrative, and correctly identifies the Witch of Atlas as embodying the narrative itself.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The ending frames the poem's own storytelling by metaphorically placing the narrative within a story told by Shelley to Mary.",
+          "supported": true,
+          "evidence": [
+            "P37"
+          ]
+        },
+        {
+          "text": "The Witch of Atlas, who embodies the narrative itself, leads her 'creature' (the story) to a journey through the poem's landscape, symbolizing the act of storytelling",
+          "supported": true,
+          "evidence": [
+            "P37"
+          ]
+        },
+        {
+          "text": "This framing suggests that the tale is being conveyed as a narrative within a narrative, enhancing the thematic exploration of creation and the power of imagination",
+          "supported": false,
+          "evidence": []
+        }
+      ],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 1985,
+      "completion_tokens": 243,
+      "seconds": 4.276783938
+    },
+    "error": null
+  },
+  "Q01": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The candidate answer accurately describes the order in which the Witch's mother changed form, as stated in stanza P3.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"The Witch's mother was first changed into a vapour.\", \"supported\": true, \"evidence\": [\"P3\"]},\n    {\"text\": \"She then became a cloud.\", \"supported\": true, \"evidence\": [\"P3\"]},\n    {\"text\": \"Next, she transformed into a meteor.\", \"supported\": true, \"evidence\": [\"P3\"]},\n    {\"text\": \"Finally, she turned into one of those mysterious stars which hide themselves between the Earth and Mars.\", \"supported\": true, \"evidence\": [\"P3\"]}\n  ],\n  \"citation_precision\": 1.0,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The candidate answer accurately describes the order in which the Witch's mother changed form, as stated in stanza P3.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The Witch's mother was first changed into a vapour.",
+          "supported": true,
+          "evidence": [
+            "P3"
+          ]
+        },
+        {
+          "text": "She then became a cloud.",
+          "supported": true,
+          "evidence": [
+            "P3"
+          ]
+        },
+        {
+          "text": "Next, she transformed into a meteor.",
+          "supported": true,
+          "evidence": [
+            "P3"
+          ]
+        },
+        {
+          "text": "Finally, she turned into one of those mysterious stars which hide themselves between the Earth and Mars.",
+          "supported": true,
+          "evidence": [
+            "P3"
+          ]
+        }
+      ],
+      "citation_precision": 1.0,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 1930,
+      "completion_tokens": 211,
+      "seconds": 3.896399167
+    },
+    "error": null
+  },
+  "Q06": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The candidate answer correctly states that the boat descending the cataracts happened first, and supports this with a reference to the relevant stanzas.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"The boat descending the cataracts happened first\", \"supported\": true, \"evidence\": [\"P40-P43\"]},\n    {\"text\": \"The Witch calling Hermaphroditus came later\", \"supported\": true, \"evidence\": [\"P43\"]}\n  ],\n  \"citation_precision\": 1.0,\n  \"order_results\": [\n    {\"pair\": [\"boat descends cataracts\", \"Witch calls Hermaphroditus\"], \"result\": \"correct\"}\n  ],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The candidate answer correctly states that the boat descending the cataracts happened first, and supports this with a reference to the relevant stanzas.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The boat descending the cataracts happened first",
+          "supported": true,
+          "evidence": [
+            "P40-P43"
+          ]
+        },
+        {
+          "text": "The Witch calling Hermaphroditus came later",
+          "supported": true,
+          "evidence": [
+            "P43"
+          ]
+        }
+      ],
+      "citation_precision": 1.0,
+      "order_results": [
+        {
+          "pair": [
+            "boat descends cataracts",
+            "Witch calls Hermaphroditus"
+          ],
+          "result": "correct"
+        }
+      ],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 1883,
+      "completion_tokens": 187,
+      "seconds": 3.499648401
+    },
+    "error": null
+  },
+  "Q12": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The candidate answer accurately describes the order of events as stated in the poem, specifically citing stanza P37 to support its claim.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"The boat was moored on the fountain before Hermaphroditus sat at the prow.\", \"supported\": true, \"evidence\": [\"P37\"]},\n    {\"text\": \"Hermaphroditus then sits at the prow after the boat is moored.\", \"supported\": true, \"evidence\": [\"P37\"]}\n  ],\n  \"citation_precision\": 1.0,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The candidate answer accurately describes the order of events as stated in the poem, specifically citing stanza P37 to support its claim.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The boat was moored on the fountain before Hermaphroditus sat at the prow.",
+          "supported": true,
+          "evidence": [
+            "P37"
+          ]
+        },
+        {
+          "text": "Hermaphroditus then sits at the prow after the boat is moored.",
+          "supported": true,
+          "evidence": [
+            "P37"
+          ]
+        }
+      ],
+      "citation_precision": 1.0,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 1930,
+      "completion_tokens": 167,
+      "seconds": 3.026169555
+    },
+    "error": null
+  },
+  "Q17": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The candidate answer accurately lists the Witch's interventions among mortals in the correct order, as described in the poem.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"She helps timid lovers fulfill their love and marry happily\", \"supported\": true, \"evidence\": [\"P76\", \"P77\"]},\n    {\"text\": \"She reunites friends who were torn apart by envy\", \"supported\": true, \"evidence\": [\"P77\"]},\n    {\"text\": \"She teaches Aurora and Venus the charm of love\", \"supported\": false, \"evidence\": []},\n    {\"text\": \"She observes and sees mortals as living spirits\", \"supported\": true, \"evidence\": [\"P64\", \"P65\", \"P66\"]},\n    {\"text\": \"She has a charm that can make spirits merge with her\", \"supported\": true, \"evidence\": [\"P66\"]}\n  ],\n  \"citation_precision\": 1.0,\n  \"order_results\": [\n    {\"pair\": [\"timid lovers\", \"friends\"], \"result\": \"correct\"},\n    {\"pair\": [\"friends\", \"Aurora and Venus\"], \"result\": \"wrong\"},\n    {\"pair\": [\"Aurora and Venus\", \"mortals as living spirits\"], \"result\": \"unclear\"},\n    {\"pair\": [\"mortals as living spirits\", \"spirits merge with her\"], \"result\": \"correct\"}\n  ],\n  \"sequence_correct\": true,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The candidate answer accurately lists the Witch's interventions among mortals in the correct order, as described in the poem.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "She helps timid lovers fulfill their love and marry happily",
+          "supported": true,
+          "evidence": [
+            "P76",
+            "P77"
+          ]
+        },
+        {
+          "text": "She reunites friends who were torn apart by envy",
+          "supported": true,
+          "evidence": [
+            "P77"
+          ]
+        },
+        {
+          "text": "She teaches Aurora and Venus the charm of love",
+          "supported": false,
+          "evidence": []
+        },
+        {
+          "text": "She observes and sees mortals as living spirits",
+          "supported": true,
+          "evidence": [
+            "P64",
+            "P65",
+            "P66"
+          ]
+        },
+        {
+          "text": "She has a charm that can make spirits merge with her",
+          "supported": true,
+          "evidence": [
+            "P66"
+          ]
+        }
+      ],
+      "citation_precision": 1.0,
+      "order_results": [
+        {
+          "pair": [
+            "timid lovers",
+            "friends"
+          ],
+          "result": "correct"
+        },
+        {
+          "pair": [
+            "friends",
+            "Aurora and Venus"
+          ],
+          "result": "wrong"
+        },
+        {
+          "pair": [
+            "Aurora and Venus",
+            "mortals as living spirits"
+          ],
+          "result": "unclear"
+        },
+        {
+          "pair": [
+            "mortals as living spirits",
+            "spirits merge with her"
+          ],
+          "result": "correct"
+        }
+      ],
+      "sequence_correct": true,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 2264,
+      "completion_tokens": 337,
+      "seconds": 6.325772608
+    },
+    "error": null
+  },
+  "Q20": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The candidate answer accurately states the time it took Wordsworth to consider and retouch Peter Bell (19 years) and the time it took the Witch to dress (3 days). The citations [D4] and [P5] are correctly used to support these claims.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"Wordsworth took nineteen years to consider and retouch Peter Bell\", \"supported\": true, \"evidence\": [\"D4\"]},\n    {\"text\": \"The Witch took three days to dress\", \"supported\": true, \"evidence\": [\"P5\"]}\n  ],\n  \"citation_precision\": 1.0,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The candidate answer accurately states the time it took Wordsworth to consider and retouch Peter Bell (19 years) and the time it took the Witch to dress (3 days). The citations [D4] and [P5] are correctly used to support these claims.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "Wordsworth took nineteen years to consider and retouch Peter Bell",
+          "supported": true,
+          "evidence": [
+            "D4"
+          ]
+        },
+        {
+          "text": "The Witch took three days to dress",
+          "supported": true,
+          "evidence": [
+            "P5"
+          ]
+        }
+      ],
+      "citation_precision": 1.0,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 1935,
+      "completion_tokens": 180,
+      "seconds": 3.742424151
+    },
+    "error": null
+  }
+}

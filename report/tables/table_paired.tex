@@ -1,0 +1,33 @@
+\begin{table}[H]
+\centering
+\caption{相对完整 LightRAG（C2）的配对差异、95\% CI 与 Holm 校正 $p$ 值。}
+\label{tab:paired}
+\scriptsize
+\setlength{\tabcolsep}{3.0pt}
+\begin{threeparttable}
+\begin{tabular}{@{}l l l c c c c r@{}}
+\toprule
+Family & Comparison & Scope & $\Delta$ accuracy & 95\% CI & $p$ & $p_{\mathrm{Holm}}$ & $n$ \\
+\midrule
+H1 & C2 $-$ C1 & All & 0.025 & [-0.040, 0.090] & 0.5154 & 1.0000 & 100 \\
+H1 & C2 $-$ C6 & All & 0.005 & [-0.040, 0.050] & 0.9084 & 1.0000 & 100 \\
+H1 & C2 $-$ C7 & All & 0.015 & [-0.035, 0.065] & 0.6376 & 1.0000 & 100 \\
+H1 & C2 $-$ C5 & All & 0.400 & [0.310, 0.490] & 0.0000 & 0.0000 & 100 \\
+H1 & C2 $-$ C3 & All & 0.025 & [-0.005, 0.060] & 0.1484 & 0.8904 & 100 \\
+H1 & C2 $-$ C4 & All & 0.000 & [-0.040, 0.045] & 1.0000 & 1.0000 & 100 \\
+H1 & C6 $-$ C1 & All & 0.020 & [-0.050, 0.090] & 0.6138 & 1.0000 & 100 \\
+H1 & C0 $-$ C1 & All & -0.595 & [-0.685, -0.500] & 0.0000 & 0.0000 & 100 \\
+H2 & C2 $-$ C8 & Accuracy & -0.020 & [-0.085, 0.045] & 0.5874 & 1.0000 & 100 \\
+H2 & C2 $-$ C8 & Cite-P & -0.002 & [-0.034, 0.026] & 0.9082 & 1.0000 & 81 \\
+H2 & C2 $-$ C8 & Unsupported & -0.015 & [-0.072, 0.039] & 0.5936 & 1.0000 & 92 \\
+H3 & C9 $-$ C2 & Temporal & 0.125 & [0.000, 0.275] & 0.0768 & 0.1536 & 20 \\
+H3 & C9 $-$ C10 & Temporal & 0.325 & [0.150, 0.525] & 0.0000 & 0.0000 & 20 \\
+H3 & C10 $-$ C1 & Temporal & 0.000 & [-0.150, 0.150] & 1.0000 & 1.0000 & 20 \\
+H3 & C2 $-$ C1 & Temporal & 0.200 & [0.050, 0.375] & 0.0050 & 0.0150 & 20 \\
+\bottomrule
+\end{tabular}
+\begin{tablenotes}\scriptsize
+\item 正的 $\Delta$ 表示前一个条件更准确。H1 检验图与画像的归因，H2 检验改写偏差，H3 检验时序表示。C9/C10 的比较只用 20 道时序题。
+\end{tablenotes}
+\end{threeparttable}
+\end{table}

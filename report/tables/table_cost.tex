@@ -1,0 +1,29 @@
+\begin{table}[H]
+\centering
+\caption{查询成本与延迟（未命中缓存；本地 RTX 5060，8GB）。}
+\label{tab:cost}
+\scriptsize
+\setlength{\tabcolsep}{2.8pt}
+\begin{threeparttable}
+\begin{tabular}{@{}l r r r r r r r r@{}}
+\toprule
+Condition & $n$ & LLM calls & Prompt tok. & Completion tok. & Total tok. & P50 (s) & P95 (s) & Ctx tok. \\
+\midrule
+C0 & 100 & 1 & 100 & 99 & 199 & 2.05 & 2.91 & -- \\
+C1 & 100 & 1 & 3248 & 63 & 3312 & 2.79 & 4.51 & 2862 \\
+C2 & 100 & 2 & 3340 & 65 & 3614 & 4.52 & 6.37 & 2853 \\
+C3 & 100 & 2 & 3299 & 68 & 3576 & 4.32 & 6.09 & 2830 \\
+C4 & 100 & 2 & 3316 & 66 & 3590 & 4.47 & 6.23 & 2849 \\
+C5 & 100 & 2 & 3557 & 50 & 3815 & 4.33 & 6.27 & 2900 \\
+C6 & 100 & 2 & 3896 & 72 & 4176 & 3.06 & 5.32 & 2846 \\
+C7 & 100 & 2 & 3404 & 74 & 3686 & 3.72 & 5.48 & 2849 \\
+C8 & 99 & 2 & 3705 & 70 & 3983 & 3.75 & 5.21 & 2845 \\
+C9 & 99 & 2 & 3366 & 63 & 3637 & 4.28 & 6.37 & 2854 \\
+C10 & 100 & 1 & 3248 & 65 & 3313 & 2.79 & 4.55 & 2862 \\
+\bottomrule
+\end{tabular}
+\begin{tablenotes}\scriptsize
+\item token 为每 query 均值，延迟包含关键词抽取、检索与生成。C0 为闭卷（一次调用），C1/C10 一次，图条件两次（关键词与答案）。
+\end{tablenotes}
+\end{threeparttable}
+\end{table}

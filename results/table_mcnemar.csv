@@ -1,0 +1,13 @@
+b,c,p,family,a
+c1_naive,7,0.803619384765625,H1,c2_full
+c6_empty,4,1.0,H1,c2_full
+c7_shuffled,5,0.7744140625,H1,c2_full
+c5_origin,1,5.115907697472721e-12,H1,c2_full
+c3_low,1,0.375,H1,c2_full
+c4_high,5,1.0,H1,c2_full
+c1_naive,9,1.0,H1,c6_empty
+c1_naive,73,7.940933880509066e-21,H1,c0_closed
+c2_full,0,0.25,H3,c9_temporal
+c10_naive_temporal,0,0.0078125,H3,c9_temporal
+c1_naive,2,1.0,H3,c10_naive_temporal
+c1_naive,0,0.0625,H3,c2_full

@@ -1,0 +1,28 @@
+\begin{table}[H]
+\centering
+\caption{双评判模型一致性（Qwen2.5-7B 与 Llama-3.1-8B）。}
+\label{tab:judge}
+\small
+\begin{threeparttable}
+\begin{tabular}{@{}l r c c c c@{}}
+\toprule
+Condition & $n$ & Agreement & $\kappa$ (quadratic) & $\kappa$ (strict) & Spearman $\rho$ \\
+\midrule
+C0 & 20 & 0.05 & 0.05 & 0.02 & 0.30 \\
+C1 & 20 & 0.95 & 0.88 & 0.64 & 0.73 \\
+C2 & 20 & 0.90 & 0.00 & 0.00 & -- \\
+C3 & 20 & 0.85 & 0.00 & 0.00 & -- \\
+C4 & 20 & 0.95 & 0.90 & 0.77 & 0.82 \\
+C5 & 20 & 0.75 & 0.71 & 0.62 & 0.73 \\
+C6 & 20 & 0.85 & 0.00 & 0.00 & -- \\
+C7 & 20 & 0.85 & 0.73 & 0.50 & 0.63 \\
+C8 & 20 & 0.95 & 0.00 & 0.00 & -- \\
+C9 & 20 & 0.95 & 0.00 & 0.00 & -- \\
+C10 & 20 & 1.00 & 1.00 & 1.00 & 1.00 \\
+\bottomrule
+\end{tabular}
+\begin{tablenotes}\scriptsize
+\item 一致率为 0/1/2 标签完全相同的比例，$\kappa$（二次加权）把 correctness 视为有序变量，$\kappa$（严格）把 correctness 2 视为阳性。若某个评判模型在该子集上为常量，$\kappa$ 退化为 0，Spearman 无法定义，表中以 --- 表示。
+\end{tablenotes}
+\end{threeparttable}
+\end{table}

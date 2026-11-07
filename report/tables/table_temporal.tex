@@ -1,0 +1,28 @@
+\begin{table}[H]
+\centering
+\caption{时序题（20 题）的正确率、pairwise 顺序、全序与时长正确率。}
+\label{tab:temporal}
+\small
+\begin{threeparttable}
+\begin{tabular}{@{}l r c c c c@{}}
+\toprule
+Condition & $n$ & Accuracy & Pairwise order & Full sequence & Duration \\
+\midrule
+C0 & 20 & 0.35 & 0.46 & 0.22 & 0.00 \\
+C1 & 20 & 0.68 & 0.68 & 0.50 & 0.67 \\
+C2 & 20 & 0.88 & 0.94 & 0.86 & 1.00 \\
+C3 & 20 & 0.88 & 0.94 & 0.83 & 1.00 \\
+C4 & 20 & 0.90 & 1.00 & 1.00 & 1.00 \\
+C5 & 20 & 0.20 & 0.35 & 0.18 & 0.00 \\
+C6 & 20 & 0.78 & 0.75 & 0.64 & 1.00 \\
+C7 & 20 & 0.85 & 1.00 & 0.82 & 1.00 \\
+C8 & 20 & 0.90 & 0.88 & 0.79 & 1.00 \\
+C9 & 20 & 1.00 & 1.00 & 0.75 & 1.00 \\
+C10 & 20 & 0.68 & 0.69 & 0.62 & 0.67 \\
+\bottomrule
+\end{tabular}
+\begin{tablenotes}\scriptsize
+\item pairwise 与全序分数由评判模型的 \texttt{order\_results} 计算，标记为 \texttt{unclear} 的事件对不计入 pairwise 分母。Duration 为 Q18--Q20 三道时长题的正确率。
+\end{tablenotes}
+\end{threeparttable}
+\end{table}

@@ -1,0 +1,45 @@
+# LaTeX 编译中间产物
+*.aux
+*.bbl~
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.synctex.gz
+*.nav
+*.snm
+*.vrb
+*.xdv
+!paper.bbl
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# 编辑器与系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# 运行缓存，体量大且可由脚本重建
+cache/llm/
+cache/*.npz
+
+# 临时输出
+*.tmp
+.tmp/

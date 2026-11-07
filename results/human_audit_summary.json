@@ -1,0 +1,11 @@
+{
+  "n": 44,
+  "agreement": 0.7272727272727273,
+  "kappa_3": 0.797390636991558,
+  "kappa_binary": 0.5348837209302326,
+  "mean_human": 1.2954545454545454,
+  "mean_judge": 1.5681818181818181,
+  "human_vs_judge_corr": 0.8447832938674454,
+  "citation_precision_corr": NaN,
+  "citation_precision_mae": 0.13636363636363635
+}

@@ -1,0 +1,683 @@
+{
+  "F01": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The candidate answer correctly identifies the mother of the Witch as one of the Atlantides and provides relevant stanza citations.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"The mother of the Witch was one of the Atlantides\", \"supported\": true, \"evidence\": [\"P1\", \"P2\", \"P3\", \"P4\"]},\n    {\"text\": \"The Atlantides are a group of deities\", \"supported\": false, \"evidence\": []}\n  ],\n  \"citation_precision\": 1.0,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The candidate answer correctly identifies the mother of the Witch as one of the Atlantides and provides relevant stanza citations.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The mother of the Witch was one of the Atlantides",
+          "supported": true,
+          "evidence": [
+            "P1",
+            "P2",
+            "P3",
+            "P4"
+          ]
+        },
+        {
+          "text": "The Atlantides are a group of deities",
+          "supported": false,
+          "evidence": []
+        }
+      ],
+      "citation_precision": 1.0,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 2040,
+      "completion_tokens": 162,
+      "seconds": 3.502837538
+    },
+    "error": null
+  },
+  "F07": {
+    "raw": "{\n  \"correctness\": 0,\n  \"correctness_reason\": \"The candidate answer contradicts the gold answer by stating that the provided context does not establish the number of times the Mother of the Months bent her bow before the Witch took shape, when in fact the gold answer is 'Ten times'.\",\n  \"key_point_coverage\": null,\n  \"claims\": [],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 0,
+      "correctness_reason": "The candidate answer contradicts the gold answer by stating that the provided context does not establish the number of times the Mother of the Months bent her bow before the Witch took shape, when in fact the gold answer is 'Ten times'.",
+      "key_point_coverage": null,
+      "claims": [],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 1670,
+      "completion_tokens": 110,
+      "seconds": 2.481838668
+    },
+    "error": null
+  },
+  "F14": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The candidate answer accurately reflects the content of the poem, specifically stanza P22.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"The Ocean-nymphs offered to serve the Witch of Atlas\", \"supported\": true, \"evidence\": [\"P22\"]},\n    {\"text\": \"The Hamadryades offered to serve the Witch of Atlas\", \"supported\": true, \"evidence\": [\"P22\"]}\n  ],\n  \"citation_precision\": 1.0,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The candidate answer accurately reflects the content of the poem, specifically stanza P22.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The Ocean-nymphs offered to serve the Witch of Atlas",
+          "supported": true,
+          "evidence": [
+            "P22"
+          ]
+        },
+        {
+          "text": "The Hamadryades offered to serve the Witch of Atlas",
+          "supported": true,
+          "evidence": [
+            "P22"
+          ]
+        }
+      ],
+      "citation_precision": 1.0,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 2065,
+      "completion_tokens": 147,
+      "seconds": 3.177686823
+    },
+    "error": null
+  },
+  "F22": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The candidate answer accurately describes the material of the Witch's boat as a plant grown by Love, which is consistent with the gold answer.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"The Witch's boat is made from a plant that Love grew\", \"supported\": true, \"evidence\": [\"P28\", \"P29\", \"P30\", \"P31\", \"P32\", \"P33\"]},\n    {\"text\": \"the plant is imbued with swiftness\", \"supported\": true, \"evidence\": [\"P28\", \"P29\", \"P30\", \"P31\", \"P32\", \"P33\"]}\n  ],\n  \"citation_precision\": 1.0,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The candidate answer accurately describes the material of the Witch's boat as a plant grown by Love, which is consistent with the gold answer.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The Witch's boat is made from a plant that Love grew",
+          "supported": true,
+          "evidence": [
+            "P28",
+            "P29",
+            "P30",
+            "P31",
+            "P32",
+            "P33"
+          ]
+        },
+        {
+          "text": "the plant is imbued with swiftness",
+          "supported": true,
+          "evidence": [
+            "P28",
+            "P29",
+            "P30",
+            "P31",
+            "P32",
+            "P33"
+          ]
+        }
+      ],
+      "citation_precision": 1.0,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 2079,
+      "completion_tokens": 196,
+      "seconds": 4.097858611
+    },
+    "error": null
+  },
+  "F28": {
+    "raw": "{\n  \"correctness\": 0,\n  \"correctness_reason\": \"The candidate answer is incomplete and does not provide any information about what the Witch gives to the most beautiful mortals she sees.\",\n  \"key_point_coverage\": null,\n  \"claims\": [],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 0,
+      "correctness_reason": "The candidate answer is incomplete and does not provide any information about what the Witch gives to the most beautiful mortals she sees.",
+      "key_point_coverage": null,
+      "claims": [],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 1658,
+      "completion_tokens": 88,
+      "seconds": 2.078241823
+    },
+    "error": null
+  },
+  "M01": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The candidate answer accurately describes the chain of events involving Vulcan, Apollo, and the Witch in relation to the boat.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"Vulcan made a boat for Venus.\", \"supported\": true, \"evidence\": [\"P31\"]},\n    {\"text\": \"The boat was too feeble for Venus.\", \"supported\": true, \"evidence\": [\"P31\"]},\n    {\"text\": \"Apollo bought the boat from Venus.\", \"supported\": true, \"evidence\": [\"P31\"]},\n    {\"text\": \"Apollo gave the boat to the Witch of Atlas as her daughter.\", \"supported\": true, \"evidence\": [\"P31\"]}\n  ],\n  \"citation_precision\": 1.0,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The candidate answer accurately describes the chain of events involving Vulcan, Apollo, and the Witch in relation to the boat.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "Vulcan made a boat for Venus.",
+          "supported": true,
+          "evidence": [
+            "P31"
+          ]
+        },
+        {
+          "text": "The boat was too feeble for Venus.",
+          "supported": true,
+          "evidence": [
+            "P31"
+          ]
+        },
+        {
+          "text": "Apollo bought the boat from Venus.",
+          "supported": true,
+          "evidence": [
+            "P31"
+          ]
+        },
+        {
+          "text": "Apollo gave the boat to the Witch of Atlas as her daughter.",
+          "supported": true,
+          "evidence": [
+            "P31"
+          ]
+        }
+      ],
+      "citation_precision": 1.0,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 2094,
+      "completion_tokens": 204,
+      "seconds": 4.146801064
+    },
+    "error": null
+  },
+  "M07": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The candidate answer accurately describes the connection between the first-born Love and the Witch's boat, citing relevant stanzas from the poem.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"Love scooped the boat from a plant he grew in his mother's star\", \"supported\": true, \"evidence\": [\"P32\"]},\n    {\"text\": \"Love piloted the boat around the ocean\", \"supported\": true, \"evidence\": [\"P33\"]}\n  ],\n  \"citation_precision\": 1.0,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The candidate answer accurately describes the connection between the first-born Love and the Witch's boat, citing relevant stanzas from the poem.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "Love scooped the boat from a plant he grew in his mother's star",
+          "supported": true,
+          "evidence": [
+            "P32"
+          ]
+        },
+        {
+          "text": "Love piloted the boat around the ocean",
+          "supported": true,
+          "evidence": [
+            "P33"
+          ]
+        }
+      ],
+      "citation_precision": 1.0,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 1996,
+      "completion_tokens": 157,
+      "seconds": 3.377206187
+    },
+    "error": null
+  },
+  "M14": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The candidate answer accurately describes the connection between the Witch's boat and Venus's chariot, including the involvement of Vulcan and Apollo.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"Venus had a boat that was sold by Vulcan\", \"supported\": true, \"evidence\": [\"P31\"]},\n    {\"text\": \"Apollo bought the boat from Venus\", \"supported\": true, \"evidence\": [\"P31\"]},\n    {\"text\": \"Apollo gave the boat to the Witch of Atlas as her daughter\", \"supported\": true, \"evidence\": [\"P31\"]}\n  ],\n  \"citation_precision\": 1.0,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The candidate answer accurately describes the connection between the Witch's boat and Venus's chariot, including the involvement of Vulcan and Apollo.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "Venus had a boat that was sold by Vulcan",
+          "supported": true,
+          "evidence": [
+            "P31"
+          ]
+        },
+        {
+          "text": "Apollo bought the boat from Venus",
+          "supported": true,
+          "evidence": [
+            "P31"
+          ]
+        },
+        {
+          "text": "Apollo gave the boat to the Witch of Atlas as her daughter",
+          "supported": true,
+          "evidence": [
+            "P31"
+          ]
+        }
+      ],
+      "citation_precision": 1.0,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 2101,
+      "completion_tokens": 181,
+      "seconds": 3.85213
+    },
+    "error": null
+  },
+  "M21": {
+    "raw": "{\n  \"correctness\": 0,\n  \"correctness_reason\": \"The candidate answer contradicts the poem by stating that the context does not establish the location of the Witch's haven.\",\n  \"key_point_coverage\": null,\n  \"claims\": [],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 0,
+      "correctness_reason": "The candidate answer contradicts the poem by stating that the context does not establish the location of the Witch's haven.",
+      "key_point_coverage": null,
+      "claims": [],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 1666,
+      "completion_tokens": 86,
+      "seconds": 2.062581093
+    },
+    "error": null
+  },
+  "M25": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The candidate answer accurately captures the idea that the poem ends by deferring further tales of the Witch due to her aging and waning power, as suggested in stanza P39.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"The Witch is described as an aging and waning figure who is losing her power\", \"supported\": true, \"evidence\": [\"P39\"]},\n    {\"text\": \"The poem ends by deferring further tales of the Witch\", \"supported\": true, \"evidence\": []}\n  ],\n  \"citation_precision\": 1,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The candidate answer accurately captures the idea that the poem ends by deferring further tales of the Witch due to her aging and waning power, as suggested in stanza P39.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The Witch is described as an aging and waning figure who is losing her power",
+          "supported": true,
+          "evidence": [
+            "P39"
+          ]
+        },
+        {
+          "text": "The poem ends by deferring further tales of the Witch",
+          "supported": true,
+          "evidence": []
+        }
+      ],
+      "citation_precision": 1,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 1824,
+      "completion_tokens": 165,
+      "seconds": 3.337407273
+    },
+    "error": null
+  },
+  "T01": {
+    "raw": "{\n  \"correctness\": 0,\n  \"correctness_reason\": \"The candidate answer is a refusal to answer the question, which is not acceptable.\",\n  \"key_point_coverage\": null,\n  \"claims\": [],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 0,
+      "correctness_reason": "The candidate answer is a refusal to answer the question, which is not acceptable.",
+      "key_point_coverage": null,
+      "claims": [],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 1764,
+      "completion_tokens": 79,
+      "seconds": 1.902097196
+    },
+    "error": null
+  },
+  "T06": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The candidate answer accurately describes the Witch of Atlas' observation of dreams and sleep in the poem.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"The Witch of Atlas observes various dreamers.\", \"supported\": true, \"evidence\": [\"P61\", \"P62\", \"P63\", \"P64\"]},\n    {\"text\": \"She observes the dead, peasants, two lovers, princes, and two sister twins.\", \"supported\": true, \"evidence\": [\"P61\", \"P62\", \"P63\", \"P64\"]}\n  ],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The candidate answer accurately describes the Witch of Atlas' observation of dreams and sleep in the poem.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The Witch of Atlas observes various dreamers.",
+          "supported": true,
+          "evidence": [
+            "P61",
+            "P62",
+            "P63",
+            "P64"
+          ]
+        },
+        {
+          "text": "She observes the dead, peasants, two lovers, princes, and two sister twins.",
+          "supported": true,
+          "evidence": [
+            "P61",
+            "P62",
+            "P63",
+            "P64"
+          ]
+        }
+      ],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 2143,
+      "completion_tokens": 171,
+      "seconds": 3.594069899
+    },
+    "error": null
+  },
+  "T12": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The candidate answer correctly identifies the use of classical mythology in the poem, mentioning specific figures and allusions to magical practices.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"The poem uses classical mythology by incorporating figures such as Venus, who is associated with a boat\", \"supported\": true, \"evidence\": [\"P28, P29, P30, P31, P32, P33\"]},\n    {\"text\": \"references to nymphs like Naiads and Oreads\", \"supported\": false, \"evidence\": []},\n    {\"text\": \"the God Apis, a deity from ancient Egyptian religion\", \"supported\": true, \"evidence\": [\"P57-P59, P73\"]},\n    {\"text\": \"alludes to the power of charms and potions, reminiscent of magical practices in Greek and Roman mythologies\", \"supported\": false, \"evidence\": []}\n  ],\n  \"citation_precision\": 1,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The candidate answer correctly identifies the use of classical mythology in the poem, mentioning specific figures and allusions to magical practices.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The poem uses classical mythology by incorporating figures such as Venus, who is associated with a boat",
+          "supported": true,
+          "evidence": [
+            "P28, P29, P30, P31, P32, P33"
+          ]
+        },
+        {
+          "text": "references to nymphs like Naiads and Oreads",
+          "supported": false,
+          "evidence": []
+        },
+        {
+          "text": "the God Apis, a deity from ancient Egyptian religion",
+          "supported": true,
+          "evidence": [
+            "P57-P59, P73"
+          ]
+        },
+        {
+          "text": "alludes to the power of charms and potions, reminiscent of magical practices in Greek and Roman mythologies",
+          "supported": false,
+          "evidence": []
+        }
+      ],
+      "citation_precision": 1,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 2283,
+      "completion_tokens": 244,
+      "seconds": 4.955325738
+    },
+    "error": null
+  },
+  "T19": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The candidate answer accurately describes the role of the subtle veil in the poem, highlighting its dual function as a means of concealment and beauty. The answer also correctly cites relevant stanzas to support its claims.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"The Witch uses three threads of fleecy mist and light, along with star-beams, to weave the subtle veil.\", \"supported\": true, \"evidence\": [\"P13\"]},\n    {\"text\": \"The veil is associated with her splendour and love.\", \"supported\": true, \"evidence\": [\"P13\"]},\n    {\"text\": \"The veil conceals the beauty of the spirits she creates.\", \"supported\": true, \"evidence\": [\"P64\", \"P65\", \"P66\", \"P67\"]},\n    {\"text\": \"The spirits are compared to ladies wearing veils to conceal their beauty.\", \"supported\": true, \"evidence\": [\"P64\", \"P65\", \"P66\", \"P67\"]}\n  ],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The candidate answer accurately describes the role of the subtle veil in the poem, highlighting its dual function as a means of concealment and beauty. The answer also correctly cites relevant stanzas to support its claims.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The Witch uses three threads of fleecy mist and light, along with star-beams, to weave the subtle veil.",
+          "supported": true,
+          "evidence": [
+            "P13"
+          ]
+        },
+        {
+          "text": "The veil is associated with her splendour and love.",
+          "supported": true,
+          "evidence": [
+            "P13"
+          ]
+        },
+        {
+          "text": "The veil conceals the beauty of the spirits she creates.",
+          "supported": true,
+          "evidence": [
+            "P64",
+            "P65",
+            "P66",
+            "P67"
+          ]
+        },
+        {
+          "text": "The spirits are compared to ladies wearing veils to conceal their beauty.",
+          "supported": true,
+          "evidence": [
+            "P64",
+            "P65",
+            "P66",
+            "P67"
+          ]
+        }
+      ],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 2363,
+      "completion_tokens": 269,
+      "seconds": 5.435363331
+    },
+    "error": null
+  },
+  "T25": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The candidate answer accurately captures the Witch of Atlas's role as a central character who weaves together different realms and beings, and how this portrayal frames the poem's own storytelling.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"The Witch of Atlas is a powerful and mysterious figure.\", \"supported\": true, \"evidence\": [\"P70\", \"P71\", \"P72\", \"P73\"]},\n    {\"text\": \"She can influence and observe various aspects of the world.\", \"supported\": true, \"evidence\": [\"P70\", \"P71\", \"P72\", \"P73\"]},\n    {\"text\": \"The Witch's narrative is itself a story within a larger narrative.\", \"supported\": true, \"evidence\": [\"P70\", \"P71\", \"P72\", \"P73\"]},\n    {\"text\": \"She weaves together different realms and beings.\", \"supported\": true, \"evidence\": [\"P70\", \"P71\", \"P72\", \"P73\"]}\n  ],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The candidate answer accurately captures the Witch of Atlas's role as a central character who weaves together different realms and beings, and how this portrayal frames the poem's own storytelling.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The Witch of Atlas is a powerful and mysterious figure.",
+          "supported": true,
+          "evidence": [
+            "P70",
+            "P71",
+            "P72",
+            "P73"
+          ]
+        },
+        {
+          "text": "She can influence and observe various aspects of the world.",
+          "supported": true,
+          "evidence": [
+            "P70",
+            "P71",
+            "P72",
+            "P73"
+          ]
+        },
+        {
+          "text": "The Witch's narrative is itself a story within a larger narrative.",
+          "supported": true,
+          "evidence": [
+            "P70",
+            "P71",
+            "P72",
+            "P73"
+          ]
+        },
+        {
+          "text": "She weaves together different realms and beings.",
+          "supported": true,
+          "evidence": [
+            "P70",
+            "P71",
+            "P72",
+            "P73"
+          ]
+        }
+      ],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 2319,
+      "completion_tokens": 267,
+      "seconds": 5.384423809
+    },
+    "error": null
+  },
+  "Q01": {
+    "raw": "{\n  \"correctness\": 0,\n  \"correctness_reason\": \"The candidate answer is a refusal to answer the question, which is not acceptable.\",\n  \"key_point_coverage\": null,\n  \"claims\": [],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 0,
+      "correctness_reason": "The candidate answer is a refusal to answer the question, which is not acceptable.",
+      "key_point_coverage": null,
+      "claims": [],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 1668,
+      "completion_tokens": 79,
+      "seconds": 1.923730138
+    },
+    "error": null
+  },
+  "Q06": {
+    "raw": "{\n  \"correctness\": 0,\n  \"correctness_reason\": \"The candidate answer states that the context does not establish the chronological order of events, which is correct. However, it does not provide any information about the actual order of events, making it an incomplete and incorrect answer.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\n      \"text\": \"The stanzas mentioning the boat and Hermaphroditus do not specify a chronological order of events.\",\n      \"supported\": true,\n      \"evidence\": [\"P37\", \"P40\"]\n    }\n  ],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 0,
+      "correctness_reason": "The candidate answer states that the context does not establish the chronological order of events, which is correct. However, it does not provide any information about the actual order of events, making it an incomplete and incorrect answer.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "The stanzas mentioning the boat and Hermaphroditus do not specify a chronological order of events.",
+          "supported": true,
+          "evidence": [
+            "P37",
+            "P40"
+          ]
+        }
+      ],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 1908,
+      "completion_tokens": 158,
+      "seconds": 3.298857419
+    },
+    "error": null
+  },
+  "Q12": {
+    "raw": "{\n  \"correctness\": 0,\n  \"correctness_reason\": \"The candidate answer contradicts the gold answer and the retrieved context does not provide any information to support it.\",\n  \"key_point_coverage\": null,\n  \"claims\": [],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The candidate answer is incomplete and does not address the question.\"\n}",
+    "parsed": {
+      "correctness": 0,
+      "correctness_reason": "The candidate answer contradicts the gold answer and the retrieved context does not provide any information to support it.",
+      "key_point_coverage": null,
+      "claims": [],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The candidate answer is incomplete and does not address the question."
+    },
+    "usage": {
+      "prompt_tokens": 1700,
+      "completion_tokens": 96,
+      "seconds": 2.172130215
+    },
+    "error": null
+  },
+  "Q17": {
+    "raw": "{\n  \"correctness\": 0,\n  \"correctness_reason\": \"The candidate answer states that the context does not establish the order of the Witch's interventions, which is correct. However, this is not an answer to the question, but rather a statement about the lack of information in the context.\",\n  \"key_point_coverage\": null,\n  \"claims\": [],\n  \"citation_precision\": null,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"The candidate answer does not provide an actual answer to the question, but rather a statement about the lack of information in the context.\"\n}",
+    "parsed": {
+      "correctness": 0,
+      "correctness_reason": "The candidate answer states that the context does not establish the order of the Witch's interventions, which is correct. However, this is not an answer to the question, but rather a statement about the lack of information in the context.",
+      "key_point_coverage": null,
+      "claims": [],
+      "citation_precision": null,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": "The candidate answer does not provide an actual answer to the question, but rather a statement about the lack of information in the context."
+    },
+    "usage": {
+      "prompt_tokens": 1756,
+      "completion_tokens": 135,
+      "seconds": 2.872110239
+    },
+    "error": null
+  },
+  "Q20": {
+    "raw": "{\n  \"correctness\": 2,\n  \"correctness_reason\": \"The candidate answer correctly states that Wordsworth took nineteen years to complete Peter Bell, and accurately cites stanza P1. The only inaccuracy is the statement about the Witch's dressing process, which is not supported by the provided context.\",\n  \"key_point_coverage\": null,\n  \"claims\": [\n    {\"text\": \"Wordsworth took nineteen years to complete Peter Bell\", \"supported\": true, \"evidence\": [\"P1\"]},\n    {\"text\": \"The Witch took unspecified time to dress\", \"supported\": false, \"evidence\": [\"P1\"]}\n  ],\n  \"citation_precision\": 1.0,\n  \"order_results\": [],\n  \"sequence_correct\": null,\n  \"duration_correct\": null,\n  \"notes\": \"\"\n}",
+    "parsed": {
+      "correctness": 2,
+      "correctness_reason": "The candidate answer correctly states that Wordsworth took nineteen years to complete Peter Bell, and accurately cites stanza P1. The only inaccuracy is the statement about the Witch's dressing process, which is not supported by the provided context.",
+      "key_point_coverage": null,
+      "claims": [
+        {
+          "text": "Wordsworth took nineteen years to complete Peter Bell",
+          "supported": true,
+          "evidence": [
+            "P1"
+          ]
+        },
+        {
+          "text": "The Witch took unspecified time to dress",
+          "supported": false,
+          "evidence": [
+            "P1"
+          ]
+        }
+      ],
+      "citation_precision": 1.0,
+      "order_results": [],
+      "sequence_correct": null,
+      "duration_correct": null,
+      "notes": ""
+    },
+    "usage": {
+      "prompt_tokens": 1787,
+      "completion_tokens": 169,
+      "seconds": 3.455247441
+    },
+    "error": null
+  }
+}
